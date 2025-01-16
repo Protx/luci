@@ -1,20 +1,14 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-06-20 14:47+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationslxc/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:18
 msgid ""
-"<b>Please note:</b> LXC Containers require features not available on OpenWrt "
-"images for devices with small flash.<br />"
+"<b>Please note:</b> LXC Containers require features not available on OpenWrt"
+" images for devices with small flash.<br />"
 msgstr ""
+"<b>Merk:</b> LXC-beholdere krever funksjoner som ikke er tilgjengelige på "
+"OpenWrt-bilder for enheter med liten blits.<br />"
 
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:29
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:47
@@ -24,6 +18,7 @@ msgstr "Handlinger"
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:19
 msgid "Also you may want to install 'kmod-veth' for optional network support."
 msgstr ""
+"Det kan også være lurt å installere 'kmod-veth' for valgfri nettverksstøtte."
 
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:23
 msgid "Available Containers"
@@ -31,11 +26,11 @@ msgstr "Tilgjengelige beholdere"
 
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:25
 msgid "Containers URL"
-msgstr "Beholder-nettadresse"
+msgstr "Beholderens URL"
 
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:53
 msgid "Create"
-msgstr "Opprett"
+msgstr "Skape"
 
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:41
 msgid "Create New Container"
@@ -51,15 +46,15 @@ msgstr "Skriv inn nytt navn"
 
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:31
 msgid "Free Space Threshold"
-msgstr ""
+msgstr "Terskel for ledig plass"
 
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:37
 msgid "Free Temp Threshold"
-msgstr ""
+msgstr "Fritemperaturterskel"
 
 #: applications/luci-app-lxc/root/usr/share/rpcd/acl.d/luci-app-lxc.json:3
 msgid "Grant UCI access for luci-app-lxc"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-lxc"
 
 #: applications/luci-app-lxc/luasrc/controller/lxc.lua:31
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:17
@@ -68,15 +63,16 @@ msgstr "LXC-beholdere"
 
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:72
 msgid "Loading"
-msgstr "Laster inn"
+msgstr "Laster"
 
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:32
 msgid "Minimum required free space for LXC Container creation in KB"
-msgstr ""
+msgstr "Minimum nødvendig ledig plass for oppretting av LXC Container i KB"
 
 #: applications/luci-app-lxc/luasrc/model/cbi/lxc.lua:38
 msgid "Minimum required free temp space for LXC Container creation in KB"
 msgstr ""
+"Minimum nødvendig ledig midlertidig plass for LXC Container-oppretting i KB"
 
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:27
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:45
@@ -102,6 +98,3 @@ msgstr "Stopp"
 #: applications/luci-app-lxc/luasrc/view/lxc.htm:46
 msgid "Template"
 msgstr "Mal"
-
-#~ msgid "Enable SSL"
-#~ msgstr "Skru på SSL"

@@ -1,31 +1,25 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-01-01 08:05+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsupnp/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:180
 msgctxt ""
-"A 900s interval will result in %s (%s = SSDP) notifications with the minimum "
-"max-age of 1800s"
+"A 900s interval will result in %s (%s = SSDP) notifications with the minimum"
+" max-age of 1800s"
 msgid ""
 "A 900s interval will result in %s notifications with the minimum max-age of "
 "1800s"
 msgstr ""
+"Et 900-talls intervall vil resultere i %s varsler med minimum maks-alder på "
+"1800s"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:216
 msgid ""
 "ACL specify which client addresses and ports can be mapped, IPv6 always "
 "allowed."
 msgstr ""
-"ACL angir hvilke eksterne porter som kan bli viderekoblet, og til hvilke "
-"interne adresser og porter, IPv6 always allowed."
+"ACL spesifiserer hvilke klientadresser og porter som kan tilordnes, IPv6 "
+"alltid tillatt."
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:235
 msgid "Action"
@@ -33,11 +27,11 @@ msgstr "Handling"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:129
 msgid "Active Service Port Maps"
-msgstr "Aktive Viderekoblinger"
+msgstr "Aktive tjenesteportkart"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:29
 msgid "Active UPnP IGD & PCP/NAT-PMP Port Maps"
-msgstr ""
+msgstr "Aktive UPnP IGD- og PCP/NAT-PMP-portkart"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:135
 msgid "Advanced Settings"
@@ -45,15 +39,15 @@ msgstr "Avanserte innstillinger"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:148
 msgid "Advertise as IGDv1 (IPv4 only) device instead of IGDv2"
-msgstr "Annonser som IGDv1-enhet istedenfor IGDv2"
+msgstr "Annonser som IGDv1-enhet (kun IPv4) i stedet for IGDv2"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:236
 msgid "Allow"
-msgstr ""
+msgstr "Tillate"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:175
 msgid "Allow adding port maps for requesting IP addresses only"
-msgstr "Tillat videkobling kun til IP adresser som ber om det"
+msgstr "Tillat å legge til portkart kun for forespørsel om IP-adresser"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:199
 msgid "Announced model number"
@@ -67,18 +61,18 @@ msgstr "Annonsert serienummer"
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:99
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:223
 msgid "Client Address"
-msgstr "Klient adresse"
+msgstr "Kundeadresse"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:40
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:98
 msgid "Client Name"
-msgstr ""
+msgstr "Kundens navn"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:42
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:100
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:227
 msgid "Client Port"
-msgstr "Klient port"
+msgstr "Klientport"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:221
 msgid "Comment"
@@ -92,7 +86,7 @@ msgstr "Slett"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:237
 msgid "Deny"
-msgstr ""
+msgstr "Benekte"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:46
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:104
@@ -101,23 +95,23 @@ msgstr "Beskrivelse"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:196
 msgid "Device UUID"
-msgstr "Enhet UUID"
+msgstr "Enhets-UUID"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:153
 msgid "Download speed"
-msgstr "Nedlinje"
+msgstr "Nedlastingshastighet"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:144
 msgid "Enable PCP/NAT-PMP protocols"
-msgstr ""
+msgstr "Aktiver PCP/NAT-PMP-protokoller"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:141
 msgid "Enable UPnP IGD protocol"
-msgstr ""
+msgstr "Aktiver UPnP IGD-protokoll"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:209
 msgid "Enable additional logging"
-msgstr "Aktiver tilleggs logging"
+msgstr "Aktiver ytterligere logging"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:174
 msgid "Enable secure mode"
@@ -126,7 +120,7 @@ msgstr "Aktiver sikker modus"
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:45
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:103
 msgid "Expires"
-msgstr ""
+msgstr "Utløper"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:43
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:101
@@ -136,15 +130,15 @@ msgstr "Ekstern port"
 
 #: applications/luci-app-upnp/root/usr/share/rpcd/acl.d/luci-app-upnp.json:3
 msgid "Grant access to UPnP IGD & PCP/NAT-PMP"
-msgstr ""
+msgstr "Gi tilgang til UPnP IGD og PCP/NAT-PMP"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:179
 msgid "Notify interval"
-msgstr "Informasjons intervall"
+msgstr "Varslingsintervall"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:191
 msgid "Presentation URL"
-msgstr "Presentasjon URL"
+msgstr "Presentasjons-URL"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:44
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:102
@@ -153,93 +147,95 @@ msgstr "Protokoll"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:210
 msgid "Puts extra debugging information into the system log"
-msgstr "Setter ekstra debugging informasjon i systemloggen"
+msgstr "Legger ekstra feilsøkingsinformasjon inn i systemloggen"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:192
 msgid "Report custom router web interface (presentation) URL"
-msgstr ""
+msgstr "Rapporter egendefinert ruterens webgrensesnitt (presentasjon) URL"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:154
 msgid "Report maximum download speed in kByte/s"
-msgstr ""
+msgstr "Rapporter maksimal nedlastingshastighet i kByte/s"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:158
 msgid "Report maximum upload speed in kByte/s"
-msgstr ""
+msgstr "Rapporter maksimal opplastingshastighet i kByte/s"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:205
 msgid "Report system instead of service uptime"
-msgstr "Rapporter systemets oppetid istedenfor daemon oppetid"
+msgstr "Rapporteringssystem i stedet for tjenesteoppetid"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:186
 msgid "SOAP/HTTP port"
-msgstr "SOAP/HTTP port"
+msgstr "SOAP/HTTP-port"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:165
 msgid "STUN host"
-msgstr "STUN-vert"
+msgstr "STUN vert"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:169
 msgid "STUN port"
-msgstr "STUN-port"
+msgstr "STUN port"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:215
 msgid "Service Access Control List"
-msgstr ""
+msgstr "Tjenestetilgangskontrollliste"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:132
 msgid "Service Settings"
-msgstr ""
+msgstr "Tjenesteinnstillinger"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:134
 msgid "Service Setup"
-msgstr "Generelle innstillinger"
+msgstr "Serviceoppsett"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:212
 msgid "Service lease file"
-msgstr ""
+msgstr "Tjenesteleiefil"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:138
 msgid "Start autonomous port mapping service"
-msgstr ""
+msgstr "Start autonom portkarttjeneste"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:137
 msgid "Start service"
-msgstr ""
+msgstr "Start tjenesten"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:88
 msgctxt ""
 "The %s (%s = UPnP IGD & PCP/NAT-PMP) protocols allow clients on the local "
 "network to configure port maps/forwards on the router autonomously."
 msgid ""
-"The %s protocols allow clients on the local network to configure port maps/"
-"forwards on the router autonomously."
+"The %s protocols allow clients on the local network to configure port "
+"maps/forwards on the router autonomously."
 msgstr ""
-"%s gjør at klientene i det lokale nettverket automatisk kan konfigurere "
-"ruteren."
+"%s-protokollene lar klienter på det lokale nettverket konfigurere "
+"portkart/forwards på ruteren autonomt."
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:80
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:76
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:126
 msgid "There are no active port maps."
-msgstr "Det finnes ingen aktive viderekoblinger"
+msgstr "Det er ingen aktive havnekart."
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:163
 msgid ""
 "To detect the public IPv4 address for unrestricted full-cone/one-to-one NATs"
 msgstr ""
+"For å oppdage den offentlige IPv4-adressen for ubegrensede full-kjegle/en-"
+"til-en NAT-er"
 
 #: applications/luci-app-upnp/root/usr/share/luci/menu.d/luci-app-upnp.json:3
 msgid "UPnP IGD & PCP"
-msgstr "UPnP IGD & PCP"
+msgstr "UPnP IGD og PCP"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:87
 msgid "UPnP IGD & PCP/NAT-PMP Service"
-msgstr "UPnP IGD & PCP/NAT-PMP Service"
+msgstr "UPnP IGD- og PCP/NAT-PMP-tjeneste"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:147
 msgid "UPnP IGDv1 compatibility mode"
-msgstr "Skru på UPnP IGDv1-modus"
+msgstr "UPnP IGDv1-kompatibilitetsmodus"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/status/include/80_upnp.js:66
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:62
@@ -249,7 +245,7 @@ msgstr "Ukjent"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:157
 msgid "Upload speed"
-msgstr "Opplinje"
+msgstr "Opplastingshastighet"
 
 #: applications/luci-app-upnp/htdocs/luci-static/resources/view/upnp/upnp.js:161
 msgctxt "Use %s (%s = STUN)"

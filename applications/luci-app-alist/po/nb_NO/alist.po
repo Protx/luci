@@ -1,76 +1,71 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsalist/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:67
 msgid ""
 "A file list/WebDAV program that supports multiple storages, powered by Gin "
 "and Solidjs."
 msgstr ""
+"En filliste/WebDAV-program som støtter flere lagringer, drevet av Gin og "
+"Solidjs."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:34
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:36
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:66
 #: applications/luci-app-alist/root/usr/share/luci/menu.d/luci-app-alist.json:3
 msgid "AList"
-msgstr ""
+msgstr "AList"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:119
 msgid ""
 "Allow connection even if the remote TLS certificate is invalid (<strong>not "
 "recommended</strong>)."
 msgstr ""
+"Tillat tilkobling selv om det eksterne TLS-sertifikatet er ugyldig "
+"(<strong>anbefales ikke</strong>)."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:118
 msgid "Allow insecure connection"
-msgstr ""
+msgstr "Tillat usikker tilkobling"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:81
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/log.js:32
 msgid "Collecting data..."
-msgstr ""
+msgstr "Samler inn data..."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:68
 msgid "Default webUI/WebDAV login username is %s and password is %s."
 msgstr ""
+"Standard brukernavn for webUI/WebDAV-pålogging er %s og passordet er %s."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:87
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:121
 msgid "Enable logging"
-msgstr ""
+msgstr "Aktiver logging"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:99
 msgid "Expecting: %s"
-msgstr ""
+msgstr "Forventer: %s"
 
 #: applications/luci-app-alist/root/usr/share/rpcd/acl.d/luci-app-alist.json:3
 msgid "Grant UCI access for luci-app-alist"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-alist"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:91
 msgid "Listen address"
-msgstr ""
+msgstr "Hør adresse"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:104
 msgid "Listen port"
-msgstr ""
+msgstr "Lytt port"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/log.js:30
 msgid "Loading..."
-msgstr ""
+msgstr "Laster inn..."
 
 #: applications/luci-app-alist/root/usr/share/luci/menu.d/luci-app-alist.json:21
 msgid "Log"
@@ -78,69 +73,70 @@ msgstr "Logg"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/log.js:48
 msgid "Log file does not exist."
-msgstr "Loggfilen finnes ikke."
+msgstr "Loggfilen eksisterer ikke."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/log.js:39
 msgid "Log is empty."
-msgstr ""
+msgstr "Loggen er tom."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:108
 msgid "Login expiration time"
-msgstr ""
+msgstr "Pålogging utløpstid"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:113
 msgid "Max connections"
-msgstr ""
+msgstr "Maks tilkoblinger"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:136
 msgid "Max log age"
-msgstr ""
+msgstr "Maks loggalder"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:130
 msgid "Max log backups"
-msgstr ""
+msgstr "Maks sikkerhetskopiering av logg"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:124
 msgid "Max log size"
-msgstr ""
+msgstr "Maks stokkstørrelse"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:36
 msgid "NOT RUNNING"
-msgstr "Kjører ikke"
+msgstr "KJØRER IKKE"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:33
 msgid "Open Web Interface"
-msgstr "Åpne vev-grensesnitt"
+msgstr "Åpne webgrensesnitt"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:34
 msgid "RUNNING"
-msgstr "Kjører"
+msgstr "KJØRER"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/log.js:65
 msgid "Refresh every %s seconds."
-msgstr ""
+msgstr "Oppdater hvert %s sekund."
 
 #: applications/luci-app-alist/root/usr/share/luci/menu.d/luci-app-alist.json:13
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:137
 msgid "The maximum days of the log file to retain."
-msgstr ""
+msgstr "Maksimalt antall dager for loggfilen å beholde."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:114
 msgid ""
 "The maximum number of concurrent connections at the same time (0 = "
 "unlimited)."
 msgstr ""
+"Maksimalt antall samtidige tilkoblinger på samme tid (0 = ubegrenset)."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:131
 msgid "The maximum number of old log files to retain."
-msgstr ""
+msgstr "Maksimalt antall gamle loggfiler å beholde."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:125
 msgid "The maximum size in megabytes of the log file before it gets rotated."
-msgstr ""
+msgstr "Maksimal størrelse i megabyte av loggfilen før den blir rotert."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/log.js:52
 msgid "Unknown error: %s"
@@ -148,8 +144,8 @@ msgstr "Ukjent feil: %s"
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:109
 msgid "User login expiration time (in hours)."
-msgstr ""
+msgstr "Utløpstid for brukerpålogging (i timer)."
 
 #: applications/luci-app-alist/htdocs/luci-static/resources/view/alist/config.js:99
 msgid "valid IP address"
-msgstr ""
+msgstr "gyldig IP-adresse"

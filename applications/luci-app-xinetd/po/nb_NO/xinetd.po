@@ -1,34 +1,26 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-05 10:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsxinetd/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:72
 msgid "Access Control"
-msgstr ""
+msgstr "Tilgangskontroll"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:244
 msgid "Access times"
-msgstr ""
+msgstr "Tilgangstider"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:37
 msgid "Add new service entry"
-msgstr ""
+msgstr "Legg til ny tjenesteoppføring"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:186
 msgid ""
 "Additional arguments passed to the server. There is no validation of this "
 "input."
 msgstr ""
+"Ytterligere argumenter sendt til serveren. Det er ingen validering av denne "
+"inngangen."
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:71
 msgid "Advanced Settings"
@@ -36,301 +28,306 @@ msgstr "Avanserte innstillinger"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:219
 msgid "Allowed hosts"
-msgstr ""
+msgstr "Tillatte verter"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:70
 msgid "Basic Settings"
-msgstr ""
+msgstr "Grunnleggende innstillinger"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:108
 msgid "Bind address"
-msgstr ""
+msgstr "Bind adresse"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:166
 msgid "Complete path to the executable server file"
-msgstr ""
+msgstr "Fullfør banen til den kjørbare serverfilen"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:234
 msgid "Connection limit"
-msgstr ""
+msgstr "Tilkoblingsgrense"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:208
 msgid "Duration of a service session"
-msgstr ""
+msgstr "Varighet av en tjenesteøkt"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:87
 msgid "Enable or Disable this service"
-msgstr ""
+msgstr "Aktiver eller deaktiver denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:64
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:87
 msgid "Enabled"
-msgstr "Påskrudd"
+msgstr "Aktivert"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:241
 msgid "Expected '[Number] [Number]'"
-msgstr ""
+msgstr "Forventet \"[Number] [Number]\""
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:250
 msgid "Expected 'hh:mm-hh:mm'"
-msgstr ""
+msgstr "Forventet 'hh:mm-hh:mm'"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:15
 msgid "Expecting: non-empty value"
-msgstr ""
+msgstr "Forventer: ikke-tom verdi"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:215
 msgid "Failed attempts"
-msgstr ""
+msgstr "Mislykkede forsøk"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:224
 msgid "Forbidden hosts"
-msgstr ""
+msgstr "Forbudte verter"
 
 #: applications/luci-app-xinetd/root/usr/share/rpcd/acl.d/luci-app-xinetd.json:3
 msgid "Grant access to luci-app-xinetd"
-msgstr ""
+msgstr "Gi tilgang til luci-app-xinetd"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:30
 msgid "Here you can configure Xinetd services"
-msgstr ""
+msgstr "Her kan du konfigurere Xinetd-tjenester"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:103
 msgid "INTERNAL"
-msgstr ""
+msgstr "INNVENDIG"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:55
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:94
 msgid "IPv6"
-msgstr ""
+msgstr "IPv6"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:126
 msgid "Identification"
-msgstr ""
+msgstr "Identifikasjon"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:84
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:137
 msgid "Invalid character"
-msgstr ""
+msgstr "Ugyldig tegn"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:219
 msgid "List of allowed hosts to access this service"
-msgstr ""
+msgstr "Liste over tillatte verter for å få tilgang til denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:224
 msgid "List of forbidden hosts to access this service"
-msgstr ""
+msgstr "Liste over forbudte verter for å få tilgang til denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:94
 msgid "Listen on IPv6 additional"
-msgstr ""
+msgstr "Lytt på IPv6 i tillegg"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:212
 msgid "Log on failure"
-msgstr ""
+msgstr "Påloggingsfeil"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:203
 msgid "Log on success"
-msgstr ""
+msgstr "Logg på suksess"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:199
 msgid "Multi-Threaded Service"
-msgstr ""
+msgstr "Flertrådstjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:77
 msgid "Name for the service, if INTERNAL from /etc/services"
-msgstr ""
+msgstr "Navn på tjenesten, hvis INTERN fra /etc/services"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:229
 msgid "Number of instances"
-msgstr ""
+msgstr "Antall forekomster"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:229
 msgid ""
 "Number of simultaneously running servers for this service. Argument is any "
 "number or the keyword 'UNLIMITED'"
 msgstr ""
+"Antall servere som kjører samtidig for denne tjenesten. Argumentet er et "
+"hvilket som helst tall eller søkeordet UBEGRENSET"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:46
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:140
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:43
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:146
 msgid "Protocol"
-msgstr ""
+msgstr "Protokoll"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:61
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:162
 msgid "Redirect"
-msgstr ""
+msgstr "Omdirigere"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:162
 msgid "Redirect incoming TCP requests to this IP address:port."
-msgstr ""
+msgstr "Omdiriger innkommende TCP-forespørsler til denne IP-adresse:port."
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:205
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:213
 msgid "Remote host address"
-msgstr ""
+msgstr "Ekstern vertsadresse"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:126
 msgid "Required if a services can use tcp and udp."
-msgstr ""
+msgstr "Påkrevd hvis en tjeneste kan bruke tcp og udp."
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:196
 msgid "Selection of the threading for this service"
-msgstr ""
+msgstr "Valg av tråd for denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:52
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:166
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:204
 msgid "Server PID"
-msgstr ""
+msgstr "Server PID"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:186
 msgid "Server arguments"
-msgstr ""
+msgstr "Serverargumenter"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:207
 msgid "Server exited along with the exit status"
-msgstr ""
+msgstr "Serveren ble avsluttet sammen med utgangsstatusen"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:178
 msgid "Service \"%s\": Invalid server file \"%s\""
-msgstr ""
+msgstr "Tjenesten \"%s\": Ugyldig serverfil \"%s\""
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:181
 msgid "Service \"%s\": No access to server file \"%s\" (%s)"
-msgstr ""
+msgstr "Tjenesten \"%s\": Ingen tilgang til serverfilen \"%s\" (%s)"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:33
 msgid "Service definitions to be used by Xinetd"
-msgstr ""
+msgstr "Tjenestedefinisjoner som skal brukes av Xinetd"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:40
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:77
 msgid "Servicename"
-msgstr ""
+msgstr "Tjenestenavn"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:198
 msgid "Single-Threaded Service"
-msgstr ""
+msgstr "Enkeltrådstjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:153
 msgid "Socket type"
-msgstr ""
+msgstr "Sokkeltype"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:148
 msgid "TCP"
-msgstr ""
+msgstr "TCP"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:234
 msgid ""
 "Takes two arguments: [Number of connections per second] [Number of seconds "
 "to reenable service]"
 msgstr ""
+"Tar to argumenter: [Antall tilkoblinger per sekund] [Antall sekunder for å "
+"aktivere tjenesten på nytt]"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:140
 msgid "The port used for this service, valid range: 0 - 65535"
-msgstr ""
+msgstr "Porten som brukes for denne tjenesten, gyldig område: 0 - 65535"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:146
 msgid "The protocol to be used for this service"
-msgstr ""
+msgstr "Protokollen som skal brukes for denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:153
 msgid "The type of the socket used for this service"
-msgstr ""
+msgstr "Typen av stikkontakten som brukes for denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:196
 msgid "Threading behaviour"
-msgstr ""
+msgstr "Trådeatferd"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:244
 msgid "Time intervals within service is available (Format hh:mm-hh:mm)"
 msgstr ""
+"Tidsintervaller innenfor tjenesten er tilgjengelig (Format tt:mm-tt:mm)"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:108
 msgid "To which address to bind"
-msgstr ""
+msgstr "Til hvilken adresse du skal binde"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:209
 msgid "Total bytes in and out for a redirected service"
-msgstr ""
+msgstr "Totalt antall byte inn og ut for en omdirigert tjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:49
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:101
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:101
 msgid "Type of service"
-msgstr ""
+msgstr "Type tjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:149
 msgid "UDP"
-msgstr ""
+msgstr "UDP"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:104
 msgid "UNLISTED"
-msgstr ""
+msgstr "IKKE OPPFØRT"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:192
 msgid "User (UID)"
-msgstr ""
+msgstr "Bruker (UID)"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:192
 msgid "User ID for the server process for this service"
-msgstr ""
+msgstr "Bruker-ID for serverprosessen for denne tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:206
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:214
 msgid "User ID of the remote user"
-msgstr ""
+msgstr "Bruker-ID for den eksterne brukeren"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:212
 msgid "What to log for failed connections"
-msgstr ""
+msgstr "Hva skal logges for mislykkede tilkoblinger"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:203
 msgid "What to log for successful connections"
-msgstr ""
+msgstr "Hva du skal logge for vellykkede tilkoblinger"
 
 #: applications/luci-app-xinetd/root/usr/share/luci/menu.d/luci-app-xinetd.json:3
 msgid "Xinetd"
-msgstr ""
+msgstr "Xinetd"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:30
 msgid "Xinetd Settings"
-msgstr ""
+msgstr "Xinetd-innstillinger"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:156
 msgid "datagram-based service"
-msgstr ""
+msgstr "datagrambasert tjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:157
 msgid "direct access to IP service"
-msgstr ""
+msgstr "direkte tilgang til IP-tjenesten"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:57
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:66
 msgid "no"
-msgstr ""
+msgstr "ingen"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:158
 msgid "sequential datagram transmission service"
-msgstr ""
+msgstr "sekvensiell datagramoverføringstjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:155
 msgid "stream-based service"
-msgstr ""
+msgstr "strømbasert tjeneste"
 
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:57
 #: applications/luci-app-xinetd/htdocs/luci-static/resources/view/xinetd/xinetd.js:66
 msgid "yes"
-msgstr ""
+msgstr "ja"

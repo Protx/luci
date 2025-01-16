@@ -1,34 +1,26 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationssshtunnel/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:37
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:75
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:113
 msgid "<code>*</code> means to listen all interfaces <b>including public</b>."
 msgstr ""
+"<code>*</code> betyr å lytte til alle grensesnitt <b>inkludert "
+"offentlige</b>."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:138
 msgid "A key with that name already exists."
-msgstr ""
+msgstr "En nøkkel med det navnet finnes allerede."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:124
 msgid "Accept new and check if not changed"
-msgstr ""
+msgstr "Godta ny og sjekk om ikke endret"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:123
 msgid "Add the pub key to %s or %s."
-msgstr ""
+msgstr "Legg til pubnøkkelen til %s eller %s."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:35
 msgid "Advanced Settings"
@@ -43,57 +35,63 @@ msgid ""
 "Bind IP address e.g. <code>192.168.1.1</code> or hostname e.g. "
 "<code>localhost</code>."
 msgstr ""
+"Bind IP-adresse f.eks. <code>192.168.1.1</code> eller vertsnavn, f.eks. "
+"<code>localhost</code>."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:110
 msgid "Check host IP"
-msgstr ""
+msgstr "Sjekk vertens IP"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:111
 msgid "Check the host IP address in the %s file."
-msgstr ""
+msgstr "Sjekk vertens IP-adresse i %s-filen."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:76
 msgid "Compression may be useful on slow connections."
-msgstr ""
+msgstr "Komprimering kan være nyttig på trege tilkoblinger."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:126
 msgid "Configure TUN/TAP devices for VPN tunnels."
-msgstr ""
+msgstr "Konfigurer TUN/TAP-enheter for VPN-tunneler."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:85
 msgid "Delay after a connection failure before trying to reconnect."
-msgstr ""
+msgstr "Forsinkelse etter en tilkoblingsfeil før du prøver å koble til igjen."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:99
 msgid "Dynamic Tunnels"
-msgstr ""
+msgstr "Dynamiske tunneler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:30
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:68
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:106
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:132
 msgid "Enabled"
-msgstr "Påskrudd"
+msgstr "Aktivert"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:52
 msgid "For Dropbear %s"
-msgstr ""
+msgstr "For Dropbear %s"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:53
 msgid "For OpenSSH %s"
-msgstr ""
+msgstr "For OpenSSH %s"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:132
 msgid "For example, the following command would connect via an HTTP proxy:"
-msgstr ""
+msgstr "For eksempel vil følgende kommando koble til via en HTTP-proxy:"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:62
 msgid "Forward a port on the local host to a service on the remote host."
 msgstr ""
+"Videresend en port på den lokale verten til en tjeneste på den eksterne "
+"verten."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:24
 msgid "Forward a port on the remote host to a service on the local host."
 msgstr ""
+"Videresend en port på den eksterne verten til en tjeneste på den lokale "
+"verten."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:34
 msgid "General Settings"
@@ -101,136 +99,137 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:116
 msgid "Generate"
-msgstr ""
+msgstr "Generere"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:97
 msgid "Generate a new key"
-msgstr ""
+msgstr "Generer en ny nøkkel"
 
 #: applications/luci-app-sshtunnel/root/usr/share/rpcd/acl.d/luci-app-sshtunnel.json:3
 msgid "Grant UCI access for luci-app-sshtunnel"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-sshtunnel"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:39
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:37
 msgid "Hostname"
-msgstr ""
+msgstr "Vertsnavn"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:49
 msgid "Identity Key"
-msgstr ""
+msgstr "Identitetsnøkkel"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:51
 msgid "If not specified then a default will be used."
-msgstr ""
+msgstr "Hvis ikke spesifisert, vil en standard bli brukt."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:125
 msgid ""
 "In LuCI you can do that with <a %s>System / Administration / SSH-Keys</a>"
 msgstr ""
+"I LuCI kan du gjøre det med <a %s>System / Administrasjon / SSH-nøkler</a>"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:50
 msgid "Keys of SSH servers found in %s."
-msgstr ""
+msgstr "Nøkler til SSH-servere funnet i %s."
 
 #: applications/luci-app-sshtunnel/root/usr/share/luci/menu.d/luci-app-sshtunnel.json:38
 msgid "Known Hosts"
-msgstr ""
+msgstr "Kjente verter"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:48
 msgid "Known hosts"
-msgstr ""
+msgstr "Kjente verter"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:61
 msgid "Local Tunnels"
-msgstr ""
+msgstr "Lokale tunneler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:48
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:73
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:111
 msgid "Local address"
-msgstr ""
+msgstr "Lokal adresse"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:142
 msgid "Local dev"
-msgstr ""
+msgstr "Lokal utvikler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:55
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:81
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:119
 msgid "Local port"
-msgstr "Lokal port"
+msgstr "Lokal havn"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:63
 msgid "Log level"
-msgstr "Loggingsnivå"
+msgstr "Loggnivå"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:88
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:101
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:80
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:116
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:126
 msgid "No"
-msgstr ""
+msgstr "Ingen"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:19
 msgid "No SSH keys found, <a %s>generate a new one</a>"
-msgstr ""
+msgstr "Ingen SSH-nøkler funnet, <a %s>generer en ny</a>"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:42
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:50
 msgid "Private key file with authentication identity."
-msgstr ""
+msgstr "Privat nøkkelfil med autentiseringsidentitet."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:130
 msgid "Proxy tunnel command"
-msgstr ""
+msgstr "Proxy tunnel kommando"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:40
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:89
 msgid "Public Key"
-msgstr ""
+msgstr "Offentlig nøkkel"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:121
 msgid "Refuse to connect to hosts whose host key has changed."
-msgstr ""
+msgstr "Nekt å koble til verter hvis vertsnøkkel er endret."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:23
 msgid "Remote Tunnels"
-msgstr ""
+msgstr "Fjerntunneler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:35
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:86
 msgid "Remote address"
-msgstr ""
+msgstr "Ekstern adresse"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:147
 msgid "Remote dev"
-msgstr ""
+msgstr "Ekstern utvikler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:43
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:93
 msgid "Remote port"
-msgstr ""
+msgstr "Ekstern port"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:84
 msgid "Retry delay"
-msgstr ""
+msgstr "Forsinkelse på nytt"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:100
 msgid "SOCKS proxy via remote host."
-msgstr ""
+msgstr "SOCKS proxy via ekstern vert."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:121
 #: applications/luci-app-sshtunnel/root/usr/share/luci/menu.d/luci-app-sshtunnel.json:14
 msgid "SSH Keys"
-msgstr ""
+msgstr "SSH-nøkler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:24
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:39
@@ -239,77 +238,79 @@ msgstr ""
 #: applications/luci-app-sshtunnel/root/usr/share/luci/menu.d/luci-app-sshtunnel.json:3
 #: applications/luci-app-sshtunnel/root/usr/share/luci/menu.d/luci-app-sshtunnel.json:30
 msgid "SSH Tunnels"
-msgstr ""
+msgstr "SSH-tunneler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:165
 msgid "See %s."
-msgstr ""
+msgstr "Se %s."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:157
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:93
 msgid "Server keep alive attempts"
-msgstr ""
+msgstr "Server holde i live forsøk"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:102
 msgid "Server keep alive interval (seconds)"
-msgstr ""
+msgstr "Server holde liv i intervall (sekunder)"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:29
 #: applications/luci-app-sshtunnel/root/usr/share/luci/menu.d/luci-app-sshtunnel.json:22
 msgid "Servers"
-msgstr ""
+msgstr "Servere"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:120
 msgid "Strict host key checking"
-msgstr ""
+msgstr "Streng kontroll av vertsnøkkel"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:131
 msgid "The command to use to connect to the server."
-msgstr ""
+msgstr "Kommandoen som skal brukes for å koble til serveren."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:94
 msgid ""
-"The number of server alive messages which may be sent before SSH disconnects "
-"from the server."
+"The number of server alive messages which may be sent before SSH disconnects"
+" from the server."
 msgstr ""
+"Antallet aktive servermeldinger som kan sendes før SSH kobles fra serveren."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:112
 msgid ""
 "This allows SSH to detect whether a host key changed due to DNS spoofing."
 msgstr ""
+"Dette lar SSH oppdage om en vertsnøkkel er endret på grunn av DNS-spoofing."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_hosts.js:25
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:40
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:25
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:19
 msgid "This configures <a %s>SSH Tunnels</a>."
-msgstr ""
+msgstr "Dette konfigurerer <a %s>SSH-tunneler</a>."
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_keys.js:157
 msgid "Unable to generate a key: %s"
-msgstr ""
+msgstr "Kan ikke generere en nøkkel: %s"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:75
 msgid "Use compression"
-msgstr ""
+msgstr "Bruk kompresjon"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:46
 msgid "User"
-msgstr ""
+msgstr "Bruker"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:125
 msgid "VPN Tunnels"
-msgstr ""
+msgstr "VPN-tunneler"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_tunnels.js:137
 msgid "VPN type"
-msgstr ""
+msgstr "VPN-type"
 
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:79
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:115
 #: applications/luci-app-sshtunnel/htdocs/luci-static/resources/view/sshtunnel/ssh_servers.js:125
 msgid "Yes"
-msgstr ""
+msgstr "Ja"

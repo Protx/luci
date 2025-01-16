@@ -1,14 +1,6 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-08-02 12:53+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsadvanced-reboot/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:193
 #: applications/luci-app-advanced-reboot/root/usr/share/luci/menu.d/luci-app-advanced-reboot.json:3
@@ -22,80 +14,80 @@ msgstr "Avbryt"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:168
 msgid "Compressed"
-msgstr ""
+msgstr "Komprimert"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:130
 msgid "Confirm"
-msgstr "Bekreft"
+msgstr "Bekrefte"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:82
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:111
 msgid "Device unreachable! Still waiting for device..."
-msgstr "Enheten er utilgjengelig!Venter fremdeles på enhet …"
+msgstr "Enheten er utilgjengelig! Venter fortsatt på enheten..."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:203
 msgid "ERROR:"
-msgstr ""
+msgstr "FEIL:"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:211
 msgid "Firmware"
-msgstr ""
+msgstr "Fastvare"
 
 #: applications/luci-app-advanced-reboot/root/usr/share/rpcd/acl.d/luci-app-advanced-reboot.json:3
 msgid "Grant UCI and file access for luci-app-advanced-reboot"
-msgstr ""
+msgstr "Gi UCI- og filtilgang for luci-app-advanced-reboot"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:127
 msgid "No access to fw_printenv or fw_printenv!"
-msgstr ""
+msgstr "Ingen tilgang til fw_printenv eller fw_printenv!"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:209
 msgid "Partition"
-msgstr ""
+msgstr "Partisjon"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:205
 msgid "Partitions"
-msgstr ""
+msgstr "Partisjoner"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:235
 msgid "Perform power off..."
-msgstr ""
+msgstr "Slå av..."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:51
 msgid "Power Off Device"
-msgstr ""
+msgstr "Slå av enheten"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:62
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:145
 msgid "Proceed"
-msgstr ""
+msgstr "Fortsette"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:212
 msgid "Reboot"
-msgstr ""
+msgstr "Start på nytt"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:130
 msgid "Reboot Device to an Alternative Partition"
-msgstr ""
+msgstr "Start enheten på nytt til en alternativ partisjon"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:162
 msgid "Reboot to alternative partition..."
-msgstr ""
+msgstr "Start på nytt til alternativ partisjon..."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:159
 msgid "Reboot to current partition"
-msgstr ""
+msgstr "Start på nytt til gjeldende partisjon"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:75
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:80
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:104
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:109
 msgid "Rebooting…"
-msgstr ""
+msgstr "Starter på nytt …"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:43
 msgid "Shutting down..."
-msgstr ""
+msgstr "Slår av..."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:210
 msgid "Status"
@@ -103,47 +95,54 @@ msgstr "Status"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:17
 msgid "The Dual Boot Flag Partition: %s is not a block device."
-msgstr ""
+msgstr "Dual Boot Flag-partisjonen: %s er ikke en blokkeringsenhet."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:71
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:100
 msgid "The reboot command failed with code %d"
-msgstr ""
+msgstr "Reboot-kommandoen mislyktes med koden %d"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:105
 msgid ""
 "The system is rebooting to an alternative partition now.<br /> DO NOT POWER "
 "OFF THE DEVICE!<br /> Wait a few minutes before you try to reconnect. It "
-"might be necessary to renew the address of your computer to reach the device "
-"again, depending on your settings."
+"might be necessary to renew the address of your computer to reach the device"
+" again, depending on your settings."
 msgstr ""
+"Systemet starter på nytt til en alternativ partisjon nå.<br /> IKKE SLÅ AV "
+"ENHETEN!<br /> Vent noen minutter før du prøver å koble til igjen. Det kan "
+"være nødvendig å fornye adressen til datamaskinen for å nå enheten igjen, "
+"avhengig av innstillingene dine."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:44
 msgid ""
-"The system is shutting down now.<br /> DO NOT POWER OFF THE DEVICE!<br /> It "
-"might be necessary to renew the address of your computer to reach the device "
-"again, depending on your settings."
+"The system is shutting down now.<br /> DO NOT POWER OFF THE DEVICE!<br /> It"
+" might be necessary to renew the address of your computer to reach the "
+"device again, depending on your settings."
 msgstr ""
+"Systemet slår seg av nå.<br /> IKKE SLÅ AV ENHETEN!<br /> Det kan være "
+"nødvendig å fornye adressen til datamaskinen for å nå enheten igjen, "
+"avhengig av innstillingene dine."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:15
 msgid "Unable to find Device Board Name."
-msgstr ""
+msgstr "Finner ikke navn på enhetskort."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:16
 msgid "Unable to find Dual Boot Flag Partition."
-msgstr ""
+msgstr "Kan ikke finne Dual Boot Flag-partisjonen."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:19
 msgid "Unable to obtain firmware environment variable: %s."
-msgstr ""
+msgstr "Kan ikke hente fastvaremiljøvariabelen: %s."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:18
 msgid "Unable to set Dual Boot Flag Partition entry for partition: %s."
-msgstr ""
+msgstr "Kan ikke angi Dual Boot Flag Partition oppføring for partisjonen: %s."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:20
 msgid "Unable to set firmware environment variable: %s to %s."
-msgstr ""
+msgstr "Kan ikke sette fastvaremiljøvariabelen: %s til %s."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:168
 msgid "Unknown"
@@ -151,15 +150,24 @@ msgstr "Ukjent"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:131
 msgid ""
-"WARNING: An alternative partition might have its own settings and completely "
-"different firmware.<br /><br /> As your network configuration and WiFi SSID/"
-"password on alternative partition might be different, you might have to "
-"adjust your computer settings to be able to access your device once it "
+"WARNING: An alternative partition might have its own settings and completely"
+" different firmware.<br /><br /> As your network configuration and WiFi "
+"SSID/password on alternative partition might be different, you might have to"
+" adjust your computer settings to be able to access your device once it "
 "reboots.<br /><br /> Please also be aware that alternative partition "
 "firmware might not provide an easy way to switch active partition and boot "
 "back to the currently active partition.<br /><br /> Click \"Proceed\" below "
 "to reboot device to an alternative partition."
 msgstr ""
+"ADVARSEL: En alternativ partisjon kan ha sine egne innstillinger og helt "
+"annen fastvare.<br /><br /> Siden nettverkskonfigurasjonen og WiFi "
+"SSID/passordet på alternativ partisjon kan være annerledes, må du kanskje "
+"justere datamaskininnstillingene for å kunne for å få tilgang til enheten "
+"når den har startet på nytt.<br /><br /> Vær også oppmerksom på at "
+"alternativ partisjonsfastvare kanskje ikke gir en enkel måte å bytte aktiv "
+"partisjon og starte opp tilbake til den aktive partisjonen for "
+"øyeblikket.<br /><br / > Klikk \"Fortsett\" nedenfor for å starte enheten på"
+" nytt til en alternativ partisjon."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:52
 msgid ""
@@ -167,29 +175,31 @@ msgid ""
 "support power off.<br /><br /> Click \"Proceed\" below to power off your "
 "device."
 msgstr ""
+"ADVARSEL: Slå av kan føre til omstart på en enhet som ikke støtter "
+"avslåing.<br /><br /> Klikk \"Fortsett\" nedenfor for å slå av enheten."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:76
 msgid "Waiting for device..."
-msgstr ""
+msgstr "Venter på enheten ..."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:221
 msgid ""
-"Warning: Device (%s) is unknown or isn't a dual-firmware device!%sIf you are "
-"seeing this on an OpenWrt dual-firmware supported device,%splease refer to "
+"Warning: Device (%s) is unknown or isn't a dual-firmware device!%sIf you are"
+" seeing this on an OpenWrt dual-firmware supported device,%splease refer to "
 "%sHow to add a new device section of the README%s."
 msgstr ""
+"Advarsel: Enheten (%s) er ukjent eller er ikke en enhet med dobbel "
+"fastvare!%sHvis du ser dette på en OpenWrt-enhet som støttes med dobbel "
+"fastvare,%se %sHvordan legge til en ny enhetsdel i README% s."
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:198
 msgid "Warning: There are unsaved changes that will get lost on reboot!"
-msgstr ""
+msgstr "Advarsel: Det er ulagrede endringer som vil gå tapt ved omstart!"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:238
 msgid "Warning: This system does not support powering off!"
-msgstr ""
+msgstr "Advarsel: Dette systemet støtter ikke avslåing!"
 
 #: applications/luci-app-advanced-reboot/htdocs/luci-static/resources/view/system/advanced_reboot.js:225
 msgid "Warning: Unable to obtain device information!"
-msgstr ""
-
-#~ msgid "Action"
-#~ msgstr "Handling"
+msgstr "Advarsel: Kan ikke hente enhetsinformasjon!"

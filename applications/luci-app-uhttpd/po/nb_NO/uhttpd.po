@@ -1,29 +1,20 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2023-02-28 10:31+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsuhttpd/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:161
 msgid ""
 "(/old/path=/new/path) or (just /old/path which becomes /cgi-prefix/old/path)"
 msgstr ""
+"(/old/path=/new/path) eller (bare /old/path som blir /cgi-prefix/old/path)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:171
 msgid "404 Error"
-msgstr "404-feil"
+msgstr "404 feil"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:19
 msgid "A lightweight single-threaded HTTP(S) server"
-msgstr ""
+msgstr "En lett entråds HTTP(S)-server"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:27
 msgid "Advanced Settings"
@@ -31,32 +22,33 @@ msgstr "Avanserte innstillinger"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:161
 msgid "Aliases"
-msgstr ""
+msgstr "Aliaser"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:174
 msgid "Base directory for files to be served"
-msgstr ""
+msgstr "Grunnkatalog for filer som skal serveres"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:29
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:57
 msgid "Bind to specific interface:port (by specifying interface address)"
 msgstr ""
+"Bind til spesifikk grensesnitt:port (ved å spesifisere grensesnittadresse)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:152
 msgid "CGI filetype handler"
-msgstr ""
+msgstr "CGI-filtypebehandler"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:178
 msgid "CGI is disabled if not present."
-msgstr ""
+msgstr "CGI er deaktivert hvis den ikke er tilstede."
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:168
 msgid "Config file (e.g. for credentials for Basic Auth)"
-msgstr ""
+msgstr "Konfigurasjonsfil (f.eks. for legitimasjon for Basic Auth)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:212
 msgid "Connection reuse"
-msgstr ""
+msgstr "Gjenbruk av tilkobling"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:253
 msgid "Country"
@@ -64,49 +56,51 @@ msgstr "Land"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:198
 msgid "Disable JSON-RPC authorization via ubus session API"
-msgstr ""
+msgstr "Deaktiver JSON-RPC-autorisasjon via ubus session API"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:155
 msgid "Do not follow symlinks outside document root"
-msgstr ""
+msgstr "Ikke følg symbolkoblinger utenfor dokumentroten"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:158
 msgid "Do not generate directory listings."
-msgstr ""
+msgstr "Ikke generer katalogoppføringer."
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:174
 msgid "Document root"
-msgstr ""
+msgstr "Dokumentrot"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:148
 msgid "E.g specify with index.html and index.php when using PHP"
-msgstr ""
+msgstr "Spesifiser for eksempel med index.html og index.php når du bruker PHP"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:185
 msgid "Embedded Lua interpreter is disabled if not present."
-msgstr ""
+msgstr "Innebygd Lua-tolk er deaktivert hvis den ikke er til stede."
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:194
 msgid "Enable JSON-RPC Cross-Origin Resource Support"
-msgstr ""
+msgstr "Aktiver JSON-RPC Cross-Origin Resource Support"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:108
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:112
 msgid ""
 "Files can only be uploaded and saved to the /etc/luci-uploads directory."
-msgstr ""
+msgstr "Filer kan bare lastes opp og lagres i katalogen /etc/luci-uploads."
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:26
 msgid "For settings primarily geared to serving more than the web UI"
 msgstr ""
+"For innstillinger som primært er rettet mot å betjene mer enn "
+"nettgrensesnittet"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:26
 msgid "Full Web Server Settings"
-msgstr ""
+msgstr "Fullstendige webserverinnstillinger"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:185
 msgid "Full real path to handler for Lua scripts"
-msgstr ""
+msgstr "Full reell vei til behandler for Lua-skript"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:25
 msgid "General Settings"
@@ -114,108 +108,114 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-uhttpd/root/usr/share/rpcd/acl.d/luci-app-uhttpd.json:3
 msgid "Grant UCI access for luci-app-uhttpd"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-uhttpd"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:29
 msgid "HTTP listeners (address:port)"
-msgstr ""
+msgstr "HTTP-lyttere (adresse:port)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:108
 msgid "HTTPS Certificate (DER or PEM format)"
-msgstr ""
+msgstr "HTTPS-sertifikat (DER- eller PEM-format)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:112
 msgid "HTTPS Private Key (DER or PEM format)"
-msgstr ""
+msgstr "HTTPS privat nøkkel (DER- eller PEM-format)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:57
 msgid "HTTPS listener (address:port)"
-msgstr ""
+msgstr "HTTPS-lytter (adresse:port)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:245
 msgid "If empty, a random/unique value is used in cert generation"
-msgstr ""
+msgstr "Hvis tom, brukes en tilfeldig/unik verdi i sertifikatgenerering"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:104
 msgid "Ignore private IPs on public interface"
-msgstr ""
+msgstr "Ignorer private IP-er på offentlig grensesnitt"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:148
 msgid "Index page(s)"
-msgstr ""
+msgstr "Indeksside(r)"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:152
 msgid ""
-"Interpreter to associate with file endings ('suffix=handler', e.g. '.php=/"
-"usr/bin/php-cgi')"
+"Interpreter to associate with file endings ('suffix=handler', e.g. "
+"'.php=/usr/bin/php-cgi')"
 msgstr ""
+"Tolk for å assosiere med filendelser ('suffix=handler', f.eks. "
+"'.php=/usr/bin/php-cgi')"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:238
 msgid "Length of key in bits"
-msgstr ""
+msgstr "Lengde på nøkkel i biter"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:247
 msgid "Location"
-msgstr ""
+msgstr "Sted"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:222
 msgid "Maximum number of connections"
-msgstr ""
+msgstr "Maksimalt antall tilkoblinger"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:226
 msgid "Maximum number of script requests"
-msgstr ""
+msgstr "Maksimalt antall skriptforespørsler"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:202
 msgid "Maximum wait time for Lua, CGI, or ubus execution"
-msgstr ""
+msgstr "Maksimal ventetid for kjøring av Lua, CGI eller ubus"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:207
 msgid "Maximum wait time for network activity"
-msgstr ""
+msgstr "Maksimal ventetid for nettverksaktivitet"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:245
 msgid "Organization"
-msgstr ""
+msgstr "Organisasjon"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:191
 msgid "Override path for ubus socket"
-msgstr ""
+msgstr "Overstyr bane for ubus-kontakt"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:178
 msgid "Path prefix for CGI scripts"
-msgstr ""
+msgstr "Baneprefiks for CGI-skript"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:104
 msgid ""
 "Prevent access from private (RFC1918) IPs on an interface if it has an "
 "public IP address"
 msgstr ""
+"Hindre tilgang fra private (RFC1918) IP-er på et grensesnitt hvis det har en"
+" offentlig IP-adresse"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:164
 msgid "Realm for Basic Auth"
-msgstr ""
+msgstr "Realm for Basic Auth"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:100
 msgid "Redirect all HTTP to HTTPS"
-msgstr ""
+msgstr "Omdiriger all HTTP til HTTPS"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:129
 msgid "Remove configuration for certificate and key"
-msgstr ""
+msgstr "Fjern konfigurasjon for sertifikat og nøkkel"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:116
 msgid "Remove old certificate and key"
-msgstr ""
+msgstr "Fjern gammelt sertifikat og nøkkel"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:242
 msgid "Server Hostname"
-msgstr ""
+msgstr "Server vertsnavn"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:27
 msgid ""
 "Settings which are either rarely needed or which affect serving the WebUI"
 msgstr ""
+"Innstillinger som enten er sjelden nødvendig eller som påvirker visning av "
+"WebUI"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:250
 msgid "State"
@@ -223,53 +223,59 @@ msgstr "Tilstand"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:217
 msgid "TCP Keepalive"
-msgstr ""
+msgstr "TCP Keepalive"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:129
 msgid "This permanently deletes the cert, key, and configuration to use same."
 msgstr ""
+"Dette sletter permanent sertifikatet, nøkkelen og konfigurasjonen for å "
+"bruke samme."
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:234
 msgid "Valid for # of Days"
-msgstr ""
+msgstr "Gyldig i # dager"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:171
 msgid ""
 "Virtual URL or CGI script to display on status '404 Not Found'. Must begin "
 "with '/'"
 msgstr ""
+"Virtuell URL- eller CGI-skript som vises på status '404 ikke funnet'. Må "
+"begynne med '/'"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:181
 msgid "Virtual path prefix for Lua scripts"
-msgstr ""
+msgstr "Virtuelt baneprefiks for Lua-skript"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:188
 msgid "Virtual path prefix for ubus via JSON-RPC integration"
-msgstr ""
+msgstr "Virtuelt baneprefiks for ubus via JSON-RPC-integrasjon"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:168
 msgid "Will not use HTTP authentication if not present"
-msgstr ""
+msgstr "Vil ikke bruke HTTP-autentisering hvis den ikke er til stede"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:242
 msgid "a.k.a CommonName"
-msgstr ""
+msgstr "a.k.a CommonName"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:19
 #: applications/luci-app-uhttpd/root/usr/share/luci/menu.d/luci-app-uhttpd.json:3
 msgid "uHTTPd"
-msgstr ""
+msgstr "uHTTPd"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:230
 msgid "uHTTPd Self-signed Certificate Parameters"
-msgstr ""
+msgstr "uHTTPd selvsignerte sertifikatparametre"
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:116
 msgid ""
 "uHTTPd will generate a new self-signed certificate using the configuration "
 "shown below."
 msgstr ""
+"uHTTPd vil generere et nytt selvsignert sertifikat ved å bruke "
+"konfigurasjonen vist nedenfor."
 
 #: applications/luci-app-uhttpd/htdocs/luci-static/resources/view/uhttpd/uhttpd.js:188
 msgid "ubus integration is disabled if not present"
-msgstr ""
+msgstr "ubus-integrasjon er deaktivert hvis den ikke er til stede"

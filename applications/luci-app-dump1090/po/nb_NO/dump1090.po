@@ -1,26 +1,18 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-01-03 18:37+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsdump1090/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:117
 msgid "Absolute maximum range for position decoding"
-msgstr ""
+msgstr "Absolutt maksimal rekkevidde for posisjonsdekoding"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:170
 msgid "Accuracy of receiver location in json metadata"
-msgstr ""
+msgstr "Nøyaktighet av mottakerplassering i json-metadata"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:107
 msgid "Allow forwarding of received mlat results to output ports"
-msgstr ""
+msgstr "Tillat videresending av mottatte mlat-resultater til utgangsporter"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:178
 msgid "Apply a 1Hz DC filter to input data"
@@ -28,224 +20,227 @@ msgstr "Bruk et 1Hz DC-filter på inndata"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:173
 msgid "Approximate"
-msgstr ""
+msgstr "Tilnærmet"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:156
 msgid "Base directory for the internal HTTP server"
-msgstr ""
+msgstr "Basiskatalog for den interne HTTP-serveren"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:135
 msgid "Collect/show range histogram"
-msgstr ""
+msgstr "Samle/vis rekkeviddehistogram"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:35
 msgid "Data file"
-msgstr ""
+msgstr "Datafil"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:149
 msgid "Debug mode flags"
-msgstr ""
+msgstr "Feilsøkingsmodusflagg"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:40
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:171
 msgid "Default"
-msgstr "Forvalg"
+msgstr "Misligholde"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:125
 msgid "Disable messages with broken CRC"
-msgstr ""
+msgstr "Deaktiver meldinger med ødelagt CRC"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:123
 msgid "Disable single-bits error correction using CRC"
-msgstr ""
+msgstr "Deaktiver enkeltbits feilretting ved hjelp av CRC"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:131
 msgid "Display raw messages in Beast ascii mode"
-msgstr ""
+msgstr "Vis råmeldinger i Beast ascii-modus"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:105
 msgid "Do not apply CRC corrections to messages we forward"
-msgstr ""
+msgstr "Ikke bruk CRC-korreksjoner på meldinger vi videresender"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:29
 msgid "Enable automatic gain control"
-msgstr ""
+msgstr "Aktiver automatisk forsterkningskontroll"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:51
 msgid "Enable decoding of SSR Modes 3/A & 3/C"
-msgstr ""
+msgstr "Aktiver dekoding av SSR-modus 3/A og 3/C"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:55
 msgid "Enable just networking, no RTL device or file used"
-msgstr ""
+msgstr "Aktiver bare nettverk, ingen RTL-enhet eller fil brukt"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:49
 msgid "Enable networking"
-msgstr ""
+msgstr "Aktiver nettverk"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:127
 msgid "Enable phase enhancement"
-msgstr ""
+msgstr "Aktiver faseforbedring"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:121
 msgid "Enable single-bits error correction using CRC"
-msgstr ""
+msgstr "Aktiver enkeltbits feilretting ved hjelp av CRC"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:15
 msgid "Enabled"
-msgstr "Påskrudd"
+msgstr "Aktivert"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:174
 msgid "Exact"
-msgstr ""
+msgstr "Nøyaktig"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:85
 msgid "FlightAware TSV output port"
-msgstr ""
+msgstr "FlightAware TSV-utgangsport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:31
 msgid "Frequency"
-msgstr ""
+msgstr "Hyppighet"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:25
 msgid "Gain (-10 for auto-gain)"
-msgstr ""
+msgstr "Gevinst (-10 for automatisk forsterkning)"
 
 #: applications/luci-app-dump1090/root/usr/share/rpcd/acl.d/luci-app-dump1090.json:3
 msgid "Grant UCI access for luci-app-dump1090"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-dump1090"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:61
 msgid "HTTP server port"
-msgstr ""
+msgstr "HTTP-serverport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:57
 msgid "IP address to bind to"
-msgstr ""
+msgstr "IP-adresse å binde til"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:180
 msgid "Measure noise power"
-msgstr ""
+msgstr "Mål støyeffekt"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:129
 msgid "More CPU for more messages"
-msgstr ""
+msgstr "Mer CPU for flere meldinger"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:172
 msgid "No location"
-msgstr ""
+msgstr "Ingen plassering"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:161
 msgid "Periodically write json output to a directory"
-msgstr ""
+msgstr "Skriv med jevne mellomrom json-utdata til en katalog"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:133
 msgid "Print stats at exit"
-msgstr ""
+msgstr "Skriv ut statistikk ved utgang"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:21
 msgid "RTL device index"
-msgstr ""
+msgstr "RTL enhetsindeks"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:109
 msgid "Reference/receiver latitude for surface posn"
-msgstr ""
+msgstr "Referanse/mottakerbreddegrad for overflateposn"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:113
 msgid "Reference/receiver longitude for surface posn"
-msgstr ""
+msgstr "Referanse/mottaker lengdegrad for overflateposn"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:19
 msgid "Respawn"
-msgstr "Start på ny"
+msgstr "Gjenopprette"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:39
 msgid "Sample format for data file"
-msgstr ""
+msgstr "Eksempelformat for datafil"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:152
 msgid "Set receiver error in parts per million"
-msgstr ""
+msgstr "Angi mottakerfeil i deler per million"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:137
 msgid "Show and reset stats every seconds"
-msgstr ""
+msgstr "Vis og tilbakestill statistikk hvert sekund"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:141
 msgid "Show only ICAO addresses"
-msgstr ""
+msgstr "Vis kun ICAO-adresser"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:47
 msgid "Show only messages hex values"
-msgstr ""
+msgstr "Vis bare hex-verdier for meldinger"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:145
 msgid "Strip IQ file removing samples"
-msgstr ""
+msgstr "Strip IQ-fil som fjerner prøver"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:73
 msgid "TCP BaseStation output listen port"
-msgstr ""
+msgstr "TCP BaseStation utgang lytteport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:77
 msgid "TCP Beast input listen port"
-msgstr ""
+msgstr "TCP Beast-inngang lytteport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:81
 msgid "TCP Beast output listen port"
-msgstr ""
+msgstr "TCP Beast utgang lytteport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:101
 msgid "TCP buffer size 64Kb * (2^n)"
-msgstr ""
+msgstr "TCP-bufferstørrelse 64Kb * (2^n)"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:97
 msgid "TCP heartbeat rate in seconds"
-msgstr ""
+msgstr "TCP-pulsfrekvens i sekunder"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:65
 msgid "TCP raw input listen port"
-msgstr ""
+msgstr "TCP rå inngangs lytteport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:53
 msgid "TCP raw output in Beast binary format"
-msgstr ""
+msgstr "TCP rå utgang i Beast binært format"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:69
 msgid "TCP raw output listen port"
-msgstr ""
+msgstr "TCP rå utgang lytteport"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:93
 msgid "TCP raw output memory flush rate in seconds"
-msgstr ""
+msgstr "TCP rå utgangsminne flush rate i sekunder"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:89
 msgid "TCP raw output minimum size"
-msgstr ""
+msgstr "TCP-råutgang minimumsstørrelse"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:143
 msgid "Use metric units"
-msgstr ""
+msgstr "Bruk metriske enheter"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:176
 msgid "Use the 2.4MHz demodulator"
-msgstr ""
+msgstr "Bruk 2,4 MHz demodulatoren"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:45
 msgid "When reading from a file play back in realtime, not at max speed"
 msgstr ""
+"Når du leser fra en fil, spilles av i sanntid, ikke med maksimal hastighet"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:166
 msgid "Write json output every t seconds"
-msgstr ""
+msgstr "Skriv json-utdata hvert t sekund"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:8
 #: applications/luci-app-dump1090/root/usr/share/luci/menu.d/luci-app-dump1090.json:3
 msgid "dump1090"
-msgstr ""
+msgstr "dump1090"
 
 #: applications/luci-app-dump1090/htdocs/luci-static/resources/view/dump1090/dump1090.js:9
 msgid ""
 "dump1090 is a Mode S decoder specifically designed for RTLSDR devices. Here "
 "you can configure the settings."
 msgstr ""
+"dump1090 er en Mode S-dekoder spesielt utviklet for RTLSDR-enheter. Her kan "
+"du konfigurere innstillingene."

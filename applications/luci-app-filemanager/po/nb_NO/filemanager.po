@@ -1,0 +1,454 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:848
+msgid "Actions"
+msgstr "Handlinger"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1607
+msgid "Are you sure you want to delete the selected files and directories?"
+msgstr "Er du sikker på at du vil slette de valgte filene og katalogene?"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2069
+msgid "Are you sure you want to delete this %s: \"%s\"?"
+msgstr "Er du sikker på at du vil slette denne %s: \"%s\"?"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2484
+msgid "Changes to %s \"%s\" uploaded successfully."
+msgstr "Endringer til %s \"%s\" ble lastet opp."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1023
+msgid "Column Max Widths (format: name:maxWidth,type:maxWidth,...):"
+msgstr ""
+"Kolonne maksimale bredder (format: navn:maksBredde,type:maksbredde,...):"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1012
+msgid "Column Min Widths (format: name:minWidth,type:minWidth,...):"
+msgstr "Kolonne Mine bredder (format: navn:minBredde,type:minBredde,...):"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1001
+msgid "Column Widths (format: name:width,type:width,...):"
+msgstr "Kolonnebredder (format: navn:bredde,type:bredde,...):"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1494
+msgid "Create"
+msgstr "Skape"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1445
+msgid "Create Directory:"
+msgstr "Opprett katalog:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:898
+msgid "Create File"
+msgstr "Opprett fil"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1502
+msgid "Create File:"
+msgstr "Opprett fil:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:894
+msgid "Create Folder"
+msgstr "Opprett mappe"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1061
+msgid "Current Directory:"
+msgstr "Gjeldende katalog:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager/HexEditor.js:1238
+msgid "Decoded Text"
+msgstr "Dekodet tekst"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:904
+msgid "Delete Selected"
+msgstr "Slett valgte"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2077
+msgid "Deleted %s: \"%s\"."
+msgstr "Slettet %s: \"%s\"."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1707
+msgid "Directory"
+msgstr "Katalog"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1461
+msgid "Directory \"%s\" created successfully."
+msgstr "Katalog «%s» ble opprettet."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1428
+msgid "Directory Name"
+msgstr "Katalognavn"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:859
+msgid "Drop files here to upload"
+msgstr "Slipp filer her for å laste opp"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2432
+msgid "Editing %s: \"%s\""
+msgstr "Redigering av %s: \"%s\""
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2812
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2816
+msgid "Editing:"
+msgstr "Redigering:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:740
+msgid "Editor"
+msgstr "Redigerer"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2208
+msgid "Editor textarea not found."
+msgstr "Finner ikke redigeringstekstområdet."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2326
+msgid "Failed to access symlink target: %s"
+msgstr "Kunne ikke få tilgang til symbollinkmål: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1276
+msgid "Failed to access the specified path: %s"
+msgstr "Kunne ikke få tilgang til den angitte banen: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2287
+msgid "Failed to apply permissions to file \"%s\": %s"
+msgstr "Kunne ikke bruke tillatelser til filen \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1470
+msgid "Failed to create directory \"%s\": %s"
+msgstr "Kunne ikke opprette katalogen \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1527
+msgid "Failed to create file \"%s\": %s"
+msgstr "Kunne ikke opprette filen \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2895
+msgid "Failed to decode file data to text: %s"
+msgstr "Kunne ikke dekode fildata til tekst: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2080
+msgid "Failed to delete %s \"%s\": %s"
+msgstr "Kunne ikke slette %s \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1613
+msgid "Failed to delete %s: %s"
+msgstr "Kunne ikke slette %s: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1624
+msgid "Failed to delete selected files and directories: %s"
+msgstr "Kunne ikke slette valgte filer og kataloger: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1636
+msgid "Failed to display the file list."
+msgstr "Kunne ikke vise fillisten."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2044
+msgid "Failed to download file \"%s\": %s"
+msgstr "Kunne ikke laste ned filen \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2193
+msgid "Failed to duplicate %s \"%s\": %s"
+msgstr "Kunne ikke duplisere %s \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2196
+msgid "Failed to get file list: %s"
+msgstr "Kunne ikke hente fillisten: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1813
+msgid "Failed to load file list: %s"
+msgstr "Kunne ikke laste inn fillisten: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2009
+msgid "Failed to open file: %s"
+msgstr "Kunne ikke åpne filen: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1225
+msgid "Failed to render Help content: Container not found."
+msgstr "Kunne ikke gjengi hjelpeinnhold: Fant ikke beholderen."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2885
+msgid "Failed to retrieve data from Hex Editor."
+msgstr "Kunne ikke hente data fra Hex Editor."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2493
+msgid "Failed to save changes to %s \"%s\": %s"
+msgstr "Kunne ikke lagre endringer i %s \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2303
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2305
+msgid "Failed to save file \"%s\": %s"
+msgstr "Kunne ikke lagre filen \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2610
+msgid "Failed to save settings: %s"
+msgstr "Kunne ikke lagre innstillinger: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1190
+msgid "Failed to update file list: %s"
+msgstr "Kunne ikke oppdatere fillisten: %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1734
+msgid "File"
+msgstr "Fil"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1518
+msgid "File \"%s\" created successfully."
+msgstr "Filen \"%s\" ble opprettet."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1398
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1400
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2280
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2282
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2291
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2293
+msgid "File \"%s\" uploaded successfully."
+msgstr "Filen «%s» ble lastet opp."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:731
+#: applications/luci-app-filemanager/root/usr/share/luci/menu.d/luci-app-filemanager.json:3
+msgid "File Manager"
+msgstr "Filbehandler"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:697
+msgid "File Manager:"
+msgstr "Filbehandling:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1485
+msgid "File Name"
+msgstr "Filnavn"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:713
+msgid "Go"
+msgstr "Gå"
+
+#: applications/luci-app-filemanager/root/usr/share/rpcd/acl.d/luci-app-filemanager.json:3
+msgid "Grant access to File Manager"
+msgstr "Gi tilgang til filbehandling"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:759
+msgid "Help"
+msgstr "Hjelp"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:992
+msgid "Hex Editor Height:"
+msgstr "Hex Editor Høyde:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:983
+msgid "Hex Editor Width:"
+msgstr "Hex Editor Bredde:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:939
+msgid "Interface Settings"
+msgstr "Grensesnittinnstillinger"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:830
+msgid "Last Modified"
+msgstr "Sist endret"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1976
+msgid "Loading file..."
+msgstr "Laster inn fil ..."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:791
+msgid "Name"
+msgstr "Navn"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1467
+msgid "No directory selected."
+msgstr "Ingen katalog er valgt."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:877
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1345
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1524
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1804
+msgid "No file selected."
+msgstr "Ingen fil er valgt."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2490
+msgid "No item selected."
+msgstr "Ingen vare er valgt."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager/HexEditor.js:1226
+msgid "Offset (h)"
+msgstr "Offset (h)"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1998
+msgid "Opening file in hex mode since it is not a text file."
+msgstr "Åpner fil i hex-modus siden det ikke er en tekstfil."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1052
+msgid "Padding Max:"
+msgstr "Maks polstring:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1043
+msgid "Padding Min:"
+msgstr "Padding Min:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1034
+msgid "Padding:"
+msgstr "Polstring:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2033
+msgid "Response is not a Blob"
+msgstr "Svaret er ikke en blob"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1075
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1437
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2422
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2739
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2781
+msgid "Save"
+msgstr "Lagre"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2250
+msgid "Saving file: \"%s\"..."
+msgstr "Lagrer fil: \"%s\"..."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager/HexEditor.js:428
+msgid "Search ASCII"
+msgstr "Søk i ASCII"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager/HexEditor.js:431
+msgid "Search HEX (e.g., 4F6B)"
+msgstr "Søk i HEX (f.eks. 4F6B)"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager/HexEditor.js:434
+msgid "Search RegExp (e.g., \\d{3})"
+msgstr "Søk etter RegExp (f.eks. \\d{3})"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:916
+msgid "Select a file from the list to edit it here."
+msgstr "Velg en fil fra listen for å redigere den her."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1617
+msgid "Selected files and directories deleted successfully."
+msgstr "Valgte filer og kataloger ble slettet."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:749
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2580
+msgid "Settings uploaded successfully."
+msgstr "Innstillinger ble lastet opp."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:817
+msgid "Size"
+msgstr "Størrelse"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:834
+msgid "Sort by Last Modified"
+msgstr "Sorter etter Sist endret"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:795
+msgid "Sort by Name"
+msgstr "Sorter etter navn"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:821
+msgid "Sort by Size"
+msgstr "Sorter etter størrelse"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:808
+msgid "Sort by Type"
+msgstr "Sorter etter type"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2071
+msgid "Successfully deleted %s: \"%s\"."
+msgstr "Slettet %s: \"%s\"."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2188
+msgid "Successfully duplicated %s \"%s\" as \"%s\"."
+msgstr "Vellykket duplisert %s \"%s\" som \"%s\"."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1779
+msgid "Symlink"
+msgstr "Symbollink"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2330
+msgid "Symlink:"
+msgstr "Symbollink:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:974
+msgid "Text Editor Height:"
+msgstr "Tekstredigeringshøyde:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:965
+msgid "Text Editor Width:"
+msgstr "Tekstredigeringsbredde:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1996
+msgid "The file does not contain valid text data. Opening in hex mode..."
+msgstr "Filen inneholder ikke gyldige tekstdata. Åpner i hex-modus..."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1273
+msgid "The specified path does not appear to be a directory."
+msgstr "Den angitte banen ser ikke ut til å være en katalog."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2323
+msgid "The symlink points to an unsupported type."
+msgstr "Symbolkoblingen peker til en type som ikke støttes."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2875
+msgid "This file is not a text file and cannot be edited in text mode."
+msgstr "Denne filen er ikke en tekstfil og kan ikke redigeres i tekstmodus."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2755
+msgid "Toggle Line Numbers"
+msgstr "Bytt linjenummer"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2790
+msgid "Toggle to ASCII Mode"
+msgstr "Bytt til ASCII-modus"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2747
+msgid "Toggle to Hex Mode"
+msgstr "Bytt til hex-modus"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:804
+msgid "Type"
+msgstr "Type"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1786
+msgid "Unknown"
+msgstr "Ukjent"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:890
+msgid "Upload File"
+msgstr "Last opp fil"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1408
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1410
+msgid "Upload failed for file \"%s\": %s"
+msgstr "Opplasting mislyktes for filen \"%s\": %s"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:1372
+msgid "Uploading: \"%s\"..."
+msgstr "Laster opp: \"%s\"..."
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:956
+msgid "Window Height:"
+msgstr "Vindushøyde:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:947
+msgid "Window Width:"
+msgstr "Vindusbredde:"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2057
+msgid "directory"
+msgstr "katalog"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2059
+msgid "file"
+msgstr "fil"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2063
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2066
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2188
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2193
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2432
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2484
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2493
+msgid "item"
+msgstr "punkt"
+
+#: applications/luci-app-filemanager/htdocs/luci-static/resources/view/system/filemanager.js:2061
+msgid "symbolic link"
+msgstr "symbolsk lenke"

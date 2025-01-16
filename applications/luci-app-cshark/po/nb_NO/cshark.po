@@ -1,14 +1,6 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-01-03 18:37+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationscshark/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:24
 msgid "Actions"
@@ -16,42 +8,41 @@ msgstr "Handlinger"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:72
 msgid "Capture URL"
-msgstr ""
+msgstr "Ta opp URL"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:68
 msgid "Capture links"
-msgstr ""
+msgstr "Ta opp lenker"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:73
 msgid "Capture time"
-msgstr ""
+msgstr "Fang tid"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:284
 msgid "Clear list"
-msgstr ""
+msgstr "Tøm liste"
 
 #: applications/luci-app-cshark/luasrc/controller/cshark.lua:19
 #: applications/luci-app-cshark/luasrc/model/cbi/admin_network/cshark.lua:17
 msgid "CloudShark"
-msgstr ""
+msgstr "CloudShark"
 
 #: applications/luci-app-cshark/luasrc/model/cbi/admin_network/cshark.lua:27
 msgid "CloudShark API token"
-msgstr ""
+msgstr "CloudShark API-token"
 
 #: applications/luci-app-cshark/luasrc/model/cbi/admin_network/cshark.lua:26
 msgid "CloudShark URL"
-msgstr ""
+msgstr "CloudShark URL"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:23
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:51
-#, fuzzy
 msgid "Filter"
 msgstr "Filter"
 
 #: applications/luci-app-cshark/root/usr/share/rpcd/acl.d/luci-app-cshark.json:3
 msgid "Grant UCI access for luci-app-cshark"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-cshark"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:21
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:28
@@ -60,7 +51,7 @@ msgstr "Grensesnitt"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:92
 msgid "Loading"
-msgstr "Laster inn"
+msgstr "Laster"
 
 #: applications/luci-app-cshark/luasrc/model/cbi/admin_network/cshark.lua:22
 msgid "Options"
@@ -69,48 +60,48 @@ msgstr "Alternativer"
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:54
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:196
 msgid "Start capture"
-msgstr ""
+msgstr "Start fangst"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:17
 msgid "Start network capture"
-msgstr ""
+msgstr "Start nettverksfangst"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:181
 msgid "Stop capture"
-msgstr ""
+msgstr "Stopp fangst"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:93
 msgid "Waiting for capture to complete..."
-msgstr ""
+msgstr "Venter på at opptak skal fullføres..."
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:93
 msgid "Waiting for upload to complete..."
-msgstr ""
+msgstr "Venter på at opplastingen skal fullføres..."
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:39
 msgid "any"
-msgstr ""
+msgstr "noen"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:47
 msgid "bytes"
-msgstr ""
+msgstr "bytes"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:46
 msgid "packets"
-msgstr ""
+msgstr "pakker"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:45
 msgid "seconds"
-msgstr ""
+msgstr "sekunder"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:22
 msgid "seconds, packets, bytes"
-msgstr ""
+msgstr "sekunder, pakker, bytes"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:44
 msgid "timeout, bytes, seconds"
-msgstr ""
+msgstr "timeout, bytes, sekunder"
 
 #: applications/luci-app-cshark/luasrc/view/cshark.htm:151
 msgid "value for [seconds, packets, bytes] must be Integer"
-msgstr ""
+msgstr "verdien for [sekunder, pakker, byte] må være heltall"

@@ -1,14 +1,6 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-06-20 13:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsqos/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:42
 msgid "Calculate overhead"
@@ -16,11 +8,11 @@ msgstr "Beregn overhead"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:60
 msgid "Classification Rules"
-msgstr "Klassifisering Regler"
+msgstr "Klassifiseringsregler"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:36
 msgid "Classification group"
-msgstr "Klassifisering gruppe"
+msgstr "Klassifikasjonsgruppe"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:132
 msgid "Comment"
@@ -28,23 +20,23 @@ msgstr "Kommentar"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:99
 msgid "Destination host"
-msgstr "Destinasjon vert"
+msgstr "Destinasjonsvert"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:48
 msgid "Download speed (kbit/s)"
-msgstr "Nedlasting hastighet (kbit/s)"
+msgstr "Nedlastingshastighet (kbit/s)"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:34
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-qos/root/usr/share/rpcd/acl.d/luci-app-qos.json:3
 msgid "Grant UCI access for luci-app-qos"
-msgstr "Innvilg UCI-tilgang for luci-app-qos"
+msgstr "Gi UCI-tilgang for luci-app-qos"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:45
 msgid "Half-duplex"
-msgstr "Halv dupleks"
+msgstr "Halv tosidig"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:30
 msgid "Interfaces"
@@ -52,7 +44,7 @@ msgstr "Grensesnitt"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:128
 msgid "Number of bytes"
-msgstr "Antall bytes"
+msgstr "Antall byte"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:116
 msgid "Ports"
@@ -68,11 +60,11 @@ msgstr "QoS"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:27
 msgid "Quality of Service"
-msgstr "Quality of Service"
+msgstr "Kvalitet på tjenesten"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:90
 msgid "Source host"
-msgstr "Kilde vert"
+msgstr "Kildevert"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:67
 msgid "Target"
@@ -80,15 +72,15 @@ msgstr "Mål"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:54
 msgid "Upload speed (kbit/s)"
-msgstr "Opplasting hastighet (kbit/s)"
+msgstr "Opplastingshastighet (kbit/s)"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:28
 msgid ""
 "With %s you can prioritize network traffic selected by addresses, ports or "
 "services."
 msgstr ""
-"Med <abbr title=\"Quality of Service\">QoS</abbr> kan du prioritere "
-"nettverkstrafikk valgt av adresser, porter eller tjenester."
+"Med %s kan du prioritere nettverkstrafikk valgt etter adresser, porter eller"
+" tjenester."
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:94
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:103
@@ -99,11 +91,11 @@ msgstr "alle"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:38
 msgid "default"
-msgstr "standard"
+msgstr "misligholde"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:69
 msgid "express"
-msgstr "ekspress"
+msgstr "uttrykke"
 
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:71
 msgid "low"
@@ -116,24 +108,3 @@ msgstr "normal"
 #: applications/luci-app-qos/htdocs/luci-static/resources/view/qos/qos.js:68
 msgid "priority"
 msgstr "prioritet"
-
-#~ msgid "Service"
-#~ msgstr "Service"
-
-#~ msgid "Downlink"
-#~ msgstr "Nedlinje"
-
-#~ msgid "Internet Connection"
-#~ msgstr "Internett Tilkobling"
-
-#~ msgid "Uplink"
-#~ msgstr "Opplinje"
-
-#~ msgid "allf"
-#~ msgstr "alle"
-
-#~ msgid "qos_connbytes"
-#~ msgstr "Bytes sendt"
-
-#~ msgid "Half-Duplex"
-#~ msgstr "Halvdupleks"

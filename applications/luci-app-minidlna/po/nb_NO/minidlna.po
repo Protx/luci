@@ -1,16 +1,6 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-01 08:05+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsminidlna/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:51
 msgid "Advanced Settings"
@@ -18,16 +8,15 @@ msgstr "Avanserte innstillinger"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:80
 msgid "Album art names"
-msgstr "Albumbilder navn"
+msgstr "Albumkunstnavn"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:94
-#, fuzzy
 msgid "Allow wide links"
 msgstr "Tillat brede lenker"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:106
 msgid "Announced UUID"
-msgstr "Kunngjør UUID"
+msgstr "Kunngjort UUID"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:109
 msgid "Announced model number"
@@ -39,15 +28,15 @@ msgstr "Annonsert serienummer"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:73
 msgid "Browse directory"
-msgstr "Bla katalog"
+msgstr "Bla gjennom katalogen"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:88
 msgid "Database directory"
-msgstr "Database katalog"
+msgstr "Databasekatalog"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:53
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:92
 msgid "Enable TIVO"
@@ -67,7 +56,7 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-minidlna/root/usr/share/rpcd/acl.d/luci-app-minidlna.json:3
 msgid "Grant access to minidlna status and configuration"
-msgstr "Innvilg tilgang til MiniDLNA-status og -oppsett"
+msgstr "Gi tilgang til minidlna-status og konfigurasjon"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:59
 msgid "Interfaces"
@@ -75,23 +64,23 @@ msgstr "Grensesnitt"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:78
 msgid "Media directories"
-msgstr "Media kataloger"
+msgstr "Mediekataloger"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:36
 msgid ""
-"MiniDLNA is server software with the aim of being fully compliant with DLNA/"
-"UPnP-AV clients."
+"MiniDLNA is server software with the aim of being fully compliant with "
+"DLNA/UPnP-AV clients."
 msgstr ""
-"MiniDLNA er serverprogramvare som sikter på å være fullt kompatibel med DLNA/"
-"UPnP-AV klienter."
+"MiniDLNA er serverprogramvare med mål om å være fullt kompatibel med "
+"DLNA/UPnP-AV-klienter."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:109
 msgid ""
 "Model number the miniDLNA daemon will report to clients in its XML "
 "description."
 msgstr ""
-"Modellnummer som MiniDLNA daemon vil rapportere til klienter. (XML "
-"beskrivelse)"
+"Modellnummer miniDLNA-demonen vil rapportere til klienter i XML-"
+"beskrivelsen."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:74
 msgid "Music"
@@ -99,15 +88,15 @@ msgstr "Musikk"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:59
 msgid "Network interfaces to serve."
-msgstr "Nettverksgrensesnittene å tjene."
+msgstr "Nettverksgrensesnitt å betjene."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:100
 msgid "Notify interval"
-msgstr "Notify intervall"
+msgstr "Varslingsintervall"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:100
 msgid "Notify interval in seconds."
-msgstr "Notify intervall i sekunder."
+msgstr "Varslingsintervall i sekunder."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:76
 msgid "Pictures"
@@ -119,57 +108,58 @@ msgstr "Port"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:56
 msgid "Port for HTTP (descriptions, SOAP, media transfer) traffic."
-msgstr "Port for HTTP (beskrivelser, SOAP, media overføring) trafikk."
+msgstr "Port for HTTP-trafikk (beskrivelser, SOAP, medieoverføring)."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:98
 msgid "Presentation URL"
-msgstr "Presentasjon URL"
+msgstr "Presentasjons-URL"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:71
 msgid "Root container"
-msgstr "Root katalog"
+msgstr "Rotbeholder"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:103
 msgid ""
 "Serial number the miniDLNA daemon will report to clients in its XML "
 "description."
 msgstr ""
-"Serienummeret miniDLNA daemon vil rapportere til klienter. (XML beskrivelse)"
+"Serienummeret miniDLNA-demonen vil rapportere til klienter i sin XML-"
+"beskrivelse."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:69
 msgid ""
 "Set this if you want to customize the name that shows up on your clients."
-msgstr "Her kan en tilpasse navnet som dukker opp på MiniDLNA klientene."
+msgstr "Angi dette hvis du vil tilpasse navnet som vises på kundene dine."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:88
 msgid ""
 "Set this if you would like to specify the directory where you want MiniDLNA "
 "to store its database and album art cache."
 msgstr ""
-"Her kan en spesifisere hvilken katalog som MiniDLNA bruker for å lagre sin "
-"database og albumcover cache."
+"Angi dette hvis du vil spesifisere katalogen der du vil at MiniDLNA skal "
+"lagre databasen og albumgrafikkens cache."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:94
 msgid ""
 "Set this to allow serving content outside the media root (via symlinks)."
 msgstr ""
-"Sett dette for å tillate levering av innhold utenfor mediaroten (via "
-"symlenker)."
+"Angi dette for å tillate visning av innhold utenfor mediaroten (via "
+"symbolkoblinger)."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:90
 msgid ""
 "Set this to enable inotify monitoring to discover new files automatically."
 msgstr ""
-"Her kan en aktivere inotify som overvåker mediakatalogene og dermed "
-"automatisk oppdage om det kommer nytt innhold."
+"Angi dette for å aktivere inotify-overvåking for å oppdage nye filer "
+"automatisk."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:92
 msgid ""
 "Set this to enable support for streaming .jpg and .mp3 files to a TiVo "
 "supporting HMO."
 msgstr ""
-"Her kan en aktivere støtte for strømming av .jpg og .mp3 filer til en TiVo "
-"med HMO støtte."
+"Angi dette for å aktivere støtte for streaming av .jpg- og .mp3-filer til en"
+" TiVo-støttende HMO."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:96
 msgid ""
@@ -177,25 +167,25 @@ msgid ""
 "downscaling of very large JPEG images, which may hurt JPEG serving "
 "performance on (at least) Sony DLNA products."
 msgstr ""
-"Her kan en aktivere at en holder seg til DLNA-standarder. Dette vil tillate "
-"server-side nedskalering av svært store JPEG-bilder, noe som kan skade JPEG "
-"serverens ytelse på (minst) Sony DLNA-produkter."
+"Still inn denne til å følge DLNA-standarder. Dette vil tillate nedskalering "
+"på serversiden av veldig store JPEG-bilder, noe som kan skade JPEG-"
+"visningsytelsen på (minst) Sony DLNA-produkter."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:78
 msgid ""
 "Set this to the directory you want scanned. If you want to restrict the "
 "directory to a specific content type, you can prepend the type ('A' for "
-"audio, 'V' for video, 'P' for images), followed by a comma, to the directory "
-"(eg. A,/mnt/media/Music). Multiple directories can be specified."
+"audio, 'V' for video, 'P' for images), followed by a comma, to the directory"
+" (eg. A,/mnt/media/Music). Multiple directories can be specified."
 msgstr ""
-"Her kan en velge den katalogen som blir skannet. Om du ønsker å begrense "
-"katalogen til en spesifikk innholdstype kan sette en bokstav foran ('A' for "
-"lyd, 'V' for video, 'P' for bilder), etterfulgt av ett komma, og katalogen. "
-"(f.eks A,/mnt/media/Musikk). Flere kataloger kan brukes."
+"Sett dette til katalogen du vil skannes. Hvis du vil begrense katalogen til "
+"en bestemt innholdstype, kan du sette typen ('A' for lyd, 'V' for video, 'P'"
+" for bilder), etterfulgt av et komma, til katalogen (f.eks. A "
+",/mnt/media/Musikk). Flere kataloger kan spesifiseres."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:112
 msgid "Specify the path to the MiniSSDPd socket."
-msgstr "Angi banen til MiniSSDPd socketen."
+msgstr "Spesifiser banen til MiniSSDPd-kontakten."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:72
 msgid "Standard container"
@@ -207,7 +197,7 @@ msgstr "Status"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:96
 msgid "Strict to DLNA standard"
-msgstr "Streng overholdelse av DLNA-standarden"
+msgstr "Streng til DLNA-standard"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:25
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/status/include/80_minidlna.js:28
@@ -215,17 +205,19 @@ msgid ""
 "The miniDLNA service is active, serving %d audio, %d video and %d image "
 "files."
 msgstr ""
-"MiniDLNA tjenesten er aktiv, serverer %d lyd, %d video og %d bildefiler."
+"MiniDLNA-tjenesten er aktiv og serverer %d lyd-, %d video- og %d bildefiler."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:18
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/status/include/80_minidlna.js:22
 msgid "The miniDLNA service is not running."
-msgstr "MiniDLNA tjenesten kjører ikke."
+msgstr "MiniDLNA-tjenesten kjører ikke."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:80
-msgid "This is a list of file names to check for when searching for album art."
+msgid ""
+"This is a list of file names to check for when searching for album art."
 msgstr ""
-"Dette er en liste over filnavn for å se etter når du søker etter albumcover."
+"Dette er en liste over filnavn du kan se etter når du søker etter "
+"albumgrafikk."
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:75
 msgid "Video"
@@ -234,25 +226,12 @@ msgstr "Video"
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:36
 #: applications/luci-app-minidlna/root/usr/share/luci/menu.d/luci-app-minidlna.json:3
 msgid "miniDLNA"
-msgstr "MiniDLNA"
+msgstr "miniDLNA"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/status/include/80_minidlna.js:7
 msgid "miniDLNA Status"
-msgstr "MiniDLNA Status"
+msgstr "miniDLNA-status"
 
 #: applications/luci-app-minidlna/htdocs/luci-static/resources/view/minidlna.js:112
 msgid "miniSSDP socket"
-msgstr "miniSSDP socket"
-
-#~ msgid "Log directory"
-#~ msgstr "Logg katalog"
-
-#~ msgid ""
-#~ "Set this if you would like to specify the directory where you want "
-#~ "MiniDLNA to store its log file."
-#~ msgstr ""
-#~ "Her kan en definere hvilken katalog som MiniDLNA skal bruke til å lagre "
-#~ "log filen i."
-
-#~ msgid "Collecting data..."
-#~ msgstr "Samler inn data…"
+msgstr "miniSSDP-kontakt"

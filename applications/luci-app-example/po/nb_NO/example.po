@@ -1,176 +1,169 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: nb\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:38
 msgid "A boolean option"
-msgstr ""
+msgstr "Et boolsk alternativ"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:43
 msgid "A select option"
-msgstr ""
+msgstr "Et utvalgt alternativ"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:56
 msgid "Cats"
-msgstr ""
+msgstr "Katter"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-tablesection.js:73
 msgid "Description for this table section"
-msgstr ""
+msgstr "Beskrivelse for denne tabelldelen"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-typedsection.js:73
 msgid "Description for this typed section"
-msgstr ""
+msgstr "Beskrivelse for denne innskrevne delen"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:57
 msgid "Dogs"
-msgstr ""
+msgstr "Hunder"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:55
 msgid "Dynamic list option"
-msgstr ""
+msgstr "Alternativ for dynamisk liste"
 
 #: applications/luci-app-example/root/usr/share/luci/menu.d/luci-app-example.json:3
 msgid "Example"
-msgstr ""
+msgstr "Eksempel"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:25
 msgid "Example Form"
-msgstr ""
+msgstr "Eksempelskjema"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:26
 msgid "Example Form Configuration."
-msgstr ""
+msgstr "Eksempel på skjemakonfigurasjon."
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/htmlview.js:18
 msgid "Example HTML Page"
-msgstr ""
+msgstr "Eksempel HTML-side"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:31
 msgid "First Option"
-msgstr ""
+msgstr "Første alternativ"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:37
 msgid "Flag Option"
-msgstr ""
+msgstr "Flaggalternativ"
 
 #: applications/luci-app-example/root/usr/share/luci/menu.d/luci-app-example.json:14
 msgid "Form View"
-msgstr ""
+msgstr "Skjemavisning"
 
 #: applications/luci-app-example/root/usr/share/rpcd/acl.d/luci-app-example.json:3
 msgid "Grant UCI and RPC access to LuCI app example"
-msgstr ""
+msgstr "Gi UCI- og RPC-tilgang til LuCI-appeksempel"
 
 #: applications/luci-app-example/root/usr/share/luci/menu.d/luci-app-example.json:23
 msgid "HTML Page"
-msgstr ""
+msgstr "HTML-side"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:53
 msgid "Input for a password (storage on disk is not encrypted)"
-msgstr ""
+msgstr "Inndata for et passord (lagring på disk er ikke kryptert)"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:32
 msgid "Input for the first option"
-msgstr ""
+msgstr "Inndata for det første alternativet"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:60
 msgid "Is this real?"
-msgstr ""
+msgstr "Er dette ekte?"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:130
 msgid "JSON converted to table via array building and loop"
-msgstr ""
+msgstr "JSON konvertert til tabell via array building og loop"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-tablesection.js:60
 msgid "JSONMap TableSection Sample"
-msgstr ""
+msgstr "Eksempel på JSONMap TableSection"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-typedsection.js:60
 msgid "JSONMap TypedSection Sample"
-msgstr ""
+msgstr "Eksempel på JSONMap TypedSection"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:60
 msgid "No"
-msgstr ""
+msgstr "Ingen"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:87
 msgid "Not found"
-msgstr ""
+msgstr "Ikke funnet"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-tablesection.js:74
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-typedsection.js:74
 msgid "Option name"
-msgstr ""
+msgstr "Alternativnavn"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-tablesection.js:75
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-typedsection.js:75
 msgid "Option value"
-msgstr ""
+msgstr "Opsjonsverdi"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:58
 msgid "Parakeets"
-msgstr ""
+msgstr "Parakitter"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:52
 msgid "Password Option"
-msgstr ""
+msgstr "Passordalternativ"
 
 #: applications/luci-app-example/root/usr/share/luci/menu.d/luci-app-example.json:32
 msgid "RPC Array Example"
-msgstr ""
+msgstr "Eksempel på RPC-array"
 
 #: applications/luci-app-example/root/usr/share/luci/menu.d/luci-app-example.json:41
 msgid "RPC JSONMap Table Example"
-msgstr ""
+msgstr "Eksempel på RPC JSONMap-tabell"
 
 #: applications/luci-app-example/root/usr/share/luci/menu.d/luci-app-example.json:50
 msgid "RPC JSONMap Typed Example"
-msgstr ""
+msgstr "Eksempel på RPC JSONMap-type"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-tablesection.js:36
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-typedsection.js:36
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:35
 msgid "RPC call failure:"
-msgstr ""
+msgstr "RPC-anropsfeil:"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:128
 msgid "Sample JS via RPC"
-msgstr ""
+msgstr "Prøv JS via RPC"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-tablesection.js:61
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc-jsonmap-typedsection.js:61
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:115
 msgid "See browser console for raw data"
-msgstr ""
+msgstr "Se nettleserkonsollen for rådata"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:42
 msgid "Select Option"
-msgstr ""
+msgstr "Velg Alternativ"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:59
 msgid "Should be \"Not found\""
-msgstr ""
+msgstr "Skal være \"Ikke funnet\""
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/rpc.js:60
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:28
 msgid "first section"
-msgstr ""
+msgstr "første seksjon"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:34
 msgid "second section"
-msgstr ""
+msgstr "andre seksjon"
 
 #: applications/luci-app-example/htdocs/luci-static/resources/view/example/form.js:50
 msgid "third section"
-msgstr ""
+msgstr "tredje seksjon"

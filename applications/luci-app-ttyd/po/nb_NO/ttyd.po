@@ -1,44 +1,38 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsttyd/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:64
 msgid "Accept only one client and exit on disconnection"
-msgstr "Godta kun én klient og avslutt ved frakobling"
+msgstr "Godta bare én klient og avslutt ved frakobling"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:15
 msgid "Add instance"
-msgstr "Legg til instans"
+msgstr "Legg til forekomst"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:48
 msgid "Allow URL args"
-msgstr ""
+msgstr "Tillat URL-arg"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:48
 msgid ""
-"Allow client to send command line arguments in URL (eg: http://"
-"localhost:7681?arg=foo&arg=bar)"
+"Allow client to send command line arguments in URL (eg: "
+"http://localhost:7681?arg=foo&arg=bar)"
 msgstr ""
+"Tillat klienten å sende kommandolinjeargumenter i URL (f.eks.: "
+"http://localhost:7681?arg=foo&arg=bar)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:20
 msgid "Bind to UNIX domain socket instead of IP port"
-msgstr ""
+msgstr "Bind til UNIX-domenekontakt i stedet for IP-port"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:58
 msgid "Check origin"
-msgstr ""
+msgstr "Sjekk opprinnelse"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:52
 msgid "Client option"
-msgstr ""
+msgstr "Klientalternativ"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:88
 msgid "Command"
@@ -46,43 +40,43 @@ msgstr "Kommando"
 
 #: applications/luci-app-ttyd/root/usr/share/luci/menu.d/luci-app-ttyd.json:23
 msgid "Config"
-msgstr ""
+msgstr "Konfig"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:36
 msgid "Credential"
-msgstr ""
+msgstr "Legitimasjon"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:36
 msgid "Credential for Basic Authentication"
-msgstr ""
+msgstr "Legitimasjon for grunnleggende autentisering"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:66
 msgid "Custom index.html path"
-msgstr ""
+msgstr "Egendefinert index.html-bane"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:81
 msgid "Debug"
-msgstr "Avlusing"
+msgstr "Feilsøk"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:50
 msgid "Do not allow clients to write to the TTY"
-msgstr ""
+msgstr "Ikke la klienter skrive til TTY"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:58
 msgid "Do not allow websocket connection from different origin"
-msgstr ""
+msgstr "Ikke tillat websocket-tilkobling fra annen opprinnelse"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:17
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:68
 msgid "Enable IPv6 support"
-msgstr ""
+msgstr "Aktiver IPv6-støtte"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:70
 msgid "Enable SSL"
-msgstr "Skru på SSL"
+msgstr "Aktiver SSL"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:82
 msgid "Error"
@@ -90,15 +84,15 @@ msgstr "Feil"
 
 #: applications/luci-app-ttyd/root/usr/share/rpcd/acl.d/luci-app-ttyd.json:3
 msgid "Grant UCI access for luci-app-ttyd"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-ttyd"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:42
 msgid "Group ID"
-msgstr ""
+msgstr "Gruppe-ID"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:42
 msgid "Group id to run with"
-msgstr ""
+msgstr "Gruppe-ID å kjøre med"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:68
 msgid "IPv6"
@@ -106,7 +100,7 @@ msgstr "IPv6"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:66
 msgid "Index"
-msgstr ""
+msgstr "Indeks"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:85
 msgid "Info"
@@ -118,35 +112,37 @@ msgstr "Grensesnitt"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:93
 msgid "Make sure to set up another authorization method."
-msgstr ""
+msgstr "Sørg for å sette opp en annen godkjenningsmetode."
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:60
 msgid "Max clients"
-msgstr ""
+msgstr "Maks kunder"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:60
 msgid "Maximum clients to support (default: 0, no limit)"
-msgstr ""
+msgstr "Maksimalt antall klienter å støtte (standard: 0, ingen grense)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:27
 msgid "Network interface to bind (eg: eth0)"
-msgstr ""
+msgstr "Nettverksgrensesnitt som skal bindes (f.eks: eth0)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:92
-msgid "Note that reverse proxied pages is NOT protected by password like LuCI."
+msgid ""
+"Note that reverse proxied pages is NOT protected by password like LuCI."
 msgstr ""
+"Merk at sider med omvendt proxy IKKE er beskyttet av passord som LuCI."
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:84
 msgid "Notice"
-msgstr ""
+msgstr "Legg merke til"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:64
 msgid "Once"
-msgstr ""
+msgstr "En gang"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:91
 msgid "Override URL in Terminal tab. For use with reverse proxy."
-msgstr ""
+msgstr "Overstyr URL i Terminal-fanen. For bruk med omvendt proxy."
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:22
 msgid "Port"
@@ -154,53 +150,55 @@ msgstr "Port"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:22
 msgid "Port to listen (default: 7681, use `0` for random port)"
-msgstr ""
+msgstr "Port for å lytte (standard: 7681, bruk '0' for tilfeldig port)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/term.js:15
 msgid ""
 "Random ttyd port (port=0) is not supported.<br />Change to a fixed port and "
 "try again."
 msgstr ""
+"Tilfeldig ttyd-port (port=0) støttes ikke.<br />Bytt til en fast port og "
+"prøv igjen."
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:50
 msgid "Read-only"
-msgstr ""
+msgstr "Skrivebeskyttet"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:70
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:78
 msgid "SSL CA file path for client certificate verification"
-msgstr ""
+msgstr "SSL CA-filbane for klientsertifikatverifisering"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:78
 msgid "SSL ca"
-msgstr ""
+msgstr "SSL ca"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:72
 msgid "SSL cert"
-msgstr ""
+msgstr "SSL sertifisering"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:72
 msgid "SSL certificate file path"
-msgstr ""
+msgstr "SSL-sertifikatfilbane"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:75
 msgid "SSL key"
-msgstr ""
+msgstr "SSL-nøkkel"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:75
 msgid "SSL key file path"
-msgstr ""
+msgstr "SSL-nøkkelfilbane"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:52
 msgid "Send option to client"
-msgstr ""
+msgstr "Send alternativ til klient"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:81
 msgid "Set log level (default: 7)"
-msgstr ""
+msgstr "Angi loggnivå (standard: 7)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:45
 msgid "Signal"
@@ -209,43 +207,44 @@ msgstr "Signal"
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:45
 msgid "Signal to send to the command when exit it (default: 1, SIGHUP)"
 msgstr ""
+"Signal for å sende til kommandoen når du avslutter den (standard: 1, SIGHUP)"
 
 #: applications/luci-app-ttyd/root/usr/share/luci/menu.d/luci-app-ttyd.json:3
 #: applications/luci-app-ttyd/root/usr/share/luci/menu.d/luci-app-ttyd.json:14
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:55
 msgid "Terminal type"
-msgstr ""
+msgstr "Terminaltype"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:55
 msgid "Terminal type to report (default: xterm-256color)"
-msgstr ""
+msgstr "Terminaltype å rapportere (standard: xterm-256color)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:31
 msgid "UNIX domain socket path (eg: /var/run/ttyd.sock)"
-msgstr ""
+msgstr "UNIX domene socket bane (f.eks: /var/run/ttyd.sock)"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:20
 msgid "UNIX socket"
-msgstr ""
+msgstr "UNIX-kontakt"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:31
 msgid "UNIX socket path"
-msgstr ""
+msgstr "UNIX-kontaktbane"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:90
 msgid "URL override"
-msgstr ""
+msgstr "URL-overstyring"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:39
 msgid "User ID"
-msgstr ""
+msgstr "Bruker-ID"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:39
 msgid "User id to run with"
-msgstr ""
+msgstr "Bruker-ID å kjøre med"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:83
 msgid "Warning"
@@ -253,4 +252,4 @@ msgstr "Advarsel"
 
 #: applications/luci-app-ttyd/htdocs/luci-static/resources/view/ttyd/config.js:12
 msgid "ttyd Instance"
-msgstr ""
+msgstr "ttyd Forekomst"

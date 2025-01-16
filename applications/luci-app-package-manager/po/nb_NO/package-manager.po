@@ -1,29 +1,21 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-10-29 00:12+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationspackage-manager/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:861
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:926
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:940
 msgid "%s Configuration"
-msgstr "%s-oppsett"
+msgstr "%s konfigurasjon"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1123
-#, fuzzy
 msgid "%s used (%1024mB used of %1024mB, %1024mB free)"
 msgstr "%s brukt (%1024mB brukt av %1024mB, %1024mB ledig)"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1163
 msgid ""
-"<strong>Warning!</strong> Package operations can <a %s>break your system</a>."
+"<strong>Warning!</strong> Package operations can <a %s>break your "
+"system</a>."
 msgstr ""
 "<strong>Advarsel!</strong> Pakkeoperasjoner kan <a %s>ødelegge systemet "
 "ditt</a>."
@@ -34,11 +26,11 @@ msgstr "Handlinger"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:796
 msgid "Allow overwriting conflicting package files"
-msgstr "Tillat overskriving av pakkefiler i konflikt"
+msgstr "Tillat overskriving av motstridende pakkefiler"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:975
 msgid "Automatically remove unused dependencies"
-msgstr "Fjern ubrukte avhengigheter automatisk"
+msgstr "Fjern automatisk ubrukte avhengigheter"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1246
 msgid "Available"
@@ -50,14 +42,22 @@ msgid ""
 "The configuration in the other files may be changed but is usually not "
 "preserved by <em>sysupgrade</em>."
 msgstr ""
+"Nedenfor er en liste over de ulike konfigurasjonsfilene som brukes av "
+"<em>apk</em>. Konfigurasjonen i de andre filene kan endres, men blir "
+"vanligvis ikke bevart av <em>sysupgrade</em>."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:897
 msgid ""
-"Below is a listing of the various configuration files used by <em>opkg</em>. "
-"Use <em>opkg.conf</em> for global settings and <em>customfeeds.conf</em> for "
-"custom repository entries. The configuration in the other files may be "
+"Below is a listing of the various configuration files used by <em>opkg</em>."
+" Use <em>opkg.conf</em> for global settings and <em>customfeeds.conf</em> "
+"for custom repository entries. The configuration in the other files may be "
 "changed but is usually not preserved by <em>sysupgrade</em>."
 msgstr ""
+"Nedenfor er en liste over de forskjellige konfigurasjonsfilene som brukes av"
+" <em>opkg</em>. Bruk <em>opkg.conf</em> for globale innstillinger og "
+"<em>customfeeds.conf</em> for egendefinerte repository-oppføringer. "
+"Konfigurasjonen i de andre filene kan endres, men blir vanligvis ikke bevart"
+" av <em>sysupgrade</em>."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:804
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:850
@@ -69,11 +69,11 @@ msgstr "Avbryt"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1178
 msgid "Clear"
-msgstr "Tøm"
+msgstr "Klar"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1195
 msgid "Configure %s"
-msgstr "Sett opp %s"
+msgstr "Konfigurer %s"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:748
 msgid "Dependencies"
@@ -91,11 +91,11 @@ msgstr "Detaljer for pakken <em>%h</em>"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1170
 msgid "Disk space"
-msgstr "Lagringsplass"
+msgstr "Diskplass"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1058
 msgid "Dismiss"
-msgstr "Avslå"
+msgstr "Lukk"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1200
 msgid "Display LuCI translation packages"
@@ -110,6 +110,8 @@ msgid ""
 "Display base translation packages and translation packages for already "
 "installed languages only"
 msgstr ""
+"Vis grunnleggende oversettelsespakker og oversettelsespakker kun for "
+"allerede installerte språk"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:357
 msgid "Displaying %d-%d of %d"
@@ -120,22 +122,20 @@ msgid "Download and install package"
 msgstr "Last ned og installer pakken"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1036
-#, fuzzy
 msgid "Errors"
 msgstr "Feil"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1004
 msgid "Executing package manager"
-msgstr "Kjører pakkebehandler"
+msgstr "Utfører pakkebehandler"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1175
-#, fuzzy
 msgid "Filter"
 msgstr "Filter"
 
 #: applications/luci-app-package-manager/root/usr/share/rpcd/acl.d/luci-app-package-manager.json:3
 msgid "Grant access to package management"
-msgstr "Innvilg tilgang til pakkehåndtering"
+msgstr "Gi tilgang til pakkehåndtering"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1230
 msgid "Hide all translation packages"
@@ -150,18 +150,17 @@ msgstr "Installer"
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1161
 msgid "Install additional software and upgrade existing packages with %s."
 msgstr ""
-"Installer ytterligere programvare og oppgrader eksisterende pakker med %s."
+"Installer tilleggsprogramvare og oppgrader eksisterende pakker med %s."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:784
 msgid "Install suggested translation packages as well"
-msgstr "Installer foreslåtte pakker også"
+msgstr "Installer også foreslåtte oversettelsespakker"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:302
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:525
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1247
-#, fuzzy
 msgid "Installed"
-msgstr "Installer"
+msgstr "Installert"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:834
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1071
@@ -169,20 +168,20 @@ msgid ""
 "Installing packages from untrusted sources is a potential security risk! "
 "Really attempt to install <em>%h</em>?"
 msgstr ""
-"Installasjon fra ubetrodde kilder er en sikkerhetsrisiko. Vil du vikelig "
-"prøve å installere <em>%h</em>?"
+"Å installere pakker fra ikke-klarerte kilder er en potensiell "
+"sikkerhetsrisiko! Virkelig prøve å installere <em>%h</em>?"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:290
 msgid "Install…"
-msgstr "Installer…"
+msgstr "Installer..."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:862
 msgid "Loading configuration data…"
-msgstr "Laster inn oppsettsdata…"
+msgstr "Laster inn konfigurasjonsdata …"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1112
 msgid "Loading package information…"
-msgstr "Last inn pakkeinfo …"
+msgstr "Laster pakkeinformasjon …"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1074
 msgid "MD5"
@@ -190,9 +189,8 @@ msgstr "MD5"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:844
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1070
-#, fuzzy
 msgid "Manually install package"
-msgstr "Last ned og installer pakken"
+msgstr "Installer pakken manuelt"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:513
 msgid "Needs upgrade"
@@ -208,23 +206,20 @@ msgid "No information available"
 msgstr "Ingen informasjon tilgjengelig"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:358
-#, fuzzy
 msgid "No packages"
-msgstr "Finn pakke"
+msgstr "Ingen pakker"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:375
 msgid "No packages matching \"<strong>%h</strong>\"."
 msgstr "Ingen pakker samsvarer med «<strong>%h</strong>»."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:545
-#, fuzzy
 msgid "Not available"
-msgstr "Totalt Tilgjengelig"
+msgstr "Ikke tilgjengelig"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:530
-#, fuzzy
 msgid "Not installed"
-msgstr "Ikke tilkoblet"
+msgstr "Ikke installert"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1186
 msgid "OK"
@@ -236,7 +231,7 @@ msgstr "Pakkenavn"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1185
 msgid "Package name or URL…"
-msgstr "Pakkenavn eller nettadresse…"
+msgstr "Pakkenavn eller URL..."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1253
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1271
@@ -245,11 +240,11 @@ msgstr "Forrige side"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:841
 msgid "Really attempt to install <em>%h</em>?"
-msgstr "Vil du virkelig prøve å installere <em>%h</em>?"
+msgstr "Virkelig prøve å installere <em>%h</em>?"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:989
 msgid "Remove"
-msgstr "Fjern"
+msgstr "Fjerne"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:965
 msgid "Remove package <em>%h</em>"
@@ -257,34 +252,34 @@ msgstr "Fjern pakken <em>%h</em>"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:277
 msgid "Remove…"
-msgstr "Avinstaller…"
+msgstr "Fjerne…"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:741
 msgid "Require approx. %1024mB size for %d package(s) to install."
-msgstr "Krever ca. %1024mB ledig for installasjon av %d pakker."
+msgstr "Krever ca. %1024mB størrelse for %d pakke(r) å installere."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:520
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:538
 msgid "Require version %h %h, installed %h"
-msgstr "Krever versjon %h %h, %h installert"
+msgstr "Krev versjon %h %h, installert %h"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:543
 msgid ""
 "Required dependency package <em>%h</em> is not available in any repository."
 msgstr ""
+"Nødvendig avhengighetspakke <em>%h</em> er ikke tilgjengelig i noe depot."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:511
-#, fuzzy
 msgid "Requires update to %h %h"
-msgstr "Krever oppgradering til %h %h"
+msgstr "Krever oppdatering til %h %h"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:376
 msgid "Reset"
-msgstr "Nullstill"
+msgstr "Tilbakestill"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1075
 msgid "SHA256"
-msgstr "SHA-256"
+msgstr "SHA256"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:937
 msgid "Save"
@@ -292,7 +287,7 @@ msgstr "Lagre"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:927
 msgid "Saving configuration data…"
-msgstr "Lagrer oppsettsdata…"
+msgstr "Lagrer konfigurasjonsdata …"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:762
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:968
@@ -302,7 +297,7 @@ msgstr "Størrelse"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1263
 msgid "Size (%s)"
-msgstr "Størrelse (.ipk)"
+msgstr "Størrelse (%s)"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1158
 #: applications/luci-app-package-manager/root/usr/share/luci/menu.d/luci-app-package-manager.json:3
@@ -315,35 +310,39 @@ msgstr "Foreslåtte oversettelser"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:744
 msgid "Suggested translations require approx. %1024mB additional space."
-msgstr ""
+msgstr "Foreslåtte oversettelser krever ca. %1024mB ekstra plass."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1041
 msgid "The <em>%s %h</em> command failed with code <code>%d</code>."
-msgstr ""
+msgstr "Kommandoen <em>%s %h</em> mislyktes med koden <code>%d</code>."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:516
 msgid ""
 "The installed version of package <em>%h</em> is not compatible, require %s "
 "while %s is installed."
 msgstr ""
+"Den installerte versjonen av pakken <em>%h</em> er ikke kompatibel, krever "
+"%s mens %s er installert."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:837
 msgid "The package <em>%h</em> is not available in any configured repository."
-msgstr ""
+msgstr "Pakken <em>%h</em> er ikke tilgjengelig i noe konfigurert depot."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:533
 msgid ""
 "The repository version of package <em>%h</em> is not compatible, require %s "
 "but only %s is available."
 msgstr ""
+"Lagringsversjonen av pakken <em>%h</em> er ikke kompatibel, krever %s, men "
+"bare %s er tilgjengelig."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1177
 msgid "Type to filter…"
-msgstr "Skriv for å filtrere …"
+msgstr "Skriv for å filtrere..."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1060
 msgid "Unable to execute <em>%s %s</em> command: %s"
-msgstr ""
+msgstr "Kan ikke utføre kommandoen <em>%s %s</em>: %s"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:891
 msgid "Unable to read %s: %s"
@@ -355,12 +354,11 @@ msgstr "Kan ikke lagre %s: %s"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1193
 msgid "Update lists…"
-msgstr "Oppdater lister…"
+msgstr "Oppdater lister..."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1248
-#, fuzzy
 msgid "Updates"
-msgstr "Oppdater lister"
+msgstr "Oppdateringer"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:266
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:297
@@ -380,11 +378,11 @@ msgstr "Versjon"
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:522
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:540
 msgid "Version incompatible"
-msgstr "Ukompatibel versjon"
+msgstr "Versjon inkompatibel"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1006
 msgid "Waiting for the <em>%s %h</em> command to complete…"
-msgstr "Venter på at <em>%s %h</em>-kommandoen skal fullføres …"
+msgstr "Venter på at kommandoen <em>%s %h</em> skal fullføres..."
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:1226
 msgctxt "Display translation packages"
@@ -410,23 +408,9 @@ msgstr "ukjent"
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:675
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:954
 msgid "~%1024mB compressed"
-msgstr ""
+msgstr "~%1024mB komprimert"
 
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:673
 #: applications/luci-app-package-manager/htdocs/luci-static/resources/view/package-manager.js:952
 msgid "~%1024mB installed"
-msgstr ""
-
-#, fuzzy
-#~ msgid "Configure opkg…"
-#~ msgstr "Sett opp opkg…"
-
-#, fuzzy
-#~ msgid "OPKG Configuration"
-#~ msgstr "<abbr title=\"Open PacKaGe Management\">OPKG</abbr>-Konfigurasjon"
-
-#~ msgid "Waiting for the <em>opkg %h</em> command to complete…"
-#~ msgstr "Venter på at <em>opkg %h</em>-kommando fullføres…"
-
-#~ msgid "Free space"
-#~ msgstr "Ledig plass"
+msgstr "~%1024mB installert"

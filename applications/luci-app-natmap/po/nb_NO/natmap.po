@@ -1,92 +1,84 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsnatmap/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:93
 msgid "Bind port"
-msgstr ""
+msgstr "Bind port"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:55
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:119
 msgid "External IP"
-msgstr ""
+msgstr "Ekstern IP"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:126
 msgid "External Port"
-msgstr ""
+msgstr "Ekstern port"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:88
 msgid "For TCP mode"
-msgstr ""
+msgstr "For TCP-modus"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:97
 msgid "Forward mode"
-msgstr ""
+msgstr "Fremover-modus"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:105
 msgid "Forward target"
-msgstr ""
+msgstr "Fremover mål"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:110
 msgid "Forward target port"
-msgstr ""
+msgstr "Forover målport"
 
 #: applications/luci-app-natmap/root/usr/share/rpcd/acl.d/luci-app-natmap.json:3
 msgid "Grant access to LuCI app natmap"
-msgstr ""
+msgstr "Gi tilgang til LuCI app natmap"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:88
 msgid "HTTP server"
-msgstr ""
+msgstr "HTTP-server"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:71
 msgid "IPv4 and IPv6"
-msgstr ""
+msgstr "IPv4 og IPv6"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:72
 msgid "IPv4 only"
-msgstr ""
+msgstr "Kun IPv4"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:73
 msgid "IPv6 only"
-msgstr ""
+msgstr "Kun IPv6"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:75
 msgid "Interface"
-msgstr ""
+msgstr "Grensesnitt"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:78
 msgid "Keep-alive interval"
-msgstr ""
+msgstr "Hold-live-intervall"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:50
 #: applications/luci-app-natmap/root/usr/share/luci/menu.d/luci-app-natmap.json:3
 msgid "NATMap"
-msgstr ""
+msgstr "NATMap"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:115
 msgid "Notify script"
-msgstr ""
+msgstr "Varsle script"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:59
 msgid "Protocol"
-msgstr ""
+msgstr "Protokoll"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:69
 msgid "Restrict to address family"
-msgstr ""
+msgstr "Begrens til å adressere familie"
 
 #: applications/luci-app-natmap/htdocs/luci-static/resources/view/natmap.js:82
 msgid "STUN server"
-msgstr ""
+msgstr "STUN server"

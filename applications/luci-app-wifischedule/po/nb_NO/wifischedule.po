@@ -1,91 +1,82 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-08-02 12:53+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationswifischedule/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:58
-#, fuzzy
 msgid "Activate wifi"
-msgstr "Aktiver Wi-Fi"
+msgstr "Aktiver wifi"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:82
 msgid "Could not find required /usr/bin/wifi_schedule.sh or /sbin/wifi"
-msgstr ""
+msgstr "Kunne ikke finne nødvendig /usr/bin/wifi_schedule.sh eller /sbin/wifi"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:162
 msgid "Could not find required program /usr/bin/iwinfo"
-msgstr ""
+msgstr "Kunne ikke finne det nødvendige programmet /usr/bin/iwinfo"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:121
 msgid "Day(s) of Week"
-msgstr ""
+msgstr "Dager) i uken"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:51
 msgid "Defines a schedule when to turn on and off wifi."
-msgstr ""
+msgstr "Definerer en tidsplan når du skal slå på og av wifi."
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:68
 msgid "Disable wifi forced"
-msgstr ""
+msgstr "Deaktiver wifi tvunget"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:63
 msgid "Disable wifi gracefully"
-msgstr ""
+msgstr "Deaktiver wifi grasiøst"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:78
 msgid "Enable Wifi Schedule"
-msgstr ""
+msgstr "Aktiver Wifi-plan"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:86
 msgid "Enable logging"
-msgstr ""
+msgstr "Aktiver logging"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:117
 msgid "Enable mode"
-msgstr ""
+msgstr "Aktiver modus"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:158
 msgid "Force disabling wifi even if stations associated"
-msgstr ""
+msgstr "Tving deaktivering av wifi selv om stasjoner er tilknyttet"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:131
 msgid "Friday"
-msgstr ""
+msgstr "fredag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:73
 msgid "Global Settings"
-msgstr ""
+msgstr "Globale innstillinger"
 
 #: applications/luci-app-wifischedule/root/usr/share/rpcd/acl.d/luci-app-wifischedule.json:3
 msgid "Grant UCI access for luci-app-wifischedule"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-wifischedule"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:53
 msgid "Manual control"
-msgstr ""
+msgstr "Manuell kontroll"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:110
 msgid "Modules detected"
-msgstr ""
+msgstr "Moduler oppdaget"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:127
 msgid "Monday"
-msgstr ""
+msgstr "mandag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:132
 msgid "Saturday"
-msgstr ""
+msgstr "lørdag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:114
 msgid "Schedule events"
-msgstr ""
+msgstr "Planlegg hendelser"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:145
 msgid "Start Time"
@@ -93,47 +84,44 @@ msgstr "Starttid"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:138
 msgid "Start WiFi"
-msgstr ""
+msgstr "Start WiFi"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:155
 msgid "Stop Time"
-msgstr ""
+msgstr "Stopptid"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:148
 msgid "Stop WiFi"
-msgstr ""
+msgstr "Stopp WiFi"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:133
 msgid "Sunday"
-msgstr ""
+msgstr "søndag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:34
 msgid "The value %s is invalid"
-msgstr ""
+msgstr "Verdien %s er ugyldig"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:130
 msgid "Thursday"
-msgstr ""
+msgstr "torsdag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:128
 msgid "Tuesday"
-msgstr ""
+msgstr "tirsdag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:91
 msgid "Unload Modules (experimental; saves more power)"
-msgstr ""
+msgstr "Last ut moduler (eksperimentell; sparer mer strøm)"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:129
 msgid "Wednesday"
-msgstr ""
+msgstr "onsdag"
 
 #: applications/luci-app-wifischedule/htdocs/luci-static/resources/view/wifischedule/wifischedule.js:51
 msgid "Wifi Schedule"
-msgstr ""
+msgstr "Wifi-plan"
 
 #: applications/luci-app-wifischedule/root/usr/share/luci/menu.d/luci-app-wifischedule.json:3
 msgid "wifischedule"
-msgstr ""
-
-#~ msgid "Enable"
-#~ msgstr "Skru på"
+msgstr "wifi-skjema"

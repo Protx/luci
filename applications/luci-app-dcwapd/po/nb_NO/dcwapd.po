@@ -1,14 +1,6 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-10-10 20:50+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsdcwapd/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:68
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:120
@@ -17,58 +9,60 @@ msgstr "Bro"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:93
 msgid "Channel Sets"
-msgstr ""
+msgstr "Kanalsett"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:49
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:131
 msgid "Data Channels"
-msgstr ""
+msgstr "Datakanaler"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:49
 msgid "Define data channels over which outbound filtered packets will flow."
-msgstr ""
+msgstr "Definer datakanaler som utgående filtrerte pakker skal flyte over."
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:145
 msgid ""
-"Define filter rules to apply to outbound packets. Matching packets will flow "
-"over the data channel."
+"Define filter rules to apply to outbound packets. Matching packets will flow"
+" over the data channel."
 msgstr ""
+"Definer filterregler som skal gjelde for utgående pakker. Matchende pakker "
+"vil flyte over datakanalen."
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:93
 msgid "Define primary channels and their corresponding data channels."
-msgstr ""
+msgstr "Definer primærkanaler og deres tilsvarende datakanaler."
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:178
 msgid "Destination port"
-msgstr "Målport"
+msgstr "Destinasjonsport"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:27
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:28
 msgid "Dual Channel Wi-Fi AP Daemon"
-msgstr ""
+msgstr "Dual Channel Wi-Fi AP Daemon"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:28
 #: applications/luci-app-dcwapd/root/usr/share/luci/menu.d/luci-app-dcwapd.json:3
 msgid "Dual Channel WiFi"
-msgstr ""
+msgstr "Dual Channel WiFi"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:38
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:100
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:184
 msgid "Filter Sets"
-msgstr ""
+msgstr "Filtersett"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:145
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:197
 msgid "Filters"
-msgstr ""
+msgstr "Filtre"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:31
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:31
 msgid "General Settings"
@@ -76,7 +70,7 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-dcwapd/root/usr/share/rpcd/acl.d/luci-app-dcwapd.json:3
 msgid "Grant UCI access for luci-app-dcwapd"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-dcwapd"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:79
 msgid "Interfaces"
@@ -88,7 +82,7 @@ msgstr "MAC-adresse"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:151
 msgid "Packet size"
-msgstr ""
+msgstr "Pakkestørrelse"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:169
 msgid "Protocol"
@@ -101,26 +95,28 @@ msgstr "SSID"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:184
 msgid "Select filters to apply to matching MAC addresses."
-msgstr ""
+msgstr "Velg filtre som skal brukes på samsvarende MAC-adresser."
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:157
 msgid "Source IP"
-msgstr ""
+msgstr "Kilde IP"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:163
 msgid "Source port"
-msgstr ""
+msgstr "Kildeport"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:44
 msgid "Specify the temporary directory for dcwapd file storage."
-msgstr ""
+msgstr "Spesifiser den midlertidige katalogen for dcwapd-fillagring."
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:44
 msgid "Temp Directory"
-msgstr ""
+msgstr "Temp Directory"
 
 #: applications/luci-app-dcwapd/htdocs/luci-static/resources/view/dcwapd/dcwapd.js:28
 msgid ""
 "With %s you can use two simultaneous Wi-Fi connections to decrease wireless "
 "traffic congestion and increase throughput."
 msgstr ""
+"Med %s kan du bruke to samtidige Wi-Fi-tilkoblinger for å redusere trådløs "
+"trafikkbelastning og øke gjennomstrømningen."

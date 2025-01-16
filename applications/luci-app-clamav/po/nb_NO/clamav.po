@@ -1,18 +1,10 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsclamav/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:248
 msgid "150M"
-msgstr "150M"
+msgstr "150 millioner"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:164
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:245
@@ -21,7 +13,7 @@ msgstr "1M"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:166
 msgid "25M"
-msgstr ""
+msgstr "25 millioner"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:165
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:246
@@ -31,7 +23,7 @@ msgstr "2M"
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:167
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:247
 msgid "50M"
-msgstr "50M"
+msgstr "50 millioner"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:163
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:244
@@ -42,169 +34,169 @@ msgstr "512K"
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:69
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:77
 msgid "Accept"
-msgstr ""
+msgstr "Akseptere"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:82
 msgid "Add header"
-msgstr ""
+msgstr "Legg til overskrift"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:153
 msgid "Alert on broken executables"
-msgstr ""
+msgstr "Varsel om ødelagte kjørbare filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:201
 msgid "Alert on encrypted archives"
-msgstr ""
+msgstr "Varsel om krypterte arkiver"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:151
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:157
 msgid "Basic"
-msgstr ""
+msgstr "Grunnleggende"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:64
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:72
 msgid "Blackhole"
-msgstr ""
+msgstr "Blackhole"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:195
 msgid "Block encrypted archives"
-msgstr ""
+msgstr "Blokker krypterte arkiver"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:16
 #: applications/luci-app-clamav/root/usr/share/luci/menu.d/luci-app-clamav.json:3
 #: applications/luci-app-clamav/root/usr/share/luci/menu.d/luci-app-clamav.json:15
 msgid "ClamAV"
-msgstr ""
+msgstr "ClamAV"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:15
 #: applications/luci-app-clamav/root/usr/share/luci/menu.d/luci-app-clamav.json:24
 msgid "ClamAV Milter"
-msgstr ""
+msgstr "ClamAV Milter"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:224
 msgid "Command read timeout"
-msgstr ""
+msgstr "Tidsavbrudd for kommandolesing"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:155
 msgid "Compress local database"
-msgstr ""
+msgstr "Komprimer lokal database"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:15
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:16
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:15
 msgid "Configuration"
-msgstr ""
+msgstr "Konfigurasjon"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:160
 msgid "Connect timeout"
-msgstr ""
+msgstr "Tidsavbrudd for tilkobling"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:137
 msgid "Custom database URL"
-msgstr ""
+msgstr "Egendefinert database-URL"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:125
 msgid "DNS database info"
-msgstr ""
+msgstr "DNS-databaseinformasjon"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:236
 msgid "Database check every N sec"
-msgstr ""
+msgstr "Databasesjekk hvert N sek"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:172
 msgid "Database checks per day"
-msgstr ""
+msgstr "Databasekontroller per dag"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:285
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:119
 msgid "Database directory"
-msgstr ""
+msgstr "Databasekatalog"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:131
 msgid "Database mirror"
-msgstr ""
+msgstr "Databasespeil"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:112
 msgid "Database owner"
-msgstr ""
+msgstr "Databaseeier"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:115
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:65
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:60
 msgid "Debug logging"
-msgstr ""
+msgstr "Feilsøk logging"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:63
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:71
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:79
 msgid "Defer"
-msgstr ""
+msgstr "Utsette"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:147
 msgid "Detect broken executables"
-msgstr ""
+msgstr "Oppdag ødelagte kjørbare filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:129
 msgid "Detect possibly unwanted apps"
-msgstr ""
+msgstr "Oppdag muligens uønskede apper"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:278
 msgid "Disable certificate checks"
-msgstr ""
+msgstr "Deaktiver sertifikatkontroller"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:182
 msgid "Download bytecode.cvd"
-msgstr ""
+msgstr "Last ned bytecode.cvd"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:110
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:59
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:55
 msgid "Enable verbose logging"
-msgstr ""
+msgstr "Aktiver detaljert logging"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:192
 msgid "Exclude databases"
-msgstr ""
+msgstr "Ekskluder databaser"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:271
 msgid "Exit when Out Of Memory"
-msgstr ""
+msgstr "Avslutt når minnet er fullt"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:187
 msgid "Extra databases"
-msgstr ""
+msgstr "Ekstra databaser"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:208
 msgid "Fix stale socket"
-msgstr ""
+msgstr "Fest foreldet stikkontakt"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:117
 msgid "Follow directory symlinks"
-msgstr ""
+msgstr "Følg katalogsymbolene"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:123
 msgid "Follow file symlinks"
-msgstr ""
+msgstr "Følg filsymbolene"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:15
 #: applications/luci-app-clamav/root/usr/share/luci/menu.d/luci-app-clamav.json:36
 msgid "Freshclam"
-msgstr ""
+msgstr "Freshclam"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:152
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:158
 msgid "Full"
-msgstr ""
+msgstr "Full"
 
 #: applications/luci-app-clamav/root/usr/share/rpcd/acl.d/luci-app-clamav.json:3
 msgid "Grant UCI access for luci-app-clamav"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-clamav"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:190
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:196
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:297
 msgid "Local socket"
-msgstr ""
+msgstr "Lokal stikkontakt"
 
 #: applications/luci-app-clamav/root/usr/share/luci/menu.d/luci-app-clamav.json:48
 msgid "Log"
@@ -212,44 +204,44 @@ msgstr "Logg"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:99
 msgid "Log additional infection info"
-msgstr ""
+msgstr "Logg ytterligere infeksjonsinformasjon"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:155
 msgid "Log clean"
-msgstr ""
+msgstr "Logg ren"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:149
 msgid "Log infections"
-msgstr ""
+msgstr "Logg infeksjoner"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:105
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:53
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:50
 msgid "Log time with each message"
-msgstr ""
+msgstr "Logg tid med hver melding"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:121
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:71
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:66
 msgid "Log to syslog"
-msgstr ""
+msgstr "Logg til syslog"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:111
 msgid "Max directory scan depth"
-msgstr ""
+msgstr "Maks katalogskanningsdybde"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:229
 msgid "Max number of threads"
-msgstr ""
+msgstr "Maks antall tråder"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:161
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:242
 msgid "Max size of scanned file"
-msgstr ""
+msgstr "Maksimal størrelse på skannet fil"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:50
 msgid "Milter socket group"
-msgstr ""
+msgstr "Milter stikkontakt gruppe"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:33
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:106
@@ -291,118 +283,118 @@ msgstr ""
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:178
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:183
 msgid "No"
-msgstr ""
+msgstr "Ingen"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:106
 msgid "Notify clamd"
-msgstr ""
+msgstr "Gi beskjed til clamd"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:150
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:156
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:60
 msgid "On-clean action"
-msgstr ""
+msgstr "On-clean handling"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:76
 msgid "On-fail action"
-msgstr ""
+msgstr "Handling ved feil"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:68
 msgid "On-infected action"
-msgstr ""
+msgstr "På-infisert handling"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:38
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:100
 msgid "PID file"
-msgstr ""
+msgstr "PID-fil"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:213
 msgid "Port range, highest port"
-msgstr ""
+msgstr "Havneområde, høyeste port"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:207
 msgid "Port range, lowest port"
-msgstr ""
+msgstr "Havneområde, laveste port"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:145
 msgid "Private mirror URL"
-msgstr ""
+msgstr "Privat speil-URL"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:65
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:73
 msgid "Quarantine"
-msgstr ""
+msgstr "Karantene"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:56
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:219
 msgid "Read timeout"
-msgstr ""
+msgstr "Les timeout"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:166
 msgid "Receive timeout"
-msgstr ""
+msgstr "Motta tidsavbrudd"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:62
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:70
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:78
 msgid "Reject"
-msgstr ""
+msgstr "Avvis"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:181
 msgid "Rejecting Harmful Email: %v found."
-msgstr ""
+msgstr "Avviser skadelig e-post: %v funnet."
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:176
 msgid "Rejection log message"
-msgstr ""
+msgstr "Melding om avvisningslogg"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:83
 msgid "Replace"
-msgstr ""
+msgstr "Bytt ut"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:32
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:94
 msgid "Run in foreground"
-msgstr ""
+msgstr "Løp i forgrunnen"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:141
 msgid "Scan ELF files"
-msgstr ""
+msgstr "Skann ELF-filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:159
 msgid "Scan MS Office and .msi files"
-msgstr ""
+msgstr "Skann MS Office- og .msi-filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:183
 msgid "Scan RFC1341 messages split over many emails"
-msgstr ""
+msgstr "Skann RFC1341-meldinger delt over mange e-poster"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:189
 msgid "Scan archives"
-msgstr ""
+msgstr "Skann arkiver"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:177
 msgid "Scan emails"
-msgstr ""
+msgstr "Skann e-poster"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:165
 msgid "Scan pdf files"
-msgstr ""
+msgstr "Skann pdf-filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:135
 msgid "Scan portable executables"
-msgstr ""
+msgstr "Skann bærbare kjørbare filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:171
 msgid "Scan swf files"
-msgstr ""
+msgstr "Skann swf-filer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:150
 msgid "Scripted updates"
-msgstr ""
+msgstr "Skriptbaserte oppdateringer"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:18
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:23
@@ -415,39 +407,39 @@ msgstr "Innstillinger"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:171
 msgid "Support multiple recipients"
-msgstr ""
+msgstr "Støtt flere mottakere"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:127
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:77
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:72
 msgid "Syslog facility"
-msgstr ""
+msgstr "Syslog anlegg"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:252
 msgid "TCP listen address"
-msgstr ""
+msgstr "TCP lytteadresse"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:259
 msgid "TCP listen port"
-msgstr ""
+msgstr "TCP lytteport"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:184
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:291
 msgid "Temporary directory"
-msgstr ""
+msgstr "Midlertidig katalog"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:177
 msgid "Test databases"
-msgstr ""
+msgstr "Test databaser"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:105
 msgid "Use official database only"
-msgstr ""
+msgstr "Bruk kun offisiell database"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:44
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:265
 msgid "User"
-msgstr ""
+msgstr "Bruker"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:34
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:84
@@ -490,35 +482,17 @@ msgstr ""
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:179
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:184
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:26
 msgid "clamav-milter config file"
-msgstr ""
+msgstr "clamav-milter konfigurasjonsfil"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav.js:28
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/freshclam.js:26
 msgid "clamd config file"
-msgstr ""
+msgstr "clamd konfigurasjonsfil"
 
 #: applications/luci-app-clamav/htdocs/luci-static/resources/view/clamav/clamav-milter.js:202
 msgid "clamd socket"
-msgstr ""
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "1024"
-#~ msgstr "1024"
-
-#~ msgid "15"
-#~ msgstr "15"
-
-#~ msgid "20"
-#~ msgstr "20"
-
-#~ msgid "2048"
-#~ msgstr "2048"
-
-#~ msgid "600"
-#~ msgstr "600"
+msgstr "clamd stikkontakt"

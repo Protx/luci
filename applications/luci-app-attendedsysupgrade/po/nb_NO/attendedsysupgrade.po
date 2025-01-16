@@ -1,14 +1,6 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-10-24 13:06+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsattendedsysupgrade/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:21
 msgid "Address"
@@ -16,110 +8,110 @@ msgstr "Adresse"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:22
 msgid "Address of the sysupgrade server"
-msgstr ""
+msgstr "Adressen til sysupgrade-serveren"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:50
 msgid "Advanced Mode"
-msgstr ""
+msgstr "Avansert modus"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:11
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:611
 #: applications/luci-app-attendedsysupgrade/root/usr/share/luci/menu.d/luci-app-attendedsysupgrade.json:3
 msgid "Attended Sysupgrade"
-msgstr "Bivånet systemoppgradering"
+msgstr "Veiledet systemoppgradering"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:12
 msgid "Attendedsysupgrade Configuration."
-msgstr ""
+msgstr "Attendedsysupgrade Configuration."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:520
 msgid "Board Name / Profile"
-msgstr ""
+msgstr "Styrenavn/profil"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:125
 msgid "Build Date"
-msgstr ""
+msgstr "Byggedato"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:202
 msgid "Building Firmware..."
-msgstr ""
+msgstr "Bygger firmware"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:67
 msgid "Calculating package hash"
-msgstr ""
+msgstr "Beregner pakkehash"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:165
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:535
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:35
 msgid "Client"
-msgstr ""
+msgstr "Klient"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:246
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:383
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:438
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:572
 msgid "Close"
-msgstr "Lukk"
+msgstr "Lukke"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:70
 msgid "Completed generating firmware image"
-msgstr ""
+msgstr "Fullført generering av firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/root/usr/share/luci/menu.d/luci-app-attendedsysupgrade.json:24
 msgid "Configuration"
-msgstr "Oppsett"
+msgstr "Konfigurasjon"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:432
 msgid "Could not reach API at \"%s\". Please try again later."
-msgstr ""
+msgstr "Kunne ikke nå API på «%s». Vennligst prøv igjen senere."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:528
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:626
 msgid "Currently running: %s - %s"
-msgstr ""
+msgstr "Kjører for øyeblikket: %s - %s"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:298
 msgid "Download"
-msgstr ""
+msgstr "Last ned"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:136
 msgid "Download firmware image"
-msgstr ""
+msgstr "Last ned firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:74
 msgid "Downloading ImageBuilder archive"
-msgstr ""
+msgstr "Laster ned ImageBuilder-arkiv"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:344
 msgid "Downloading firmware from server to browser"
-msgstr ""
+msgstr "Laste ned firmware fra server til nettleser"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:340
 msgid "Downloading..."
-msgstr ""
+msgstr "Laster ned..."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:250
 msgid "Error building the firmware image"
-msgstr ""
+msgstr "Feilet ved bygging av firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:428
 msgid "Error connecting to upgrade server"
-msgstr ""
+msgstr "Feil ved tilkobling til oppgraderingsserver"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:381
 msgid "Error during download of firmware. Please try again"
-msgstr ""
+msgstr "Feil under nedlasting av fastvare. Vennligst prøv igjen"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:71
 msgid "Failed to generate firmware image"
-msgstr ""
+msgstr "Kunne ikke generere firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:127
 msgid "Filename"
-msgstr ""
+msgstr "Filnavn"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:129
 msgid "Filesystem"
@@ -127,176 +119,182 @@ msgstr "Filsystem"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:68
 msgid "Generating firmware image"
-msgstr ""
+msgstr "Genererer firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/root/usr/share/rpcd/acl.d/luci-app-attendedsysupgrade.json:3
 msgid "Grant UCI access to LuCI app attendedsysupgrade"
-msgstr ""
+msgstr "Gi UCI-tilgang til LuCI-appen attendedsysupgrade"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:175
 msgid "Install firmware image"
-msgstr ""
+msgstr "Installer firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:390
 msgid "Installing the sysupgrade. Do not unpower device!"
-msgstr ""
+msgstr "Installerer systemoppgraderingen. Ikke koble fra enheten!"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:386
 msgid "Installing..."
-msgstr ""
+msgstr "Installerer..."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:161
 msgid "Keep settings and retain the current configuration"
-msgstr ""
+msgstr "Behold innstillingene og behold gjeldende konfigurasjon"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:525
 msgid "New firmware upgrade available"
-msgstr ""
+msgstr "Ny firmwareoppgradering tilgjengelig"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:563
 msgid "No upgrade available"
-msgstr ""
+msgstr "Ingen oppgradering tilgjengelig"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:30
 msgid ""
-"Other ASU server instances that rebuild a requested image. Allows to compare "
-"checksums and verify that the results are the same."
+"Other ASU server instances that rebuild a requested image. Allows to compare"
+" checksums and verify that the results are the same."
 msgstr ""
+"Andre ASU-serverforekomster som gjenoppbygger et forespurt bilde. Gjør det "
+"mulig å sammenligne kontrollsummer og verifisere at resultatene er de samme."
 
 #: applications/luci-app-attendedsysupgrade/root/usr/share/luci/menu.d/luci-app-attendedsysupgrade.json:15
 msgid "Overview"
-msgstr ""
+msgstr "Oversikt"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:521
 msgid "Packages"
-msgstr ""
+msgstr "Pakker"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:228
 msgid "Please report the error message and request"
-msgstr ""
+msgstr "Vennligst rapporter feilmeldingen og be om"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:121
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:206
 msgid "Progress: %s%% %s"
-msgstr ""
+msgstr "Fremdrift: %s%% %s"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:192
 msgid "Queued..."
-msgstr ""
+msgstr "I kø..."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:28
 msgid "Rebuilders"
-msgstr ""
+msgstr "Ombyggere"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:139
 msgid "Rebuilds"
-msgstr ""
+msgstr "Bygger om"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:63
 msgid "Received build request"
-msgstr ""
+msgstr "Mottatt byggeforespørsel"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:230
 msgid "Request Data:"
-msgstr ""
+msgstr "Be om data:"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:557
 msgid "Request firmware image"
-msgstr ""
+msgstr "Be om fastvarebilde"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:196
 msgid "Request in build queue position %s"
-msgstr ""
+msgstr "Forespørsel i byggekøposisjon %s"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:115
 msgid "SHA256"
-msgstr "SHA-256"
+msgstr "SHA256"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:637
 msgid "Search for firmware upgrade"
-msgstr ""
+msgstr "Søk etter fastvareoppgradering"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:42
 msgid "Search for new sysupgrades on opening the tab"
-msgstr ""
+msgstr "Søk etter nye systemoppgraderinger når du åpner fanen"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:41
 msgid "Search on opening"
-msgstr ""
+msgstr "Søk ved åpning"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:419
 msgid "Searching for an available sysupgrade of %s - %s"
-msgstr ""
+msgstr "Søker etter en tilgjengelig systemoppgradering på %s - %s"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:415
 msgid "Searching..."
-msgstr ""
+msgstr "Søker..."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:15
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:224
 msgid "Server response: %s"
-msgstr ""
+msgstr "Serversvar: %s"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:75
 msgid "Setting Up ImageBuilder"
-msgstr ""
+msgstr "Sette opp ImageBuilder"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:64
 msgid "Setting up ImageBuilder"
-msgstr ""
+msgstr "Sette opp ImageBuilder"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/configuration.js:51
 msgid "Show advanced options like package list modification"
-msgstr ""
+msgstr "Vis avanserte alternativer som endring av pakkeliste"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:69
 msgid "Signing images"
-msgstr ""
+msgstr "Signering av bilder"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:180
 msgid "Successfully created firmware image"
-msgstr ""
+msgstr "Opprettet firmware-bilde"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:123
 msgid "Target"
-msgstr ""
+msgstr "Mål"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:615
 msgid ""
 "The attended sysupgrade service allows to upgrade vanilla and custom "
 "firmware images easily."
 msgstr ""
+"Den deltok sysupgrade-tjenesten gjør det enkelt å oppgradere vanilje og "
+"tilpassede fastvarebilder."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:566
 msgid "The device runs the latest firmware version %s - %s"
-msgstr ""
+msgstr "Enheten kjører den nyeste firmwareversjonen %s - %s"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:621
 msgid ""
 "This is done by building a new firmware on demand via an online service."
 msgstr ""
+"Dette gjøres ved å bygge en ny fastvare på forespørsel via en nettbasert "
+"tjeneste."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:366
 msgid "Uploading firmware from browser to device"
-msgstr ""
+msgstr "Laster opp firmware fra nettleser til enhet"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:362
 msgid "Uploading..."
-msgstr ""
+msgstr "Laster opp ..."
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:66
 msgid "Validating package selection"
-msgstr ""
+msgstr "Validerer pakkevalg"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:65
 msgid "Validating revision"
-msgstr ""
+msgstr "Validerer revisjon"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:113
 msgid "Version"
@@ -304,12 +302,8 @@ msgstr "Versjon"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:378
 msgid "Wrong checksum"
-msgstr ""
+msgstr "Feil sjekksum"
 
 #: applications/luci-app-attendedsysupgrade/htdocs/luci-static/resources/view/attendedsysupgrade/overview.js:505
 msgid "[installed] %s"
-msgstr ""
-
-#, fuzzy
-#~ msgid "attended sysupgrade via rpcd and luci"
-#~ msgstr "bivånet systemoppgraderingn via rpcd og LuCI"
+msgstr "[installert] %s"

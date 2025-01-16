@@ -1,14 +1,6 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-07-12 15:48+0000\n"
-"Last-Translator: Eirik Sørstrømmen <sorstrommen@gmail.com>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsksmbd/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:100
 msgid "Allow guests"
@@ -16,25 +8,27 @@ msgstr "Tillat gjester"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:57
 msgid "Allow legacy (insecure) protocols/authentication."
-msgstr ""
+msgstr "Tillat eldre (usikre) protokoller/autentisering."
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:58
 msgid ""
 "Allow legacy smb(v1)/Lanman connections, needed for older devices without "
 "smb(v2.1/3) support."
 msgstr ""
+"Tillat eldre smb(v1)/Lanman-tilkoblinger, nødvendig for eldre enheter uten "
+"smb(v2.1/3)-støtte."
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:97
 msgid "Allowed users"
-msgstr ""
+msgstr "Tillatte brukere"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:84
 msgid "Browse-able"
-msgstr ""
+msgstr "Bla gjennom"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:116
 msgid "Create mask"
-msgstr ""
+msgstr "Lag maske"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:54
 msgid "Description"
@@ -42,19 +36,19 @@ msgstr "Beskrivelse"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:122
 msgid "Directory mask"
-msgstr ""
+msgstr "Katalogmaske"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:34
 msgid "Edit Template"
-msgstr ""
+msgstr "Rediger mal"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:34
 msgid "Edit the template that is used for generating the ksmbd configuration."
-msgstr ""
+msgstr "Rediger malen som brukes til å generere ksmbd-konfigurasjonen."
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:95
 msgid "Force Root"
-msgstr ""
+msgstr "Force Root"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:33
 msgid "General Settings"
@@ -62,15 +56,15 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-ksmbd/root/usr/share/rpcd/acl.d/luci-app-ksmbd.json:3
 msgid "Grant access to LuCI app ksmbd"
-msgstr ""
+msgstr "Gi tilgang til LuCI-appen ksmbd"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:111
 msgid "Hide dot files"
-msgstr ""
+msgstr "Skjul punktfiler"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:106
 msgid "Inherit owner"
-msgstr ""
+msgstr "Arve eier"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:36
 msgid "Interface"
@@ -78,7 +72,7 @@ msgstr "Grensesnitt"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:37
 msgid "Listen only on the given interface or, if unspecified, on lan"
-msgstr ""
+msgstr "Lytt kun på det gitte grensesnittet eller, hvis uspesifisert, på LAN"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:78
 msgid "Name"
@@ -87,25 +81,27 @@ msgstr "Navn"
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:22
 #: applications/luci-app-ksmbd/root/usr/share/luci/menu.d/luci-app-ksmbd.json:3
 msgid "Network Shares"
-msgstr ""
+msgstr "Nettverksdelinger"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:79
 msgid "Path"
-msgstr "Bane"
+msgstr "Sti"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:74
 msgid ""
 "Please add directories to share. Each directory refers to a folder on a "
 "mounted device."
 msgstr ""
+"Vennligst legg til kataloger for å dele. Hver katalog refererer til en mappe"
+" på en montert enhet."
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:89
 msgid "Read-only"
-msgstr ""
+msgstr "Skrivebeskyttet"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:73
 msgid "Shared Directories"
-msgstr ""
+msgstr "Delte kataloger"
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:62
 msgid ""
@@ -114,7 +110,11 @@ msgid ""
 "('|') should not be changed. They get their values from the 'General "
 "Settings' tab."
 msgstr ""
+"Dette er innholdet i filen '/etc/ksmbd/ksmbd.conf.template' som ksmbd-"
+"konfigurasjonen din vil bli generert fra. Verdier omsluttet av rørsymboler "
+"('|') skal ikke endres. De får verdiene sine fra fanen 'Generelle "
+"innstillinger'."
 
 #: applications/luci-app-ksmbd/htdocs/luci-static/resources/view/ksmbd.js:51
 msgid "Workgroup"
-msgstr ""
+msgstr "Arbeidsgruppe"

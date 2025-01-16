@@ -1,139 +1,129 @@
-#  coovachilli.pot
-#  generated from ./applications/luci-coovachilli/luasrc/i18n/coovachilli.en.lua
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2023-06-20 13:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationscoovachilli/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:168
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:173
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:178
 msgid "0 means unlimited"
-msgstr ""
+msgstr "0 betyr ubegrenset"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:372
 msgid "802.1Q"
-msgstr ""
+msgstr "802.1Q"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:373
 msgid "802.1Q only"
-msgstr ""
+msgstr "Kun 802.1Q"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:165
 msgid "A specific URL to be given in WISPr XML LoginURL"
-msgstr ""
+msgstr "En spesifikk URL som skal oppgis i WISPr XML LoginURL"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:403
 msgid "Accounting port"
-msgstr ""
+msgstr "Regnskapshavn"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:451
 msgid "Accounting update"
-msgstr ""
+msgstr "Regnskapsoppdatering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:443
 msgid "Admin password"
-msgstr ""
+msgstr "Admin passord"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:441
 msgid "Admin user"
-msgstr ""
+msgstr "Admin bruker"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:236
 msgid "Allow Local MAC"
-msgstr ""
+msgstr "Tillat lokal MAC"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:452
 msgid "Allow all sessions when RADIUS is not available"
-msgstr ""
+msgstr "Tillat alle økter når RADIUS ikke er tilgjengelig"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:452
 msgid "Allow all, absent RADIUS"
-msgstr ""
+msgstr "Tillat alle, fraværende RADIUS"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:129
 msgid "Allow client to use any IP Address"
-msgstr ""
+msgstr "Tillat klienten å bruke hvilken som helst IP-adresse"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:123
 msgid "Allow unauthenticated users access to any DNS"
-msgstr ""
+msgstr "Gi uautentiserte brukere tilgang til alle DNS"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:161
 msgid "Allowed"
-msgstr ""
+msgstr "Tillatt"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:237
 msgid "Allowed MACs"
-msgstr ""
+msgstr "Tillatte MAC-er"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:371
 msgid "Always respond to DHCP to the broadcast IP, when no relay."
-msgstr ""
+msgstr "Svar alltid på DHCP på kringkastings-IP, når ingen relé."
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:123
 msgid "Any DNS"
-msgstr ""
+msgstr "Enhver DNS"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:129
 msgid "Any IP"
-msgstr ""
+msgstr "Enhver IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:398
 msgid "Authentication port"
-msgstr ""
+msgstr "Autentiseringsport"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:391
 msgid "Auxiliary server"
-msgstr ""
+msgstr "Hjelpeserver"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:233
 msgid "Be strict about MAC Auth (no DHCP reply until we get RADIUS reply)"
-msgstr ""
+msgstr "Vær streng med MAC Auth (ingen DHCP-svar før vi får RADIUS-svar)"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:371
 msgid "Broadcast Answer"
-msgstr ""
+msgstr "Send svar"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:454
 msgid "COA Port"
-msgstr ""
+msgstr "COA havn"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:458
 msgid "COA no IP check"
-msgstr ""
+msgstr "COA ingen IP-sjekk"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:128
 msgid "Chilli XML"
-msgstr ""
+msgstr "Chili XML"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:232
 msgid ""
 "ChilliSpot will try to authenticate all users based on their mac address "
 "alone"
 msgstr ""
+"ChilliSpot vil prøve å autentisere alle brukere basert på deres mac-adresse "
+"alene"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:328
 msgid "Connection down script"
-msgstr ""
+msgstr "Tilkobling ned skript"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:324
 msgid "Connection up script"
-msgstr ""
+msgstr "Oppkoblingsskript"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:59
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:60
 msgid "Coova Chilli"
-msgstr ""
+msgstr "Coova chili"
 
 #: applications/luci-app-coovachilli/root/usr/share/luci/menu.d/luci-app-coovachilli.json:3
 msgid "CoovaChilli"
@@ -141,553 +131,564 @@ msgstr "CoovaChilli"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:355
 msgid "DHCP End"
-msgstr ""
+msgstr "DHCP slutt"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:360
 msgid "DHCP Gateway IP"
-msgstr ""
+msgstr "DHCP Gateway IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:365
 msgid "DHCP Gateway Port"
-msgstr ""
+msgstr "DHCP Gateway-port"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:350
 msgid "DHCP Start"
-msgstr ""
+msgstr "DHCP Start"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:338
 msgid "DHCP interface"
-msgstr ""
+msgstr "DHCP-grensesnitt"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:306
 msgid "DNS Auxiliary"
-msgstr ""
+msgstr "DNS Auxiliary"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:301
 msgid "DNS Primary"
-msgstr ""
+msgstr "DNS Primær"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:83
 msgid "Debug"
-msgstr ""
+msgstr "Feilsøk"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:183
 msgid ""
 "Default bandwidth max down set in bps, same as WISPr-Bandwidth-Max-Down."
 msgstr ""
+"Standard båndbredde maks ned satt i bps, samme som WISPr-Bandwidth-Max-Down."
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:188
 msgid "Default bandwidth max up set in bps, same as WISPr-Bandwidth-Max-Up."
 msgstr ""
+"Standard båndbredde maks opp satt i bps, samme som WISPr-Bandwidth-Max-Up."
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:173
 msgid "Default idle timeout"
-msgstr ""
+msgstr "Standard tidsavbrudd for inaktivitet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:178
 msgid "Default interim interval"
-msgstr ""
+msgstr "Standard mellomintervall"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:168
 msgid "Default session timeout"
-msgstr ""
+msgstr "Standard tidsavbrudd for økten"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:234
 msgid "Deny MAC authentication"
-msgstr ""
+msgstr "Nekt MAC-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:234
 msgid "Deny access (even UAM) to MAC addresses given Access-Reject"
-msgstr ""
+msgstr "Nekt tilgang (til og med UAM) til MAC-adresser gitt Access-Reject"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:205
 msgid "Directory where embedded local web content is placed"
-msgstr ""
+msgstr "Katalog der innebygd lokalt nettinnhold er plassert"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:458
 msgid "Do not check the source IP address of RADIUS disconnect requests"
-msgstr ""
+msgstr "Ikke kontroller kilde-IP-adressen til RADIUS-frakoblingsforespørsler"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:125
 msgid "Do not do any WISPr XML, assume the back-end is doing this instead"
-msgstr ""
+msgstr "Ikke gjør noen WISPr XML, anta at back-end gjør dette i stedet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:126
 msgid "Do not offer WISPr 1.0 XML"
-msgstr ""
+msgstr "Tilbyr ikke WISPr 1.0 XML"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:127
 msgid "Do not offer WISPr 2.0 XML"
-msgstr ""
+msgstr "Tilbyr ikke WISPr 2.0 XML"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:124
 msgid ""
 "Do not return to UAM server on login success, just redirect to original URL"
 msgstr ""
+"Ikke gå tilbake til UAM-serveren ved pålogging, bare omdiriger til den "
+"opprinnelige URL-adressen"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:311
 msgid "Domain"
-msgstr ""
+msgstr "Domene"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:152
 msgid "Domain suffixes"
-msgstr ""
+msgstr "Domene-suffikser"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:292
 msgid "Dynamic IP"
-msgstr ""
+msgstr "Dynamisk IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:370
 msgid "Enable EAPOL"
-msgstr ""
+msgstr "Aktiver EAPOL"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:75
 msgid "Enabled"
-msgstr ""
+msgstr "Aktivert"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:207
 msgid "Executable to run as a CGI type program"
-msgstr ""
+msgstr "Kjørbar for å kjøre som et CGI-program"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:328
 msgid ""
 "Executed after a session has moved from authorized state to unauthorized"
 msgstr ""
+"Utføres etter at en økt har gått fra autorisert tilstand til uautorisert"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:324
 msgid "Executed after a session is authorized"
-msgstr ""
+msgstr "Utføres etter at en økt er autorisert"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:316
 msgid "Executed after the TUN/TAP network interface has been brought up"
-msgstr ""
+msgstr "Utføres etter at nettverksgrensesnittet TUN/TAP er tatt opp"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:320
 msgid "Executed after the TUN/TAP network interface has been taken down"
-msgstr ""
+msgstr "Utføres etter at TUN/TAP-nettverksgrensesnittet er tatt ned"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:65
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: applications/luci-app-coovachilli/root/usr/share/rpcd/acl.d/luci-app-coovachilli.json:3
 msgid "Grant UCI access for luci-app-coovachilli"
-msgstr "Innvilg UCI-tilgang for luci-app-coovachilli"
+msgstr "Gi UCI-tilgang for luci-app-coovachilli"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:136
 msgid "Homepage"
-msgstr ""
+msgstr "Hjemmeside"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:370
 msgid "IEEE 802.1x authentication"
-msgstr ""
+msgstr "IEEE 802.1x-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:477
 msgid "IP address from which RADIUS requests are accepted"
-msgstr ""
+msgstr "IP-adresse som RADIUS-forespørsler godtas fra"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:320
 msgid "IP down script"
-msgstr ""
+msgstr "IP ned skript"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:316
 msgid "IP up script"
-msgstr ""
+msgstr "IP opp skript"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:261
 msgid "IPv6 mode"
-msgstr ""
+msgstr "IPv6-modus"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:124
 msgid "Ignore Success"
-msgstr ""
+msgstr "Ignorer suksess"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:131
 msgid ""
 "Inspect DNS packets and drop responses with any non- A, CNAME, SOA, or MX "
 "records"
 msgstr ""
+"Inspiser DNS-pakker og slipp svar med alle ikke-A-, CNAME-, SOA- eller MX-"
+"poster"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:345
 msgid "Lease time"
-msgstr ""
+msgstr "Leietid"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:140
 msgid "Listen"
-msgstr ""
+msgstr "Lytte"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:213
 msgid "Local users"
-msgstr ""
+msgstr "Lokale brukere"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:223
 msgid "Location Name"
-msgstr ""
+msgstr "Stedsnavn"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:156
 msgid "Logout IP"
-msgstr ""
+msgstr "Logg ut IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:232
 msgid "MAC authentication"
-msgstr ""
+msgstr "MAC-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:241
 msgid "MAC password"
-msgstr ""
+msgstr "MAC passord"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:235
 msgid "MAC re-authentication"
-msgstr ""
+msgstr "MAC re-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:245
 msgid "MAC suffix"
-msgstr ""
+msgstr "MAC-suffiks"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:279
 msgid "Max clients"
-msgstr ""
+msgstr "Maks kunder"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:183
 msgid "Max download bandwidth"
-msgstr ""
+msgstr "Maksimal nedlastingsbåndbredde"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:188
 msgid "Max upload bandwidth"
-msgstr ""
+msgstr "Maks opplastingsbåndbredde"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:423
 msgid "NAS ID"
-msgstr ""
+msgstr "NAS ID"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:197
 msgid "NAS IP"
-msgstr ""
+msgstr "NAS IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:201
 msgid "NAS MAC"
-msgstr ""
+msgstr "NAS MAC"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:423
 msgid "NAS-Identifier"
-msgstr ""
+msgstr "NAS-identifikator"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:436
 msgid "NAS-Port-Type"
-msgstr ""
+msgstr "NAS-port-type"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:287
 msgid "Net"
-msgstr ""
+msgstr "Nett"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:67
 msgid "Network Configuration"
-msgstr "Nettverk Konfigurasjon"
+msgstr "Nettverkskonfigurasjon"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:287
 msgid "Network address of the uplink interface"
-msgstr ""
+msgstr "Nettverksadressen til uplink-grensesnittet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:125
 msgid "No WISPr"
-msgstr ""
+msgstr "Ingen WISPr"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:126
 msgid "No WISPr 1 XML"
-msgstr ""
+msgstr "Ingen WISPr 1 XML"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:127
 msgid "No WISPr 2 XML"
-msgstr ""
+msgstr "Ingen WISPr 2 XML"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:449
 msgid "Open ID Auth"
-msgstr ""
+msgstr "Åpne ID Auth"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:462
 msgid "Options for RADIUS proxy"
-msgstr ""
+msgstr "Alternativer for RADIUS-proxy"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:253
 msgid "Options for TUN"
-msgstr ""
+msgstr "Alternativer for TUN"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:447
 msgid "Original URL"
-msgstr ""
+msgstr "Opprinnelig URL"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:241
 msgid "Password used when performing MAC authentication"
-msgstr ""
+msgstr "Passord brukt når du utfører MAC-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:144
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:215
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:219
 msgid "Post authentication proxy"
-msgstr ""
+msgstr "Post autentisering proxy"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:387
 msgid "Primary server"
-msgstr ""
+msgstr "Primær server"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:210
 msgid "Program in inetd style to handle all uam requests"
-msgstr ""
+msgstr "Program i inetd-stil for å håndtere alle uam-forespørsler"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:477
 msgid "Proxy Client"
-msgstr ""
+msgstr "Proxy-klient"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:466
 msgid "Proxy Listen"
-msgstr ""
+msgstr "Fullmakt Lytt"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:472
 msgid "Proxy Port"
-msgstr ""
+msgstr "Proxy-port"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:482
 msgid "Proxy Secret"
-msgstr ""
+msgstr "Fullmaktshemmelighet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:68
 msgid "RADIUS"
-msgstr ""
+msgstr "RADIUS"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:378
 msgid "RADIUS configuration"
-msgstr "RADIUS Konfigurasjon"
+msgstr "RADIUS-konfigurasjon"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:235
 msgid "Re-Authenticate based on MAC address for every initial URL redirection"
-msgstr ""
+msgstr "Re-autentiser basert på MAC-adresse for hver første URL-omdirigering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:85
 msgid "Re-read configuration file at this interval"
-msgstr ""
+msgstr "Les konfigurasjonsfilen på nytt med dette intervallet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:85
 msgid "Re-read interval"
-msgstr ""
+msgstr "Les intervallet på nytt"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:413
 msgid "Retries"
-msgstr ""
+msgstr "Forsøk på nytt"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:418
 msgid "Retry seconds"
-msgstr ""
+msgstr "Prøv igjen sekunder"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:128
 msgid "Return the so-called Chilli XML along with WISPr XML."
-msgstr ""
+msgstr "Returner den såkalte Chilli XML sammen med WISPr XML."
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:193
 msgid "SSID"
-msgstr ""
+msgstr "SSID"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:120
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:395
 msgid "Secret"
-msgstr ""
+msgstr "Hemmelig"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:447
 msgid "Send CoovaChilli-OriginalURL in Access-Request"
-msgstr ""
+msgstr "Send CoovaChilli-OriginalURL i Access-Request"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:382
 msgid "Send IP"
-msgstr ""
+msgstr "Send IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:117
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:62
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:334
 msgid "Special options for DHCP"
-msgstr ""
+msgstr "Spesielle alternativer for DHCP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:228
 msgid "Special options for MAC authentication"
-msgstr ""
+msgstr "Spesielle alternativer for MAC-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:292
 msgid ""
 "Specifies a pool of dynamic IP addresses. If this option is omitted the "
 "network address specified by the Net option is used"
 msgstr ""
+"Spesifiserer en pool av dynamiske IP-adresser. Hvis dette alternativet "
+"utelates, brukes nettverksadressen spesifisert av Nettalternativet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:297
 msgid ""
 "Specifies a pool of static IP addresses. With static address allocation the "
 "IP address of the client can be specified by the RADIUS server."
 msgstr ""
+"Spesifiserer en pool av statiske IP-adresser. Med statisk adressetildeling "
+"kan IP-adressen til klienten spesifiseres av RADIUS-serveren."
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:107
 msgid "State directory"
-msgstr ""
+msgstr "Statens katalog"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:297
 msgid "Static IP"
-msgstr ""
+msgstr "Statisk IP"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:131
 msgid "Strict DNS"
-msgstr ""
+msgstr "Strenge DNS"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:233
 msgid "Strict MAC authentication"
-msgstr ""
+msgstr "Streng MAC-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:373
 msgid "Support 802.1Q VLAN tagged traffic only"
-msgstr ""
+msgstr "Støtte kun 802.1Q VLAN-merket trafikk"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:372
 msgid "Support for 802.1Q/VLAN network"
-msgstr ""
+msgstr "Støtte for 802.1Q/VLAN-nettverk"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:448
 msgid "Swap Octets"
-msgstr ""
+msgstr "Bytt ut oktetter"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:448
 msgid "Swap the meaning of input and output octets"
-msgstr ""
+msgstr "Bytt om betydningen av input og output oktetter"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:88
 msgid "Syslog facility"
-msgstr ""
+msgstr "Syslog anlegg"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:274
 msgid "TCP MSS"
-msgstr ""
+msgstr "TCP MSS"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:269
 msgid "TCP Window"
-msgstr ""
+msgstr "TCP-vinduet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:144
 msgid "TCP port to bind to for authenticating clients"
-msgstr ""
+msgstr "TCP-port å binde til for autentisering av klienter"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:148
 msgid "TCP port to bind to for only serving embedded content"
-msgstr ""
+msgstr "TCP-port å binde til for kun visning av innebygd innhold"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:266
 msgid "TUN device"
-msgstr ""
+msgstr "TUN-enhet"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:284
 msgid "TX Q length"
-msgstr ""
+msgstr "TX Q lengde"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:408
 msgid "Timeout"
-msgstr ""
+msgstr "Tidsavbrudd"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:66
 msgid "UAM and MAC Authentication"
-msgstr "UAM og MAC Autentisering"
+msgstr "UAM- og MAC-autentisering"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:472
 msgid "UDP Port to listen to for accepting RADIUS requests"
-msgstr ""
+msgstr "UDP-port å lytte til for å godta RADIUS-forespørsler"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:454
 msgid "UDP port to listen to for accepting RADIUS disconnect requests"
-msgstr ""
+msgstr "UDP-port å lytte til for å godta RADIUS-frakoblingsforespørsler"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:210
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:136
 msgid "URL of homepage to redirect unauthenticated users to"
-msgstr ""
+msgstr "URL til hjemmesiden for å omdirigere uautentiserte brukere til"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:117
 msgid "URL of web server to use for authenticating clients"
-msgstr ""
+msgstr "URL til webserver som skal brukes for å autentisere klienter"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:197
 msgid "Unique IP address of the NAS (nas-ip-address)"
-msgstr ""
+msgstr "Unik IP-adresse til NAS (nas-ip-adresse)"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:201
 msgid "Unique MAC address of the NAS (called-station-id)"
-msgstr ""
+msgstr "Unik MAC-adresse til NAS-en (kalt-stasjon-id)"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:113
 msgid "Universal access method"
-msgstr ""
+msgstr "Universell tilgangsmetode"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:259
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:260
 msgid "Use IPv6"
-msgstr ""
+msgstr "Bruk IPv6"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:133
 msgid "Use status file"
-msgstr ""
+msgstr "Bruk statusfil"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:195
 msgid "VLAN"
-msgstr ""
+msgstr "VLAN"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:428
 msgid "WISPr Location ID"
-msgstr ""
+msgstr "WISPr plasserings-ID"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:432
 msgid "WISPr Location Name"
-msgstr ""
+msgstr "WISPr Stedsnavn"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:165
 msgid "WISPr Login"
-msgstr ""
+msgstr "WISPr-pålogging"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:450
 msgid "WPA guests"
-msgstr ""
+msgstr "WPA gjester"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:60
 msgid "access controller for WLAN."
-msgstr ""
+msgstr "tilgangskontroller for WLAN."
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:345
 msgid "in seconds"
-msgstr ""
+msgstr "på sekunder"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:148
 msgid "iport"
-msgstr ""
+msgstr "iport"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:260
 msgid "only"
-msgstr ""
+msgstr "bare"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:193
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:195
 msgid "passed on to the UAM server in the initial redirect URL"
-msgstr ""
+msgstr "videreført til UAM-serveren i den første omdirigerings-URLen"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:219
 msgid "port"
-msgstr ""
+msgstr "havn"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:207
 msgid "www binary"
-msgstr ""
+msgstr "www binær"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:205
 msgid "www directory"
-msgstr ""
+msgstr "www katalog"

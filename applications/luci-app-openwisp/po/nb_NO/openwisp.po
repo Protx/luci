@@ -1,16 +1,6 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsopenwisp/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:17
 msgid "Advanced Settings"
@@ -18,47 +8,51 @@ msgstr "Avanserte innstillinger"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:82
 msgid "Boot Delay"
-msgstr ""
+msgstr "Oppstartsforsinkelse"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:100
 msgid "CA Cert"
-msgstr ""
+msgstr "CA-sert"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:97
 msgid "CA Path"
-msgstr ""
+msgstr "CA-sti"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:12
 msgid ""
-"Configure, start and stop the OpenWISP agent on this device. Read more about "
-"configuration values: <a target='_blank' rel='noopener noreferrer' "
-"href='https://github.com/openwisp/openwisp-config'>https://github.com/"
-"openwisp/openwisp-config</a>"
+"Configure, start and stop the OpenWISP agent on this device. Read more about"
+" configuration values: <a target='_blank' rel='noopener noreferrer' "
+"href='https://github.com/openwisp/openwisp-"
+"config'>https://github.com/openwisp/openwisp-config</a>"
 msgstr ""
+"Konfigurer, start og stopp OpenWISP-agenten på denne enheten. Les mer om "
+"konfigurasjonsverdier: <a target='_blank' rel='noopener noreferrer' "
+"href='https://github.com/openwisp/openwisp-"
+"config'>https://github.com/openwisp/openwisp-config </a>"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:87
 msgid "Connect Timeout"
-msgstr ""
+msgstr "Tidsavbrudd for tilkobling"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:49
 msgid "Consistent Key"
-msgstr ""
+msgstr "Konsekvent nøkkel"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:29
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktivert"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:27
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:28
 msgid "Enable or disable the OpenWISP service."
-msgstr ""
+msgstr "Aktiver eller deaktiver OpenWISP-tjenesten."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:30
 msgid "Enabled"
-msgstr "Påskrudd"
+msgstr "Aktivert"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:16
 msgid "General Settings"
@@ -66,15 +60,15 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-openwisp/root/usr/share/rpcd/acl.d/luci-app-openwisp.json:3
 msgid "Grant access to luci-app-openwisp"
-msgstr ""
+msgstr "Gi tilgang til luci-app-openwisp"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:74
 msgid "Hardware ID Key"
-msgstr ""
+msgstr "Maskinvare ID-nøkkel"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:78
 msgid "Hardware ID Script"
-msgstr ""
+msgstr "Maskinvare ID-skript"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:60
 msgid ""
@@ -82,44 +76,53 @@ msgid ""
 "local configuration, the remote configuration takes precedence over local "
 "configuration."
 msgstr ""
+"Hvis valgt, i tilfelle et konfigurasjonselement er til stede i både den "
+"eksterne og lokale konfigurasjonen, har den eksterne konfigurasjonen forrang"
+" over lokal konfigurasjon."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:66
 msgid ""
-"If the agent is unable to reach the controller after applying the downloaded "
-"config it will be reverted."
+"If the agent is unable to reach the controller after applying the downloaded"
+" config it will be reverted."
 msgstr ""
+"Hvis agenten ikke er i stand til å nå kontrolleren etter å ha brukt den "
+"nedlastede konfigurasjonen, vil den bli tilbakestilt."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:23
 msgid "Key"
-msgstr ""
+msgstr "Nøkkel"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:53
 msgid "MAC Interface"
-msgstr ""
+msgstr "MAC-grensesnitt"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:56
 msgid "Management Interface"
-msgstr ""
+msgstr "Administrasjonsgrensesnitt"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:92
 msgid "Max Time"
-msgstr ""
+msgstr "Maks tid"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:60
 msgid "Merge Config"
-msgstr ""
+msgstr "Slå sammen konfig"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:11
 #: applications/luci-app-openwisp/root/usr/share/luci/menu.d/luci-app-openwisp.json:3
 msgid "OpenWISP"
-msgstr ""
+msgstr "OpenWISP"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:107
 msgid ""
-"Path to post reload hook script. The hook is not called if the path does not "
-"point to an executable script file. This hook is called each time openwisp-"
+"Path to post reload hook script. The hook is not called if the path does not"
+" point to an executable script file. This hook is called each time openwisp-"
 "config applies a configuration, but after services are reloaded."
 msgstr ""
+"Bane for å legge inn reload hook-skript. Kroken kalles ikke hvis banen ikke "
+"peker til en kjørbar skriptfil. Denne kroken kalles hver gang openwisp-"
+"config bruker en konfigurasjon, men etter at tjenester er lastet inn på "
+"nytt."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:103
 msgid ""
@@ -127,104 +130,117 @@ msgid ""
 "to an executable script file. This hook is called each time openwisp-config "
 "applies a configuration, but before services are reloaded."
 msgstr ""
+"Bane til forhåndsinnlastingskroken. Kroken kalles ikke hvis banen ikke peker"
+" til en kjørbar skriptfil. Denne kroken kalles hver gang openwisp-config "
+"bruker en konfigurasjon, men før tjenester lastes inn på nytt."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:107
 msgid "Post-reload Hook"
-msgstr ""
+msgstr "Krok etter omlasting"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:103
 msgid "Pre-reload Hook"
-msgstr ""
+msgstr "Pre-reload krok"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:33
 msgid "Server URL"
-msgstr ""
+msgstr "Server URL"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:36
 msgid "Shared Secret"
-msgstr ""
+msgstr "Delt hemmelighet"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:64
 msgid "Tags"
-msgstr ""
+msgstr "Tagger"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:64
 msgid "Tags applied to this device."
-msgstr ""
+msgstr "Tagger brukt på denne enheten."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:66
 msgid "Test Config"
-msgstr ""
+msgstr "Test konfig"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:70
 msgid "Test Script"
-msgstr ""
+msgstr "Testskript"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:23
 msgid "The Key of this device in the OpenWISP server."
-msgstr ""
+msgstr "Nøkkelen til denne enheten i OpenWISP-serveren."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:33
 msgid ""
 "The URL to the OpenWISP server. Example: https://openwisp2.mynetwork.com"
 msgstr ""
+"URL-en til OpenWISP-serveren. Eksempel: https://openwisp2.mynetwork.com"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:20
 msgid "The UUID of this device in the OpenWISP server."
-msgstr ""
+msgstr "UUID-en til denne enheten i OpenWISP-serveren."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:53
 msgid "The interface to use for getting the MAC for this device."
-msgstr ""
+msgstr "Grensesnittet som skal brukes for å få MAC-en for denne enheten."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:56
 msgid "The interface to use for management and control."
-msgstr ""
+msgstr "Grensesnittet som skal brukes til administrasjon og kontroll."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:36
 msgid "The organization shared secret for auto enrollment."
-msgstr ""
+msgstr "Organisasjonen delte en hemmelighet for automatisk registrering."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:20
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:39
 msgid "Update Interval"
-msgstr ""
+msgstr "Oppdateringsintervall"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:74
 msgid ""
 "Use a unique hardware ID for device identification, for example a serial "
 "number."
 msgstr ""
+"Bruk en unik maskinvare-ID for enhetsidentifikasjon, for eksempel et "
+"serienummer."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:100
 msgid ""
-"Use the specified certificate directory to verify the peer. The certificates "
-"must be in PEM format, and the directory must have been processed using the "
-"c_rehash utility supplied with openssl."
+"Use the specified certificate directory to verify the peer. The certificates"
+" must be in PEM format, and the directory must have been processed using the"
+" c_rehash utility supplied with openssl."
 msgstr ""
+"Bruk den spesifiserte sertifikatkatalogen for å bekrefte peeren. "
+"Sertifikatene må være i PEM-format, og katalogen må ha blitt behandlet med "
+"c_rehash-verktøyet som følger med openssl."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:97
 msgid ""
 "Use the specified certificate file to verify the peer. The file may contain "
 "multiple CA certificates. The certificate(s) must be in PEM format."
 msgstr ""
+"Bruk den spesifiserte sertifikatfilen for å bekrefte peeren. Filen kan "
+"inneholde flere CA-sertifikater. Sertifikatet(e) må være i PEM-format."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:92
 msgid ""
 "Value passed to curl --max-time argument, defaults to 30. Expressed in "
 "seconds."
 msgstr ""
+"Verdi sendt til curl --max-time argument, standard til 30. Uttrykt i "
+"sekunder."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:45
 msgid "Verify SSL"
-msgstr ""
+msgstr "Bekreft SSL"
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:45
 msgid "Verify the server SSL certificate."
-msgstr ""
+msgstr "Bekreft serverens SSL-sertifikat."
 
 #: applications/luci-app-openwisp/htdocs/luci-static/resources/view/openwisp.js:49
 msgid ""
@@ -233,3 +249,7 @@ msgid ""
 "default, but must be enabled also in the controller application in order to "
 "work."
 msgstr ""
+"Når du bruker automatisk registrering, lar denne funksjonen enheter beholde "
+"den samme konfigurasjonen selv om de tilbakestilles eller blinker på nytt. "
+"Denne funksjonen er aktivert som standard, men må være aktivert også i "
+"kontrollerapplikasjonen for å fungere."

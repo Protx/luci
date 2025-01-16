@@ -1,18 +1,10 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-08-02 12:53+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationshd-idle/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:43
 msgid "Add new hdd setting..."
-msgstr ""
+msgstr "Legg til ny hdd-innstilling..."
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:61
 msgid "Bus"
@@ -24,37 +16,37 @@ msgstr "Disk"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:46
 msgid "Disk Settings"
-msgstr ""
+msgstr "Diskinnstillinger"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:49
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-hd-idle/root/usr/share/rpcd/acl.d/luci-app-hd-idle.json:3
 msgid "Grant UCI access for luci-app-hd-idle"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-hd-idle"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:37
 #: applications/luci-app-hd-idle/root/usr/share/luci/menu.d/luci-app-hd-idle.json:3
 msgid "HDD Idle"
-msgstr "HDD Idle"
+msgstr "HDD inaktiv"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:37
 msgid ""
-"HDD Idle is a utility program for spinning-down disks after a period of idle "
-"time."
+"HDD Idle is a utility program for spinning-down disks after a period of idle"
+" time."
 msgstr ""
-"HDD Idle er et verktøy for å spinne ned disker etter en periode med "
-"inaktivitet."
+"HDD Idle er et hjelpeprogram for å spinne ned disker etter en periode med "
+"inaktiv tid."
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:75
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:87
 msgid "Idle time"
-msgstr "Tid inaktiv"
+msgstr "Inaktiv tid"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:79
 msgid "Idle time unit"
-msgstr "Tidsenhet"
+msgstr "Inaktiv tidsenhet"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:39
 msgid "Settings"
@@ -62,33 +54,24 @@ msgstr "Innstillinger"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:68
 msgid "Vendor / Model"
-msgstr ""
+msgstr "Leverandør / modell"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:84
 msgctxt "Abbreviation for days"
 msgid "days"
-msgstr ""
+msgstr "dager"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:83
 msgctxt "Abbreviation for hours"
 msgid "hours"
-msgstr ""
+msgstr "timer"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:82
 msgctxt "Abbreviation for minutes"
 msgid "minutes"
-msgstr ""
+msgstr "minutter"
 
 #: applications/luci-app-hd-idle/htdocs/luci-static/resources/view/hd_idle.js:81
 msgctxt "Abbreviation for seconds"
 msgid "seconds"
-msgstr ""
-
-#~ msgid "h"
-#~ msgstr "timer"
-
-#~ msgid "min"
-#~ msgstr "minutter"
-
-#~ msgid "Enable debug"
-#~ msgstr "Aktiver feilsøking"
+msgstr "sekunder"

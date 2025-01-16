@@ -1,18 +1,6 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-25 21:10+0200\n"
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstransmission/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:65
 msgid "Alternative download speed"
@@ -24,19 +12,19 @@ msgstr "Alternativ hastighet aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:277
 msgid "Alternative speed time begin"
-msgstr "Alternativ hastighet start tid"
+msgstr "Alternativ hastighetstid begynner"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:283
 msgid "Alternative speed time day"
-msgstr "Alternativ hastighet tid på dagen"
+msgstr "Alternativ fartstid dag"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:280
 msgid "Alternative speed time end"
-msgstr "Alternativ hastighet tid når ferdig"
+msgstr "Alternativ hastighet slutt"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:274
 msgid "Alternative speed timing enabled"
-msgstr "Alternativ hastighet tidspunkt aktivert"
+msgstr "Alternativ hastighetstiming aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:62
 msgid "Alternative upload speed"
@@ -44,31 +32,31 @@ msgstr "Alternativ opplastingshastighet"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:113
 msgid "Automatically start added torrents"
-msgstr "Start automatisk torrents som legges til"
+msgstr "Start lagt til torrenter automatisk"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:56
 msgid "Bandwidth settings"
-msgstr "Båndbredde innstillinger"
+msgstr "Båndbreddeinnstillinger"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:174
 msgid "Binding address IPv4"
-msgstr "Bindinger IPv4 adresse"
+msgstr "Bindende adresse IPv4"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:176
 msgid "Binding address IPv6"
-msgstr "Bindinger IPv6 adresse"
+msgstr "Bindende adresse IPv6"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:86
 msgid "Block list enabled"
-msgstr "Svarteliste aktivert"
+msgstr "Blokkeringsliste aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:89
 msgid "Blocklist URL"
-msgstr "Svarteliste-nettadresse"
+msgstr "Nettadresse for blokkering"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:83
 msgid "Blocklists"
-msgstr "Svartelister"
+msgstr "Blokklister"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:131
 msgid "Cache size in MB"
@@ -76,11 +64,11 @@ msgstr "Bufferstørrelse i MB"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:50
 msgid "Config file directory"
-msgstr "Mappe for konfigurasjonsfil"
+msgstr "Konfigurasjonsfilkatalog"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:53
 msgid "Custom Web UI directory"
-msgstr "Egendefinert mappe for vev-grensesnitt"
+msgstr "Tilpasset web-UI-katalog"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:133
 msgid "DHT enabled"
@@ -88,27 +76,27 @@ msgstr "DHT aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:151
 msgid "Debug"
-msgstr "Avlusing"
+msgstr "Feilsøk"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:97
 msgid "Download directory"
-msgstr "Nedlastingsmappe"
+msgstr "Last ned katalog"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:211
 msgid "Download queue enabled"
-msgstr "Nedlastingkø aktivert"
+msgstr "Nedlastingskø aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:217
 msgid "Download queue size"
-msgstr "Nedlastingkø størrelse"
+msgstr "Last ned køstørrelse"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:121
 msgid "Enable watch directory"
-msgstr "Aktiver overvåking av torrent mappe"
+msgstr "Aktiver vaktkatalog"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:47
 msgid "Enabled"
-msgstr "Påskrudd"
+msgstr "Aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:136
 msgid "Encryption"
@@ -132,7 +120,7 @@ msgstr "Full"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:183
 msgid "Global peer limit"
-msgstr "Global peer grense"
+msgstr "Global peer-grense"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:44
 msgid "Global settings"
@@ -140,23 +128,23 @@ msgstr "Globale innstillinger"
 
 #: applications/luci-app-transmission/root/usr/share/rpcd/acl.d/luci-app-transmission.json:3
 msgid "Grant UCI access for luci-app-transmission"
-msgstr "Innvilg UCI-tilgang for luci-app-transmission"
+msgstr "Gi UCI-tilgang for luci-app-overføring"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:289
 msgid "Idle seeding limit"
-msgstr "Inaktiv seeding grense"
+msgstr "Tomgangssåingsgrense"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:286
 msgid "Idle seeding limit enabled"
-msgstr "Inaktiv seeding grense aktivert"
+msgstr "Inaktiv seeding-grense aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:102
 msgid "Incomplete directory"
-msgstr "Ufullstendig mappe"
+msgstr "Ufullstendig katalog"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:99
 msgid "Incomplete directory enabled"
-msgstr "Ufullstendig mappe aktivert"
+msgstr "Ufullstendig katalog aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:150
 msgid "Info"
@@ -172,7 +160,7 @@ msgstr "Lazy bitfield aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:147
 msgid "Message level"
-msgstr "Nivå for meldinger"
+msgstr "Meldingsnivå"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:128
 msgid "Miscellaneous"
@@ -188,9 +176,9 @@ msgid ""
 "enabled, add a value. For Sunday - 1, Monday - 2, Tuesday - 4, Wednesday - "
 "8, Thursday - 16, Friday - 32, Saturday - 64"
 msgstr ""
-"Nummer/bitfield. Start med 0, og for hver dag en vil at planleggeren skal "
-"være aktivert legger en til en verdi. For Søndag - 1, Mandag - 2, Tirsdag - "
-"4, Onsdag - 8, Torsdag - 16, Fredag - 32, Lørdag - 64"
+"Tall/bitfelt. Start med 0, og legg til en verdi for hver dag du vil at "
+"planleggeren skal være aktivert. For søndag - 1, mandag - 2, tirsdag - 4, "
+"onsdag - 8, torsdag - 16, fredag ​​- 32, lørdag - 64"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:106
 msgid "Off"
@@ -198,7 +186,7 @@ msgstr "Av"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:38
 msgid "Open Web Interface"
-msgstr "Åpne vev-grensesnitt"
+msgstr "Åpne webgrensesnitt"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:153
 msgid "PEX enabled"
@@ -206,15 +194,15 @@ msgstr "PEX aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:190
 msgid "Peer Port settings"
-msgstr "Peer port innstillinger"
+msgstr "Peer Port-innstillinger"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:178
 msgid "Peer congestion algorithm"
-msgstr "Peer congestion algoritme"
+msgstr "Algorithme for overbelastning av jevnaldrende"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:185
 msgid "Peer limit per torrent"
-msgstr "Peer grense per torrent"
+msgstr "Peer-grense per torrent"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:193
 msgid "Peer port"
@@ -226,23 +214,23 @@ msgstr "Peer port tilfeldig høy"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:201
 msgid "Peer port random low"
-msgstr "Peer port tilfeldig lav"
+msgstr "Peer-port tilfeldig lav"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:195
 msgid "Peer port random on start"
-msgstr "Peer port tilfeldig ved start"
+msgstr "Peer-port tilfeldig ved start"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:171
 msgid "Peer settings"
-msgstr "Peer innstillinger"
+msgstr "Peer-innstillinger"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:187
 msgid "Peer socket <abbr title=\"Type of Service\">TOS</abbr>"
-msgstr "Likemanns-socket <abbr title=\"Type of Service\">TOS</abbr>"
+msgstr "Peer socket <abbr title=\"Type of Service\">TOS</abbr>"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:204
 msgid "Port forwarding enabled"
-msgstr "Port videresending aktivert"
+msgstr "Portvideresending aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:105
 msgid "Preallocation"
@@ -250,52 +238,51 @@ msgstr "Forhåndstildeling"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:138
 msgid "Prefer encrypted"
-msgstr "Foretekk kryptering"
+msgstr "Foretrekker kryptert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:137
 msgid "Prefer unencrypted"
-msgstr "Foretrekk ingen kryptering"
+msgstr "Foretrekker ukryptert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:156
 msgid "Prefetch enabled"
-msgstr "Foretrekk påskrudd"
+msgstr "Forhåndshenting aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:214
 msgid "Queue stalled enabled"
-msgstr ""
+msgstr "Kø stoppet aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:223
 msgid "Queue stalled minutes"
-msgstr ""
+msgstr "Køen stoppet minutter"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:208
 msgid "Queueing"
-msgstr ""
+msgstr "I kø"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:242
 msgid "RPC URL"
-msgstr "RPC-nettadresse"
+msgstr "RPC URL"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:259
 msgid "RPC authentication required"
-msgstr "RPC-identitetsbekreftelse kreves"
+msgstr "RPC-autentisering kreves"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:236
 msgid "RPC bind address"
-msgstr "RPC-forbindelsesadresse"
+msgstr "RPC-bindingsadresse"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:233
 msgid "RPC enabled"
-msgstr "RPC påskrudd"
+msgstr "RPC aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:249
 msgid "RPC host whitelist"
-msgstr "RPC-vertshvitliste"
+msgstr "RPC-verts hviteliste"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:245
-#, fuzzy
 msgid "RPC host whitelist enabled"
-msgstr "RPC-vertshvitliste aktivert"
+msgstr "RPC verts hviteliste aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:266
 msgid "RPC password"
@@ -311,43 +298,43 @@ msgstr "RPC-innstillinger"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:263
 msgid "RPC username"
-msgstr "RPC-brukernavn"
+msgstr "RPC brukernavn"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:256
 msgid "RPC whitelist"
-msgstr "RPC-hvitliste"
+msgstr "RPC-hviteliste"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:252
 msgid "RPC whitelist enabled"
-msgstr "RPC-hvitliste påskrudd"
+msgstr "RPC-hviteliste aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:295
 msgid "Ratio limit"
-msgstr ""
+msgstr "Forholdsgrense"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:292
 msgid "Ratio limit enabled"
-msgstr ""
+msgstr "Forholdsgrense aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:181
 msgid "Recycle peer id after"
-msgstr ""
+msgstr "Resirkuler peer-ID etter"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:110
 msgid "Rename partial files"
-msgstr ""
+msgstr "Gi nytt navn til delvise filer"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:139
 msgid "Require encrypted"
-msgstr ""
+msgstr "Krev kryptert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:52
 msgid "Run daemon as group"
-msgstr "Kjør nisse som gruppe"
+msgstr "Kjør daemon som gruppe"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:51
 msgid "Run daemon as user"
-msgstr "Kjør nisse som bruker"
+msgstr "Kjør daemon som bruker"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:271
 msgid "Scheduling"
@@ -355,76 +342,81 @@ msgstr "Planlegging"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:158
 msgid "Scrape paused torrents enabled"
-msgstr ""
+msgstr "Skrap midlertidige torrenter aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:161
 msgid "Script torrent done enabled"
-msgstr ""
+msgstr "Skript-torrent ferdig aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:164
 msgid "Script torrent done filename"
-msgstr ""
+msgstr "Skript torrent ferdig filnavn"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:220
 msgid "Seed queue enabled"
-msgstr ""
+msgstr "Frøkø aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:226
 msgid "Seed queue size"
-msgstr ""
+msgstr "Frøkøstørrelse"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:71
 msgid "Speed limit down"
-msgstr ""
+msgstr "Fartsgrensen ned"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:68
 msgid "Speed limit down enabled"
-msgstr ""
+msgstr "Fartsgrense ned aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:77
 msgid "Speed limit up"
-msgstr ""
+msgstr "Fartsgrense opp"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:74
 msgid "Speed limit up enabled"
-msgstr ""
+msgstr "Fartsgrense opp aktivert"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:179
 msgid ""
-"This is documented on <a href=\"https://www.irif.fr/~jch/software/bittorrent/"
-"tcp-congestion-control.html\" target=\"_blank\" rel=\"noreferrer noopener"
-"\">tcp-congestion-control</a>."
+"This is documented on <a "
+"href=\"https://www.irif.fr/~jch/software/bittorrent/tcp-congestion-"
+"control.html\" target=\"_blank\" rel=\"noreferrer noopener\">tcp-congestion-"
+"control</a>."
 msgstr ""
+"Dette er dokumentert på <a "
+"href=\"https://www.irif.fr/~jch/software/bittorrent/tcp-congestion-"
+"control.html\" target=\"_blank\" rel=\"noreferrer noopener\">tcp-congestion-"
+" kontroll</a>."
 
 #: applications/luci-app-transmission/root/usr/share/luci/menu.d/luci-app-transmission.json:3
 msgid "Transmission"
 msgstr "Overføring"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:42
-#, fuzzy
 msgid ""
 "Transmission daemon is a simple bittorrent client, here you can configure "
 "the settings."
 msgstr ""
-"Transmission-nissen er en enkel BitTorrent-klient. Her kan du justere "
+"Transmission daemon er en enkel bittorrent-klient, her kan du konfigurere "
 "innstillingene."
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:116
 msgid "Trash original torrent files"
-msgstr "Slett opprinnelige torrent-filer"
+msgstr "Kast originale torrent-filer"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:80
 msgid "Upload slots per torrent"
-msgstr "Opplasingsplasser per torrent"
+msgstr "Last opp spilleautomater per torrent"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:124
-#, fuzzy
 msgid "Watch directory"
-msgstr "Oppsynsmappe"
+msgstr "Se katalog"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:274
 msgid "When enabled, this will toggle the <b>alt-speed-enabled</b> setting"
 msgstr ""
+"Når det er aktivert, vil dette veksle mellom <b>alt-"
+"hastighetsaktivert</b>-innstillingen"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:181
 msgid "hours"
@@ -437,10 +429,4 @@ msgstr "i minutter fra midnatt"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:167
 msgid "uTP enabled"
-msgstr "uTP påskrudd"
-
-#~ msgid "Forced"
-#~ msgstr "Tvunget"
-
-#~ msgid "Peer socket tos"
-#~ msgstr "Peer tilslutning tos"
+msgstr "uTP aktivert"

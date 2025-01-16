@@ -1,203 +1,202 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: nb\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:89
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:77
 msgid "Certificate of Origin"
-msgstr ""
+msgstr "Opprinnelsessertifikat"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:40
 msgid ""
 "Cloudflare Zero Trust Security services help you get maximum security both "
 "from outside and within the network."
 msgstr ""
+"Cloudflare Zero Trust Security-tjenester hjelper deg med å få maksimal "
+"sikkerhet både fra utsiden og i nettverket."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:39
 #: applications/luci-app-cloudflared/root/usr/share/luci/menu.d/luci-app-cloudflared.json:3
 msgid "Cloudflare Zero Trust Tunnel"
-msgstr ""
+msgstr "Cloudflare Zero Trust Tunnel"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:69
 msgid "Config file path"
-msgstr ""
+msgstr "Konfigurasjonsfilbane"
 
 #: applications/luci-app-cloudflared/root/usr/share/luci/menu.d/luci-app-cloudflared.json:14
 msgid "Configuration"
-msgstr ""
+msgstr "Konfigurasjon"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:76
 msgid "Connection ID"
-msgstr ""
+msgstr "Tilkoblings-ID"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:54
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:90
 msgid "Connections"
-msgstr ""
+msgstr "Tilkoblinger"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:41
 msgid ""
 "Create and manage your network on the <a %s>Cloudflare Zero Trust</a> "
 "dashboard."
 msgstr ""
+"Opprett og administrer nettverket ditt på <a %s>Cloudflare Zero "
+"Trust</a>-dashbordet."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:53
 msgid "Created At"
-msgstr ""
+msgstr "Opprettet kl"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:79
 msgid "Data Center"
-msgstr ""
+msgstr "Datasenter"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:97
 msgid "Debug"
-msgstr ""
+msgstr "Feilsøk"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:96
 msgid "Down"
-msgstr ""
+msgstr "Ned"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:104
 msgid "Download Log"
-msgstr ""
+msgstr "Last ned logg"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:59
 msgid "Enable"
-msgstr ""
+msgstr "Aktiver"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:94
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:92
 msgid "Error"
-msgstr ""
+msgstr "Feil"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:93
 msgid "Fatal"
-msgstr ""
+msgstr "Fatal"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:87
 msgid "Filter Level:"
-msgstr ""
+msgstr "Filternivå:"
 
 #: applications/luci-app-cloudflared/root/usr/share/rpcd/acl.d/luci-app-cloudflared.json:3
 msgid "Grant access to Cloudflared configuration"
-msgstr ""
+msgstr "Gi tilgang til Cloudflared-konfigurasjonen"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:52
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:96
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:90
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:85
 #: applications/luci-app-cloudflared/root/usr/share/luci/menu.d/luci-app-cloudflared.json:30
 msgid "Log"
-msgstr ""
+msgstr "Logg"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:94
 msgid "Log Direction:"
-msgstr ""
+msgstr "Loggretning:"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:92
 msgid "Logging level"
-msgstr ""
+msgstr "Loggingsnivå"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:51
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:85
 msgid "No connections"
-msgstr ""
+msgstr "Ingen tilkoblinger"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:55
 msgid "Not Running"
-msgstr ""
+msgstr "Kjører ikke"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:79
 msgid "Obtain a certificate <a %s>here</a>."
-msgstr ""
+msgstr "Skaff et sertifikat <a %s>her</a>."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:78
 msgid "Opened At"
-msgstr ""
+msgstr "Åpnet kl"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:77
 msgid "Origin IP"
-msgstr ""
+msgstr "Opprinnelses-IP"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:86
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:54
 msgid "Running"
-msgstr ""
+msgstr "Kjører"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:43
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:70
 msgid "See <a %s>documentation</a>."
-msgstr ""
+msgstr "Se <a %s>dokumentasjonen</a>."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:49
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:78
 msgid ""
-"The account certificate for your zones authorizing the client to serve as an "
-"Origin for that zone"
+"The account certificate for your zones authorizing the client to serve as an"
+" Origin for that zone"
 msgstr ""
+"Kontosertifikatet for sonene dine som autoriserer klienten til å tjene som "
+"opprinnelse for den sonen"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:87
 msgid "The region to which connections are established."
-msgstr ""
+msgstr "Regionen det opprettes forbindelser til."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:63
 msgid "The tunnel token is shown in the dashboard once you create a tunnel."
-msgstr ""
+msgstr "Tunneltokenet vises i dashbordet når du oppretter en tunnel."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:62
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:96
 #: applications/luci-app-cloudflared/root/usr/share/luci/menu.d/luci-app-cloudflared.json:22
 msgid "Tunnels"
-msgstr ""
+msgstr "Tunneler"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/tunnels.js:48
 msgid "Tunnels Information"
-msgstr ""
+msgstr "Informasjon om tunneler"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:33
 msgid "Unable to read the interface info from /var/log/cloudflared.log."
-msgstr ""
+msgstr "Kan ikke lese grensesnittinformasjonen fra /var/log/cloudflared.log."
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:89
 msgid "United States"
-msgstr ""
+msgstr "USA"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:97
 msgid "Up"
-msgstr ""
+msgstr "Opp"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/log.js:91
 msgid "Warn"
-msgstr ""
+msgstr "Varsle"
 
 #: applications/luci-app-cloudflared/htdocs/luci-static/resources/view/cloudflared/config.js:95
 msgid "Warning"
-msgstr ""
+msgstr "Advarsel"

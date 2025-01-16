@@ -1,87 +1,79 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsirqbalance/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:82
 msgid "Cache level at which irqbalance partitions cache domains."
-msgstr ""
+msgstr "Buffernivå som irqbalance partisjonerer cachedomener på."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:82
 msgid "Deepest cache"
-msgstr ""
+msgstr "Den dypeste cachen"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:78
 msgid "Enable"
-msgstr "Skru på"
+msgstr "Aktiver"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:92
 msgid "Exclude CPUs"
-msgstr ""
+msgstr "Ekskluder CPUer"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:104
 msgid "Exclude IRQs"
-msgstr ""
+msgstr "Ekskluder IRQer"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:75
 msgid "General settings"
-msgstr ""
+msgstr "Generelle innstillinger"
 
 #: applications/luci-app-irqbalance/root/usr/share/rpcd/acl.d/luci-app-irqbalance.json:3
 msgid "Grant UCI access for luci-app-irqbalance"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-irqbalance"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:87
 msgid "Interval"
-msgstr ""
+msgstr "Intervall"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:98
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:110
 msgid "Invalid"
-msgstr ""
+msgstr "Ugyldig"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:92
 msgid ""
 "List of CPUs to ignore, can be an integer or integers separated by commas."
 msgstr ""
+"Liste over CPUer som skal ignoreres, kan være et heltall eller heltall "
+"atskilt med komma."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:104
 msgid "List of IRQs to ignore."
-msgstr ""
+msgstr "Liste over IRQer å ignorere."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:56
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:68
 msgid "Loading..."
-msgstr ""
+msgstr "Laster inn..."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:30
 msgid "NOT RUNNING"
-msgstr "Kjører ikke"
+msgstr "KJØRER IKKE"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:29
 msgid "RUNNING"
-msgstr "Kjører"
+msgstr "KJØRER"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:114
 msgid "Show debug output"
-msgstr ""
+msgstr "Vis feilsøkingsutdata"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:114
 msgid "Show debug output in system log."
-msgstr ""
+msgstr "Vis feilsøkingsutdata i systemloggen."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:60
 msgid "Snapshot of current IRQs"
-msgstr ""
+msgstr "Øyeblikksbilde av gjeldende IRQer"
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:43
 msgid ""
@@ -89,17 +81,19 @@ msgid ""
 "processors/cores on a multiprocessor/multicore system in order to increase "
 "performance."
 msgstr ""
+"Hensikten med irqbalance er å distribuere maskinvareavbrudd på tvers av "
+"prosessorer/kjerner på et multiprosessor/flerkjernesystem for å øke ytelsen."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:92
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:104
 msgid "Valid values: %s."
-msgstr ""
+msgstr "Gyldige verdier: %s."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:87
 msgid "Value in seconds."
-msgstr ""
+msgstr "Verdi i sekunder."
 
 #: applications/luci-app-irqbalance/htdocs/luci-static/resources/view/irqbalance.js:43
 #: applications/luci-app-irqbalance/root/usr/share/luci/menu.d/luci-app-irqbalance.json:3
 msgid "irqbalance"
-msgstr ""
+msgstr "irqbalanse"

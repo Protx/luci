@@ -1,122 +1,114 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2023-06-20 14:47+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsnlbwmon/nb_NO/>\n"
-"Language: nb_NO\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:563
 msgid "%d IPv4-only hosts"
-msgstr ""
+msgstr "%d IPv4-bare verter"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:570
 msgid "%d IPv6-only hosts"
-msgstr ""
+msgstr "%d IPv6-bare verter"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:577
 msgid "%d dual-stack hosts"
-msgstr ""
+msgstr "%d dual-stack verter"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:114
 msgid "%s and %s"
-msgstr ""
+msgstr "%s og %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:112
 msgid "%s, %s and %s"
-msgstr ""
+msgstr "%s, %s og %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:93
 msgid "-1 - Restart every last day of month"
-msgstr ""
+msgstr "-1 - Start på nytt hver siste dag i måneden"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:94
 msgid "-7 - Restart a week before end of month"
-msgstr ""
+msgstr "-7 - Start på nytt en uke før slutten av måneden"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:92
 msgid "1 - Restart every 1st of month"
-msgstr ""
+msgstr "1 - Start på nytt hver 1. i måneden"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:161
 msgid "10m - frequent commits at the expense of flash wear"
-msgstr ""
+msgstr "10m - hyppige forpliktelser på bekostning av blitzslitasje"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:160
 msgid "12h - compromise between risk of data loss and flash wear"
-msgstr ""
+msgstr "12 timer - kompromiss mellom risiko for tap av data og flash-slitasje"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:159
 msgid "24h - least flash wear at the expense of data loss risk"
-msgstr ""
+msgstr "24 timer - minst flash-slitasje på bekostning av tap av data"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:166
 msgid "30s - refresh twice per minute for reasonably current stats"
-msgstr ""
+msgstr "30s - oppdater to ganger per minutt for rimelig oppdatert statistikk"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:167
 msgid "5m - rarely refresh to avoid frequently clearing conntrack counters"
-msgstr ""
+msgstr "5m - oppdater sjelden for å unngå hyppig tømming av koblingstellere"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:162
 msgid "60s - commit minutely, useful for non-flash storage"
-msgstr ""
+msgstr "60-årene - forplikter deg omhyggelig, nyttig for lagring uten flash"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:852
 msgid "<big id=\"conn-total\">0</big> connections"
-msgstr ""
+msgstr "<big id=\"conn-total\">0</big> tilkoblinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:849
 msgid "<big id=\"host-total\">0</big> hosts"
-msgstr ""
+msgstr "<big id=\"host-total\">0</big> verter"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:942
 msgid "<big id=\"ipv6-hosts\">0%</big> IPv6 support rate among hosts"
-msgstr ""
+msgstr "<big id=\"ipv6-hosts\">0 %</big> IPv6-støttefrekvens blant verter"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:944
 msgid "<big id=\"ipv6-rx\">0B</big> total IPv6 download"
-msgstr ""
+msgstr "<big id=\"ipv6-rx\">0B</big> total IPv6-nedlasting"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:943
 msgid "<big id=\"ipv6-share\">0%</big> of the total traffic is IPv6"
-msgstr ""
+msgstr "<big id=\"ipv6-share\">0 %</big> av den totale trafikken er IPv6"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:945
 msgid "<big id=\"ipv6-tx\">0B</big> total IPv6 upload"
-msgstr ""
+msgstr "<big id=\"ipv6-tx\">0B</big> total IPv6-opplasting"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:899
 msgid "<big id=\"layer7-most-conn\">0</big> cause the most connections"
-msgstr ""
+msgstr "<big id=\"layer7-most-conn\">0</big> forårsaker flest tilkoblinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:897
 msgid "<big id=\"layer7-most-rx\">0</big> cause the most download"
-msgstr ""
+msgstr "<big id=\"layer7-most-rx\">0</big> forårsaker flest nedlastinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:898
 msgid "<big id=\"layer7-most-tx\">0</big> cause the most upload"
-msgstr ""
+msgstr "<big id=\"layer7-most-tx\">0</big> forårsaker flest opplastinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:896
 msgid "<big id=\"layer7-total\">0</big> different application protocols"
-msgstr ""
+msgstr "<big id=\"layer7-total\">0</big> forskjellige applikasjonsprotokoller"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:850
 msgid "<big id=\"rx-total\">0</big> download"
-msgstr ""
+msgstr "<big id=\"rx-total\">0</big> nedlasting"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:851
 msgid "<big id=\"tx-total\">0</big> upload"
-msgstr ""
+msgstr "<big id=\"tx-total\">0</big> opplasting"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:63
 msgid "Accounting period"
-msgstr ""
+msgstr "Regnskapsperiode"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:60
 msgid "Advanced Settings"
@@ -124,25 +116,27 @@ msgstr "Avanserte innstillinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:906
 msgid "Application"
-msgstr ""
+msgstr "Søknad"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:882
 msgid "Application Protocols"
-msgstr ""
+msgstr "Søknadsprotokoller"
 
 #: applications/luci-app-nlbwmon/root/usr/share/luci/menu.d/luci-app-nlbwmon.json:34
 msgid "Backup"
-msgstr ""
+msgstr "Sikkerhetskopiering"
 
 #: applications/luci-app-nlbwmon/root/usr/share/luci/menu.d/luci-app-nlbwmon.json:3
 msgid "Bandwidth Monitor"
-msgstr ""
+msgstr "Båndbreddemonitor"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:76
 msgid ""
-"Changing the accounting interval type will invalidate existing databases!"
-"<br /><strong><a href=\"%s\">Download backup</a></strong>."
+"Changing the accounting interval type will invalidate existing databases!<br"
+" /><strong><a href=\"%s\">Download backup</a></strong>."
 msgstr ""
+"Endring av regnskapsintervalltypen vil ugyldiggjøre eksisterende "
+"databaser!<br /><strong><a href=\"%s\">Last ned sikkerhetskopi</a></strong>."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:64
 msgid ""
@@ -150,51 +144,56 @@ msgid ""
 "specific date, e.g. every 3rd. Choose \"Fixed interval\" to restart the "
 "accounting period exactly every N days, beginning at a given date."
 msgstr ""
+"Velg \"Dag i måneden\" for å starte regnskapsperioden på nytt månedlig på en"
+" bestemt dato, f.eks. hver 3. Velg \"Fast intervall\" for å starte "
+"regnskapsperioden på nytt nøyaktig hver N dag, med start på en gitt dato."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:869
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:915
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:962
 msgid "Collecting data..."
-msgstr "Samler inn data…"
+msgstr "Samler inn data..."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:157
 msgid "Commit interval"
-msgstr ""
+msgstr "Forpliktelsesintervall"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:151
 msgid "Compress database"
-msgstr ""
+msgstr "Komprimer databasen"
 
 #: applications/luci-app-nlbwmon/root/usr/share/luci/menu.d/luci-app-nlbwmon.json:25
 msgid "Configuration"
-msgstr "Oppsett"
+msgstr "Konfigurasjon"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:628
 msgid "Conn."
-msgstr ""
+msgstr "Conn."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:861
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:907
 msgid "Connections"
-msgstr ""
+msgstr "Tilkoblinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:843
 msgid "Connections / Host"
-msgstr ""
+msgstr "Tilkoblinger / Vert"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:169
 msgid "Database directory"
-msgstr ""
+msgstr "Databasekatalog"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:170
 msgid ""
 "Database storage directory. One file per accounting period will be placed "
 "into this directory."
 msgstr ""
+"Database lagringskatalog. Én fil per regnskapsperiode vil bli plassert i "
+"denne katalogen."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:72
 msgid "Day of month"
-msgstr ""
+msgstr "Dag i måneden"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:84
 msgid ""
@@ -202,22 +201,25 @@ msgid ""
 "towards the end of month, e.g. \"-5\" to specify the 27th of July or the "
 "24th of February."
 msgstr ""
+"Dag i måneden for å starte regnskapsperioden på nytt. Bruk negative verdier "
+"for å telle mot slutten av måneden, f.eks. \"-5\" for å spesifisere 27. juli"
+" eller 24. februar."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:24
 msgid "Dismiss"
-msgstr "Avslå"
+msgstr "Lukk"
 
 #: applications/luci-app-nlbwmon/root/usr/share/luci/menu.d/luci-app-nlbwmon.json:16
 msgid "Display"
-msgstr ""
+msgstr "Utstilling"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:629
 msgid "Down. (Bytes)"
-msgstr ""
+msgstr "Ned. (Bytes)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:630
 msgid "Down. (Pkts.)"
-msgstr ""
+msgstr "Ned. (Pkts.)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:611
 msgctxt "Traffic counter"
@@ -228,33 +230,33 @@ msgstr "Last ned"
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:908
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:955
 msgid "Download (Bytes)"
-msgstr ""
+msgstr "Last ned (Bytes)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:863
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:909
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:956
 msgid "Download (Packets)"
-msgstr ""
+msgstr "Last ned (pakker)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:885
 msgid "Download / Application"
-msgstr ""
+msgstr "Last ned / Applikasjon"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:59
 msgid "Download Database Backup"
-msgstr ""
+msgstr "Last ned sikkerhetskopi av database"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:936
 msgid "Dualstack enabled hosts"
-msgstr ""
+msgstr "Dualstack-aktiverte verter"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:83
 msgid "Due date"
-msgstr ""
+msgstr "Forfallsdato"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:1005
 msgid "Dump (JSON)"
-msgstr ""
+msgstr "Dump (JSON)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:975
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:983
@@ -262,37 +264,37 @@ msgstr ""
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:1001
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:1010
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:804
 msgid "Failed to commit database: %s"
-msgstr ""
+msgstr "Kunne ikke commit database: %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:45
 msgid "Failed to download backup archive: %s"
-msgstr ""
+msgstr "Kunne ikke laste ned sikkerhetskopiarkivet: %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:793
 msgid "Failed to download traffic data: %s"
-msgstr ""
+msgstr "Kunne ikke laste ned trafikkdata: %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:28
 msgid "Failed to restore backup archive: %s"
-msgstr ""
+msgstr "Kunne ikke gjenopprette sikkerhetskopieringsarkivet: %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:954
 msgid "Family"
-msgstr ""
+msgstr "Familie"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:73
 msgid "Fixed interval"
-msgstr ""
+msgstr "Fast intervall"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:877
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:923
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:970
 msgid "Force reload…"
-msgstr ""
+msgstr "Tving gjenopplasting..."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:59
 msgid "General Settings"
@@ -300,23 +302,23 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:64
 msgid "Generate Backup"
-msgstr ""
+msgstr "Generer sikkerhetskopi"
 
 #: applications/luci-app-nlbwmon/root/usr/share/rpcd/acl.d/luci-app-nlbwmon.json:3
 msgid "Grant UCI access for luci-app-nlbwmon"
-msgstr ""
+msgstr "Gi UCI-tilgang for luci-app-nlbwmon"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:987
 msgid "Grouped by IP (CSV)"
-msgstr ""
+msgstr "Gruppert etter IP (CSV)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:978
 msgid "Grouped by MAC (CSV)"
-msgstr ""
+msgstr "Gruppert etter MAC (CSV)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:996
 msgid "Grouped by protocol (CSV)"
-msgstr ""
+msgstr "Gruppert etter protokoll (CSV)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:859
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:952
@@ -325,7 +327,7 @@ msgstr "Vert"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:620
 msgid "Hostname: <big id=\"bubble-hostname\">example.org</big>"
-msgstr ""
+msgstr "Vertsnavn: <big id=\"bubble-hostname\">example.org</big>"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:507
 msgid "IPv4"
@@ -333,7 +335,7 @@ msgstr "IPv4"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:931
 msgid "IPv4 vs. IPv6"
-msgstr ""
+msgstr "IPv4 vs. IPv6"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:508
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:928
@@ -342,31 +344,35 @@ msgstr "IPv6"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:111
 msgid "Interval"
-msgstr ""
+msgstr "Intervall"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:158
 msgid ""
 "Interval at which the temporary in-memory database is committed to the "
 "persistent database directory."
 msgstr ""
+"Intervall som den midlertidige databasen i minnet er forpliktet til den "
+"vedvarende databasekatalogen."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:165
 msgid ""
 "Interval at which traffic counters of still established connections are "
 "refreshed from netlink information."
 msgstr ""
+"Intervall hvor trafikktellere for fortsatt etablerte forbindelser oppdateres"
+" fra nettlinkinformasjon."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:112
 msgid "Length of accounting interval in days."
-msgstr ""
+msgstr "Lengde på regnskapsintervall i dager."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:123
 msgid "Local interfaces"
-msgstr ""
+msgstr "Lokale grensesnitt"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:132
 msgid "Local subnets"
-msgstr ""
+msgstr "Lokale undernett"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:860
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:953
@@ -375,47 +381,50 @@ msgstr "MAC"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:76
 msgid "Malformed data received"
-msgstr ""
+msgstr "Feilaktige data mottatt"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:144
 msgid "Maximum entries"
-msgstr ""
+msgstr "Maksimalt antall oppføringer"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:155
 msgid ""
 "Maximum number of accounting periods to keep, use zero to keep databases "
 "forever."
 msgstr ""
+"Maksimalt antall regnskapsperioder å beholde, bruk null for å beholde "
+"databaser for alltid."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:831
 msgid "Netlink Bandwidth Monitor"
-msgstr ""
+msgstr "Netlink båndbreddemonitor"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:51
 msgid "Netlink Bandwidth Monitor - Backup / Restore"
-msgstr ""
+msgstr "Netlink Bandwidth Monitor - Sikkerhetskopiering/gjenoppretting"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:52
 msgid "Netlink Bandwidth Monitor - Configuration"
-msgstr ""
+msgstr "Netlink Bandwidth Monitor - Konfigurasjon"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:362
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:416
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:542
 msgid "No data recorded yet."
-msgstr ""
+msgstr "Ingen data registrert ennå."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:124
 msgid "Only conntrack streams from or to any of these networks are counted."
-msgstr ""
+msgstr "Bare koblingsstrømmer fra eller til noen av disse nettverkene telles."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:133
 msgid "Only conntrack streams from or to any of these subnets are counted."
 msgstr ""
+"Bare koblingsstrømmer fra eller til noen av disse undernettene telles."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:147
 msgid "Preallocate database"
-msgstr ""
+msgstr "Forhåndstildel database"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:339
 msgid "Protocol"
@@ -423,7 +432,7 @@ msgstr "Protokoll"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:61
 msgid "Protocol Mapping"
-msgstr ""
+msgstr "Protokollkartlegging"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:61
 msgid ""
@@ -431,85 +440,93 @@ msgid ""
 "line. The first value specifies the IP protocol, the second value the port "
 "number and the third column is the name of the mapped protocol."
 msgstr ""
+"Protokolltilordninger for å skille trafikktyper per vert, én tilordning per "
+"linje. Den første verdien spesifiserer IP-protokollen, den andre verdien "
+"portnummeret og den tredje kolonnen er navnet på den tilordnede protokollen."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:164
 msgid "Refresh interval"
-msgstr ""
+msgstr "Oppdateringsintervall"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:106
 msgid "Require a valid date in the form \"YYYY-MM-DD\""
-msgstr ""
+msgstr "Krev en gyldig dato i skjemaet \"ÅÅÅÅ-MM-DD\""
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:57
 msgid "Restore"
-msgstr ""
+msgstr "Gjenopprett"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:52
 msgid "Restore Database Backup"
-msgstr ""
+msgstr "Gjenopprett sikkerhetskopi av database"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:20
 msgid "Restore complete"
-msgstr ""
+msgstr "Gjenopprettingen er fullført"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:285
 msgid "Select accounting period:"
-msgstr ""
+msgstr "Velg regnskapsperiode:"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:334
 msgid "Source IP"
-msgstr ""
+msgstr "Kilde IP"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:96
 msgid "Start date"
-msgstr ""
+msgstr "Startdato"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:97
 msgid "Start date of the first accounting period, e.g. begin of ISP contract."
 msgstr ""
+"Startdato for første regnskapsperiode, f.eks. begynnelsen av ISP-kontrakten."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:154
 msgid "Stored periods"
-msgstr ""
+msgstr "Lagrede perioder"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:53
 msgid ""
 "The Netlink Bandwidth Monitor (nlbwmon) is a lightweight, efficient traffic "
 "accounting program keeping track of bandwidth usage per host and protocol."
 msgstr ""
+"Netlink Bandwidth Monitor (nlbwmon) er et lett, effektivt "
+"trafikkregnskapsprogram som holder styr på båndbreddebruk per vert og "
+"protokoll."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/backup.js:21
 msgid "The following database files have been restored:"
-msgstr ""
+msgstr "Følgende databasefiler er gjenopprettet:"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:145
 msgid ""
 "The maximum amount of entries that should be put into the database, setting "
 "the limit to 0 will allow databases to grow indefinitely."
 msgstr ""
+"Det maksimale antallet oppføringer som bør legges inn i databasen, ved å "
+"sette grensen til 0 vil tillate databaser å vokse i det uendelige."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:838
 msgid "Traffic / Host"
-msgstr ""
+msgstr "Trafikk / vert"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:835
 msgid "Traffic Distribution"
-msgstr ""
+msgstr "Trafikkdistribusjon"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:92
 msgid "Unable to fetch traffic statistic data: %s"
-msgstr ""
+msgstr "Kan ikke hente trafikkstatistikkdata: %s"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:631
 msgid "Up. (Bytes)"
-msgstr ""
+msgstr "Opp. (Bytes)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:632
 msgid "Up. (Pkts.)"
-msgstr ""
+msgstr "Opp. (Pkts.)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:615
-#, fuzzy
 msgctxt "Traffic counter"
 msgid "Upload"
 msgstr "Last opp"
@@ -518,21 +535,21 @@ msgstr "Last opp"
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:910
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:957
 msgid "Upload (Bytes)"
-msgstr ""
+msgstr "Last opp (Bytes)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:865
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:911
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:958
 msgid "Upload (Packets)"
-msgstr ""
+msgstr "Last opp (pakker)"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:890
 msgid "Upload / Application"
-msgstr ""
+msgstr "Last opp / Søknad"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:621
 msgid "Vendor: <big id=\"bubble-vendor\">Example Corp.</big>"
-msgstr ""
+msgstr "Leverandør: <big id=\"bubble-vendor\">Example Corp.</big>"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:75
 msgid "Warning"
@@ -544,17 +561,23 @@ msgid ""
 "makes accessing old data slightly slower but helps to reduce storage "
 "requirements."
 msgstr ""
+"Om du skal gzip-komprimere arkivdatabaser. Komprimering av databasefilene "
+"gjør tilgangen til gamle data litt tregere, men bidrar til å redusere "
+"lagringskravene."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/config.js:148
 msgid ""
-"Whether to preallocate the maximum possible database size in memory. This is "
-"mainly useful for memory constrained systems which might not be able to "
+"Whether to preallocate the maximum possible database size in memory. This is"
+" mainly useful for memory constrained systems which might not be able to "
 "satisfy memory allocation after longer uptime periods."
 msgstr ""
+"Hvorvidt maksimalt mulig databasestørrelse skal forhåndstildeles i minnet. "
+"Dette er hovedsakelig nyttig for minnebegrensede systemer som kanskje ikke "
+"kan tilfredsstille minnetildeling etter lengre oppetidsperioder."
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:130
 msgid "no traffic"
-msgstr ""
+msgstr "ingen trafikk"
 
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:335
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:388
@@ -564,4 +587,4 @@ msgstr ""
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:653
 #: applications/luci-app-nlbwmon/htdocs/luci-static/resources/view/nlbw/display.js:658
 msgid "other"
-msgstr ""
+msgstr "annen"

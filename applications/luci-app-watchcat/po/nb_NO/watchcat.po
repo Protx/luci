@@ -1,25 +1,21 @@
+#
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-01-26 16:51+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationswatchcat/nb_NO/>\n"
-"Language: nb_NO\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:94
 msgid ""
 "<i>Applies to Ping Reboot and Periodic Reboot modes</i> <br /> When "
-"rebooting the router, the service will trigger a soft reboot. Entering a non-"
-"zero value here will trigger a delayed hard reboot if the soft reboot were "
-"to fail. Enter the number of seconds to wait for the soft reboot to fail or "
-"use 0 to disable the forced reboot delay."
+"rebooting the router, the service will trigger a soft reboot. Entering a "
+"non-zero value here will trigger a delayed hard reboot if the soft reboot "
+"were to fail. Enter the number of seconds to wait for the soft reboot to "
+"fail or use 0 to disable the forced reboot delay."
 msgstr ""
+"<i>Gjelder ping-omstart- og periodisk omstart-modus</i> <br /> Når du "
+"starter ruteren på nytt, vil tjenesten utløse en myk omstart. Angi en verdi "
+"som ikke er null her vil utløse en forsinket hard omstart hvis den myke "
+"omstarten skulle mislykkes. Angi antall sekunder som skal vente på at myk "
+"omstart mislykkes, eller bruk 0 for å deaktivere tvungen "
+"omstartsforsinkelse."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:111
 msgid ""
@@ -27,35 +23,38 @@ msgid ""
 "ModemManager, you can have Watchcat restart your ModemManager interface by "
 "specifying its name."
 msgstr ""
+"<i>Gjelder Ping Reboot og Restart Interface-moduser</i> <br /> Hvis du "
+"bruker ModemManager, kan du få Watchcat til å starte ModemManager-"
+"grensesnittet på nytt ved å spesifisere navnet."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:104
 msgid ""
-"<i>Applies to Ping Reboot, Restart Interface, and Run Script modes</i> <br /"
-"> Specify the interface to monitor and react if a ping over it fails."
+"<i>Applies to Ping Reboot, Restart Interface, and Run Script modes</i> <br "
+"/> Specify the interface to monitor and react if a ping over it fails."
 msgstr ""
-"<i>Gjelder for Ping Restart, Restart Grensesnitt og Kjør Skript</i> <br /> "
+"<i>Gjelder modusene Ping Reboot, Restart Interface og Run Script</i> <br /> "
 "Spesifiser grensesnittet for å overvåke og reagere hvis en ping over det "
 "mislykkes."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:60
 msgid "Address family for pinging the host"
-msgstr "Adressefamilie til pinging av verten"
+msgstr "Adresse familien for å pinge verten"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:65
 msgid "Any"
-msgstr ""
+msgstr "Noen"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:84
 msgid "Big: 248 bytes"
-msgstr ""
+msgstr "Stor: 248 byte"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:70
 msgid "Check Interval"
-msgstr ""
+msgstr "Sjekk intervall"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:93
 msgid "Force Reboot Delay"
-msgstr ""
+msgstr "Tving forsinkelse på omstart"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:19
 msgid "General Settings"
@@ -63,7 +62,7 @@ msgstr "Generelle innstillinger"
 
 #: applications/luci-app-watchcat/root/usr/share/rpcd/acl.d/luci-app-watchcat.json:3
 msgid "Grant access to LuCI app watchcat"
-msgstr ""
+msgstr "Gi tilgang til LuCI app watchcat"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:12
 msgid ""
@@ -71,34 +70,45 @@ msgid ""
 "host becomes unreachable. Click the <b>Add</b> button at the bottom to set "
 "up more than one action."
 msgstr ""
+"Her kan du sette opp flere kontroller og handlinger som skal utføres i "
+"tilfelle en vert blir utilgjengelig. Klikk <b>Legg til</b>-knappen nederst "
+"for å konfigurere mer enn én handling."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:52
 msgid "Host To Check"
-msgstr ""
+msgstr "Vert å sjekke"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:71
 msgid ""
 "How often to ping the host specified above. <br /><br />The default unit is "
 "seconds, without a suffix, but you can use the suffix <b>m</b> for minutes, "
 "<b>h</b> for hours or <b>d</b> for days. <br /><br /> Examples:<ul><li>10 "
-"seconds would be: <b>10</b> or <b>10s</b></li><li>5 minutes would be: <b>5m</"
-"b></li><li>1 hour would be: <b>1h</b></li><li>1 week would be: <b>7d</b></"
-"li><ul>"
+"seconds would be: <b>10</b> or <b>10s</b></li><li>5 minutes would be: "
+"<b>5m</b></li><li>1 hour would be: <b>1h</b></li><li>1 week would be: "
+"<b>7d</b></li><ul>"
 msgstr ""
+"Hvor ofte skal du pinge verten spesifisert ovenfor. <br /><br "
+"/>Standardenheten er sekunder, uten suffiks, men du kan bruke suffikset "
+"<b>m</b> for minutter, <b>h</b> for timer eller <b>d </b> i flere dager. <br"
+" /><br /> Eksempler:<ul><li>10 sekunder vil være: <b>10</b> eller "
+"<b>10s</b></li><li>5 minutter vil være: <b>5m</b></li><li>1 time vil være: "
+"<b>1t</b></li><li>1 uke vil være: <b>7d</b></ li><ul>"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:85
 msgid "Huge: 1492 bytes"
-msgstr ""
+msgstr "Stor: 1492 byte"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:52
 msgid "IP address or hostname to ping."
-msgstr ""
+msgstr "IP-adresse eller vertsnavn for å pinge."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:118
 msgid ""
 "If using ModemManager, then before restarting the interface, set the modem "
 "to be allowed to use any band."
 msgstr ""
+"Hvis du bruker ModemManager, før du starter grensesnittet på nytt, må du "
+"angi at modemet skal kunne bruke hvilket som helst bånd."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:41
 msgid ""
@@ -106,25 +116,35 @@ msgid ""
 "Reboot mode, it defines the longest period of time without a reply from the "
 "Host To Check before a reboot is engaged. <br /> In Network Restart or Run "
 "Script mode, it defines the longest period of time without a reply from the "
-"Host to Check before the interface is restarted or the script is run. <br /"
-"><br />The default unit is seconds, without a suffix, but you can use the "
-"suffix <b>m</b> for minutes, <b>h</b> for hours or <b>d</b> for days. <br /"
-"><br />Examples:<ul><li>10 seconds would be: <b>10</b> or <b>10s</b></"
-"li><li>5 minutes would be: <b>5m</b></li><li> 1 hour would be: <b>1h</b></"
-"li><li>1 week would be: <b>7d</b></li><ul>"
+"Host to Check before the interface is restarted or the script is run. <br "
+"/><br />The default unit is seconds, without a suffix, but you can use the "
+"suffix <b>m</b> for minutes, <b>h</b> for hours or <b>d</b> for days. <br "
+"/><br />Examples:<ul><li>10 seconds would be: <b>10</b> or "
+"<b>10s</b></li><li>5 minutes would be: <b>5m</b></li><li> 1 hour would be: "
+"<b>1h</b></li><li>1 week would be: <b>7d</b></li><ul>"
 msgstr ""
+"I periodisk omstart-modus definerer den hvor ofte som skal startes på nytt. "
+"<br /> I Ping Reboot-modus definerer den den lengste tidsperioden uten svar "
+"fra Host To Check før en omstart aktiveres. <br /> I Nettverksstart eller "
+"Kjør skript-modus, definerer den den lengste tidsperioden uten svar fra "
+"vertskontrollen før grensesnittet startes på nytt eller skriptet kjøres. <br"
+" /><br />Standardenheten er sekunder, uten suffiks, men du kan bruke "
+"suffikset <b>m</b> for minutter, <b>h</b> for timer eller <b>d </b> i flere "
+"dager. <br /><br />Eksempler:<ul><li>10 sekunder vil være: <b>10</b> eller "
+"<b>10s</b></li><li>5 minutter vil være: <b>5m</b></li><li> 1 time vil være: "
+"<b>1t</b></li><li>1 uke vil være: <b>7d</b></ li><ul>"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:102
 msgid "Interface"
-msgstr ""
+msgstr "Grensesnitt"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:103
 msgid "Interface to monitor and/or restart"
-msgstr ""
+msgstr "Grensesnitt for å overvåke og/eller starte på nytt"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:86
 msgid "Jumbo: 9000 bytes"
-msgstr ""
+msgstr "Jumbo: 9000 byte"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:22
 msgid "Mode"
@@ -132,88 +152,85 @@ msgstr "Modus"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:110
 msgid "Name of ModemManager Interface"
-msgstr ""
+msgstr "Navn på ModemManager-grensesnitt"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:40
 msgid "Period"
-msgstr ""
-"Watchcat tillater oppsett av periodisk omstart når tilknytningen til "
-"Internett har gått tapt en gitt periode."
+msgstr "Periode"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:28
 msgid "Periodic Reboot"
-msgstr ""
+msgstr "Periodisk omstart"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:80
 msgid "Ping Packet Size"
-msgstr ""
+msgstr "Ping-pakkestørrelse"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:27
 msgid "Ping Reboot"
-msgstr ""
+msgstr "Ping omstart"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:23
 msgid ""
 "Ping Reboot: Reboot this device if a ping to a specified host fails for a "
-"specified duration of time. <br /> Periodic Reboot: Reboot this device after "
-"a specified interval of time. <br /> Restart Interface: Restart a network "
+"specified duration of time. <br /> Periodic Reboot: Reboot this device after"
+" a specified interval of time. <br /> Restart Interface: Restart a network "
 "interface if a ping to a specified host fails for a specified duration of "
 "time. <br /> Run Script: Run a script if a ping to a specified host fails "
 "for a specified duration of time. <br />"
 msgstr ""
+"Ping omstart: Start denne enheten på nytt hvis et ping til en spesifisert "
+"vert mislykkes i en spesifisert tidsperiode. <br /> Periodisk omstart: Start"
+" denne enheten på nytt etter et spesifisert tidsintervall. <br /> Start "
+"grensesnitt på nytt: Start et nettverksgrensesnitt på nytt hvis en ping til "
+"en spesifisert vert mislykkes i en spesifisert tidsperiode. <br /> Kjør "
+"skript: Kjør et skript hvis en ping til en spesifisert vert mislykkes i en "
+"spesifisert tidsperiode. <br />"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:29
 msgid "Restart Interface"
-msgstr ""
+msgstr "Start grensesnittet på nytt"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:30
 msgid "Run Script"
-msgstr ""
+msgstr "Kjør script"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:33
 msgid "Script to run"
-msgstr ""
+msgstr "Skript som skal kjøres"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:34
 msgid ""
 "Script to run when the host has not responded for the specified duration of "
 "time. The script is passed the interface name as $1"
 msgstr ""
+"Skript som skal kjøres når verten ikke har svart i den angitte tidsperioden."
+" Skriptet sendes grensesnittnavnet som $1"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:81
 msgid "Small: 1 byte"
-msgstr ""
+msgstr "Liten: 1 byte"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:83
 msgid "Standard: 56 bytes"
-msgstr ""
+msgstr "Standard: 56 byte"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:15
 msgid "These rules will govern how this device reacts to network events."
 msgstr ""
+"Disse reglene vil styre hvordan denne enheten reagerer på "
+"nettverkshendelser."
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:117
 msgid "Unlock Modem Bands"
-msgstr ""
+msgstr "Lås opp modembånd"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:11
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:15
 #: applications/luci-app-watchcat/root/usr/share/luci/menu.d/luci-app-watchcat.json:3
 msgid "Watchcat"
-msgstr ""
+msgstr "Watchcat"
 
 #: applications/luci-app-watchcat/htdocs/luci-static/resources/view/watchcat.js:82
 msgid "Windows: 32 bytes"
-msgstr ""
-"Ved omstart av systemet vil watchcat utløse en myk omstart. Å skrive inn et "
-"tall annet enn null her vil utløse en forsinket hard omstart hvis den mye "
-"misslykkes. Skriv inn antall sekunder for å skru på, og 0 for å skru av."
-
-#~ msgid "Forced reboot delay"
-#~ msgstr "Påtvingt omstartsforsinkelse"
-
-#~ msgid "Grant UCI access for luci-app-watchcat"
-#~ msgstr "Innvilg UCI-tilgang for luci-app-watchcat"
-
-#~ msgid "Operating mode"
-#~ msgstr "Driftsmodus"
+msgstr "Windows: 32 byte"
